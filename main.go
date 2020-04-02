@@ -92,7 +92,7 @@ func postArticle(article *Article) {
 	if err != nil {
 		log.Fatal(err)
 	}
-	if resp.StatusCode != http.StatusCreated {
+	if resp.StatusCode != http.StatusOK && resp.StatusCode != http.StatusCreated {
 		log.Fatalf("Unexpected response with code %d:\n%s", resp.StatusCode, body)
 	}
 }
