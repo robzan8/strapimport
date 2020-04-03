@@ -3,8 +3,8 @@ package main
 import (
 	"bytes"
 	"encoding/json"
-	"encoding/xml"
 	"flag"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -13,15 +13,8 @@ import (
 	"strings"
 )
 
-type Blog struct {
-	Articles []Article `xml:"channel>item"`
-}
-
 type Article struct {
-	Title   string `xml:"title"`
-	Slug    string `xml:"-"`
-	Excerpt string `xml:"excerpt"`
-	Content string `xml:"content"`
+	Title, Slug, Excerpt, Content string
 }
 
 func slugOf(title string) string {
@@ -32,6 +25,7 @@ func slugOf(title string) string {
 	title = punct.ReplaceAllString(title, "")
 	title = strings.ToLower(title)
 	title = strings.ReplaceAll(title, " ", "-")
+	title = strings.ReplaceAll(title, "--", "-")
 	return title
 }
 
@@ -40,32 +34,48 @@ var (
 	client http.Client
 )
 
-const (
-	blogFile = "gnucoop_blog.xml"
-	postUrl  = "https://webdata.gnucoop.io/articles"
-)
+const postUrl = "https://webdata.gnucoop.io/articles"
 
 func main() {
 	flag.StringVar(&token, "token", "", "auth token")
 	flag.Parse()
 	log.SetFlags(0)
 
-	var blog Blog
+	/* read blog from gnucoop_blog.json
+	var blog []Article
 	f, err := os.Open(blogFile)
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer f.Close()
-	dec := xml.NewDecoder(f)
+	dec := json.NewDecoder(f)
 	err = dec.Decode(&blog)
 	if err != nil {
 		log.Fatal(err)
 	}
-	for i := range blog.Articles {
-		article := &blog.Articles[i]
+	for i := range blog {
+		article := &blog[i]
 		article.Slug = slugOf(article.Title)
-		postArticle(article)
+		//postArticle(article)
+	}*/
+
+	f, err := os.Create("gnucoop_blog.go")
+	if err != nil {
+		log.Fatal(err)
 	}
+	f.WriteString("package main\n\n")
+	f.WriteString("var blog = []Article{\n")
+	for _, article := range blog {
+		f.WriteString("{\n")
+		fmt.Fprintf(f, "Title: %q,\n", article.Title)
+		fmt.Fprintf(f, "Slug: %q,\n", article.Slug)
+		fmt.Fprintf(f, "Excerpt: %q,\n", article.Excerpt)
+		f.WriteString("Content: `")
+		f.WriteString(article.Content)
+		f.WriteString("`,\n")
+		f.WriteString("},\n")
+	}
+	f.WriteString("}\n")
 }
 
 func postArticle(article *Article) {
