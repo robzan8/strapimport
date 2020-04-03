@@ -58,16 +58,6 @@ For more tips on mhealth projects, read the toolkit:
 https://www.gnucoop.com/mobile-health-technology-key-practices-for-drr-implementers/`,
 	},
 	{
-		Title:   "Refugees and connectivity via @GSMA",
-		Slug:    "refugees-and-connectivity-via-gsma",
-		Excerpt: "",
-		Content: `[vc_row][vc_column][vc_column_text]
-
-I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-
-[/vc_column_text][/vc_column][/vc_row]`,
-	},
-	{
 		Title:   "Tratti di china: a Chinese audio blog!",
 		Slug:    "tratti-di-china-a-chinese-audio-blog",
 		Excerpt: "",
