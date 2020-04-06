@@ -7,7 +7,7 @@ var blog = []Article{
 		Excerpt: "",
 		Content: `Il 30 ottobre ONG 2.0 e CISV presentano il nuovo sito di ONG 2.0 in un evento in streaming con interventi dal Senegal, dal Burkina Faso, dalla Colombia e dall’Italia.
 
-La cooperazione è cambiata. <a href="https://twitter.com/hashtag/aggiornalavaligia?src=hash">#aggiornalavaligia</a> con <a href="https://twitter.com/ong2zero">@ong2zero</a> <a href="http://t.co/YvDI0zyO2v">http://t.co/YvDI0zyO2v</a></p>&mdash; Ong 2.0 (@ong2zero) <a href="https://twitter.com/ong2zero/status/524533916452290560">21 Ottobre 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>`,
+<blockquote>La cooperazione è cambiata. <a href="https://twitter.com/hashtag/aggiornalavaligia?src=hash">#aggiornalavaligia</a> con <a href="https://twitter.com/ong2zero">@ong2zero</a> <a href="http://t.co/YvDI0zyO2v">http://t.co/YvDI0zyO2v</a></p>&mdash; Ong 2.0 (@ong2zero) <a href="https://twitter.com/ong2zero/status/524533916452290560">21 Ottobre 2014</a></blockquote>`,
 	},
 	{
 		Title:   "More than 70% of Teachers Increase Confidence in Delivering Interesting Lessons through ICT",
@@ -17,9 +17,7 @@ La cooperazione è cambiata. <a href="https://twitter.com/hashtag/aggiornalavali
 
 See more at:
 
-<a href="http://www.iicd.org/articles/more-than-70-of-teachers-increase-confidence-in-delivering-interesting-lessons-through-ict#sthash.TXoZylLt.dpuf">http://www.iicd.org/articles/more-than-70-of-teachers-increase-confidence-in-delivering-interesting-lessons-through-ict#sthash.TXoZylLt.dpuf</a>
-
-&nbsp;`,
+<a href="http://www.iicd.org/articles/more-than-70-of-teachers-increase-confidence-in-delivering-interesting-lessons-through-ict#sthash.TXoZylLt.dpuf">http://www.iicd.org/articles/more-than-70-of-teachers-increase-confidence-in-delivering-interesting-lessons-through-ict#sthash.TXoZylLt.dpuf</a>`,
 	},
 	{
 		Title:   "GPHI2 promote the development of innovative solutions to humanitarian challenges",
@@ -47,11 +45,11 @@ The system was implemented for a couple of years, under UNICEF and DIPECHO funds
 
 technology is not the solution but it is a tool/mean that can help to achieve the set targets;
 
-specific human resources should be dedicated by the implementing organisation to manage and monitor an mhealth (or ICT4D) project ;
+specific human resources should be dedicated by the implementing organisation to manage and monitor an mhealth (or ICT4D) project;
 
 national authorities should be involved in all the phases of the project, from the design and data collection to the scaling up;
 
-users’ feedback needs to be collected in order to improve the system over time.
+users' feedback needs to be collected in order to improve the system over time.
 
 For more tips on mhealth projects, read the toolkit:
 
@@ -1669,7 +1667,7 @@ Exhibitors at the tech fair, among others, included: Aptivate, Akvo Foundation, 
 For more info, check out the <a href="https://www.ifad.org/evaluation/event/tags/ict_for_dev/y2017/36103920">website</a> of the Conference.
 
 A brief storify fo these two very inspiring days!
-<div class="storify"><iframe src="//storify.com/gnucoop/ict4evaluation-conference-at-ifad-6-7-june-2017/embed?border=false" width="100%" height="750" frameborder="no"></iframe><script src="//storify.com/gnucoop/ict4evaluation-conference-at-ifad-6-7-june-2017.js?border=false"></script><noscript>[<a href="//storify.com/gnucoop/ict4evaluation-conference-at-ifad-6-7-june-2017" target="_blank">View the story "#ICT4Evaluation conference at IFAD, 6-7 June 2017" on Storify</a>]</noscript></div>
+<div class="storify"><iframe src="//storify.com/gnucoop/ict4evaluation-conference-at-ifad-6-7-june-2017/embed?border=false" width="100%" height="750" frameborder="no"></iframe>[<a href="//storify.com/gnucoop/ict4evaluation-conference-at-ifad-6-7-june-2017" target="_blank">View the story "#ICT4Evaluation conference at IFAD, 6-7 June 2017" on Storify</a>]</div>
 [/vc_column_text][/vc_column][/vc_row]`,
 	},
 	{
