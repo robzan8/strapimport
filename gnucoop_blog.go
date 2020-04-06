@@ -59,23 +59,23 @@ https://www.gnucoop.com/mobile-health-technology-key-practices-for-drr-implement
 		Title:   "Tratti di china: a Chinese audio blog!",
 		Slug:    "tratti-di-china-a-chinese-audio-blog",
 		Excerpt: "",
-		Content: `<span style="font-weight: 400;">Teaching culture is essential to language teaching and learning.  Teacher's should have been taught culture as well when they were learning the language themselves. Therefore it should not be a problem to them. And what if his formation was not ideal? This teacher has many resources today to acquire more knowledge about that culture or of some culture of countries that uses that language he is teaching. When teaching international students Mandarin, teachers should not just teach the language, grammar, but the Chinese cultural dissemination needs to be included as well, which is extremely important because the language reflects the cultural exchange. Culture is a necessary condition for language learning, which can help students better understand Chinese.</span>
+		Content: `Teaching culture is essential to language teaching and learning.  Teacher's should have been taught culture as well when they were learning the language themselves. Therefore it should not be a problem to them. And what if his formation was not ideal? This teacher has many resources today to acquire more knowledge about that culture or of some culture of countries that uses that language he is teaching. When teaching international students Mandarin, teachers should not just teach the language, grammar, but the Chinese cultural dissemination needs to be included as well, which is extremely important because the language reflects the cultural exchange. Culture is a necessary condition for language learning, which can help students better understand Chinese.
 
-<i><span style="font-weight: 400;">Tratti di China</span></i><span style="font-weight: 400;"> is the answer to this necessity. It’s an audio Chinese lessons course, it focuses on listening and reading skill, but it also includes many activities that help learners prepare for speaking and writing. Registering on </span><a href="http://www.trattidichina.it/chi-siamo/"><span style="font-weight: 400;">our website</span></a><span style="font-weight: 400;">, users can obtain free access to news, audio course and grammar lessons and a book with the whole content of the audio course will be delivered  immediately for free. </span>
-<span style="font-weight: 400;">Chapter 1: The Chinese language</span>
-<span style="font-weight: 400;">Chapter 2: Everyday life and social behaviour</span>
-<span style="font-weight: 400;">Chapter 3: Cultural table manners</span>
-<span style="font-weight: 400;">Chapter 4: Philosophies, religions and folklore</span>
-<span style="font-weight: 400;">Chapter 5: Tradition</span>
-<span style="font-weight: 400;">Chapter 6: Traditional Chinese thought and contemporary society</span>
-<span style="font-weight: 400;">Chapter 7: The phenomenon of migration</span>
-<span style="font-weight: 400;">Each chapter includes texts differentiated by </span><a href="http://www.hsk-english.ch/"><span style="font-weight: 400;">HSK</span></a><span style="font-weight: 400;"> level, vocabulary, a table with HSK vocabulary, activities and exercises. </span><img class=" wp-image-3265 alignleft" src="https://www.gnucoop.com/wp-content/uploads/2017/07/ritratto-di-Confucio_Huang-Shen_din-Qing_museo-di-Shanghai-576x1024.jpg" alt="" width="449" height="798" /><i></i>
+<i>Tratti di China</i> is the answer to this necessity. It’s an audio Chinese lessons course, it focuses on listening and reading skill, but it also includes many activities that help learners prepare for speaking and writing. Registering on <a href="http://www.trattidichina.it/chi-siamo/">our website</a>, users can obtain free access to news, audio course and grammar lessons and a book with the whole content of the audio course will be delivered  immediately for free. 
+Chapter 1: The Chinese language
+Chapter 2: Everyday life and social behaviour
+Chapter 3: Cultural table manners
+Chapter 4: Philosophies, religions and folklore
+Chapter 5: Tradition
+Chapter 6: Traditional Chinese thought and contemporary society
+Chapter 7: The phenomenon of migration
+Each chapter includes texts differentiated by <a href="http://www.hsk-english.ch/">HSK</a> level, vocabulary, a table with HSK vocabulary, activities and exercises. <img class=" wp-image-3265 alignleft" src="https://www.gnucoop.com/wp-content/uploads/2017/07/ritratto-di-Confucio_Huang-Shen_din-Qing_museo-di-Shanghai-576x1024.jpg" alt="" width="449" height="798" /><i></i>
 <em>Confucio_Huang Shen_din Qing_Shanghai Museum</em><img class="alignright wp-image-3266" src="https://www.gnucoop.com/wp-content/uploads/2017/07/tipico-simbolo-di-fortuna-su-una-porta-cinese-548x1024.jpg" alt="" width="481" height="900" />
-<em>Symbol of good luck on a Chinese door</em><span style="font-weight: 400;">Authors.</span>
+<em>Symbol of good luck on a Chinese door</em>Authors.
 
-<b><i>Zu Xujun</i></b><span style="font-weight: 400;"> graduated in Chinese Language and Literature in China, she has been in Italy since 1997. She has been a cultural mediator since 2002 and a Chinese teacher since 2006. She has always been a translator for companies, associations, institutions and private individuals. She collaborates with: hospitals, public and private institutions, universities, schools, cooperatives and associations, with publishers for the publication of Chinese works in translation and schoolbooks. He attended Chinese language and culture teacher training courses held by the Confucio Institute (Hanban) in Italy and China. </span>
+<b><i>Zu Xujun</i></b> graduated in Chinese Language and Literature in China, she has been in Italy since 1997. She has been a cultural mediator since 2002 and a Chinese teacher since 2006. She has always been a translator for companies, associations, institutions and private individuals. She collaborates with: hospitals, public and private institutions, universities, schools, cooperatives and associations, with publishers for the publication of Chinese works in translation and schoolbooks. He attended Chinese language and culture teacher training courses held by the Confucio Institute (Hanban) in Italy and China. 
 
-<b><i>Claudia Ambrosini</i></b><span style="font-weight: 400;"> graduated in Oriental Languages in 2000 at Cà Foscari (Venice), attended Chinese language courses in China (Kunming and Hangzhou). She obtained in Milan a Master’s degree of </span><i><span style="font-weight: 400;">Language and Communication For Companies Working With China</span></i><span style="font-weight: 400;">. She has always taught Chinese language and culture to private people, entrepreneurs and schools. She worked at the Italian Chamber of Commerce of Italy as Project Manager of Chinese language courses and other training activities, and has coordinated </span><i><span style="font-weight: 400;">Italo Cinese News</span></i><span style="font-weight: 400;"> (news and economy about China). She currently teaches full-time, collaborates with Italian publishing houses for the publication of Chinese literary works in translation and school and textbooks. </span>`,
+<b><i>Claudia Ambrosini</i></b> graduated in Oriental Languages in 2000 at Cà Foscari (Venice), attended Chinese language courses in China (Kunming and Hangzhou). She obtained in Milan a Master’s degree of <i>Language and Communication For Companies Working With China</i>. She has always taught Chinese language and culture to private people, entrepreneurs and schools. She worked at the Italian Chamber of Commerce of Italy as Project Manager of Chinese language courses and other training activities, and has coordinated <i>Italo Cinese News</i> (news and economy about China). She currently teaches full-time, collaborates with Italian publishing houses for the publication of Chinese literary works in translation and school and textbooks. `,
 	},
 	{
 		Title:   "UNHCR Livelihoods-Energy Information System",
@@ -86,11 +86,11 @@ https://www.gnucoop.com/mobile-health-technology-key-practices-for-drr-implement
 <h6><b>Objective of the platform</b></h6>
 <h6>The development of this web platform want to enhance the analysis and elaboration of the data collected from UNHCR Livelihood and Energy programs partners.</h6>
 <h6>It is accessible through a web browser and it imports the raw data collected through Kobo toolkit by the different partner of UNHCR Livelihood and Energy sector.</h6>
-<h6><span style="font-weight: 400;">The data analysis and elaboration returns the values of all the impact Indicators. </span></h6>
-<h6><span style="font-weight: 400;">The user can also find the complete list of indicators in the About Section of the Platform.</span></h6>
+<h6>The data analysis and elaboration returns the values of all the impact Indicators. </h6>
+<h6>The user can also find the complete list of indicators in the About Section of the Platform.</h6>
 <h6></h6>
-<h6><span style="font-weight: 400;">The new system will simplify and accelerate information management and sharing data between partners, giving furthermore the possibility to download raw data, navigate and download specific Indicators and download reporting documents. The platform will also facilitate communication and exchange of information between partners working in the same areas or in close proximity.</span></h6>
-<h6><span style="font-weight: 400;">Every user can visualize data and navigate the different indicators, tables and documents.</span></h6>
+<h6>The new system will simplify and accelerate information management and sharing data between partners, giving furthermore the possibility to download raw data, navigate and download specific Indicators and download reporting documents. The platform will also facilitate communication and exchange of information between partners working in the same areas or in close proximity.</h6>
+<h6>Every user can visualize data and navigate the different indicators, tables and documents.</h6>
 <img class="size-large wp-image-3817 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/09/home_0-1024x485.png" alt="" width="1024" height="485" /><img class="size-large wp-image-3818 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/09/home_1-1024x453.png" alt="" width="1024" height="453" /><img class="size-large wp-image-3819 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/09/home_2-1024x417.png" alt="" width="1024" height="417" />
 <h2></h2>
 <h2></h2>
@@ -104,8 +104,8 @@ https://www.gnucoop.com/mobile-health-technology-key-practices-for-drr-implement
 <h6><strong>4</strong> The application is highly user-friendly, without specific skills required by users;</h6>
 <h6><strong>5</strong> The system provides tools for exporting data in CSV files and download PDF files uploaded in the repository section of the platform.</h6>
 <h6><!--more--></h6>
-<h6><span style="font-weight: 400;">The Livelihood platform is available here </span><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://lis.unhcr.org/home"><span style="font-weight: 400;">https://lis.unhcr.org/home</span></a></span><span style="font-weight: 400;">. </span></h6>
-<h6><span style="font-weight: 400;">The Energy platform is available here </span><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://eis.unhcr.org/data"><span style="font-weight: 400;">https://eis.unhcr.org/data</span></a></span><span style="font-weight: 400;">. </span></h6>
+<h6>The Livelihood platform is available here <a style="color: #0000ff;" href="https://lis.unhcr.org/home">https://lis.unhcr.org/home</a>. </h6>
+<h6>The Energy platform is available here <a style="color: #0000ff;" href="https://eis.unhcr.org/data">https://eis.unhcr.org/data</a>. </h6>
 `,
 	},
 	{
@@ -113,15 +113,15 @@ https://www.gnucoop.com/mobile-health-technology-key-practices-for-drr-implement
 		Slug:    "good-data-data-sharing-in-humanitarian-context",
 		Excerpt: "",
 		Content: `
-<h6><span style="font-weight: 400;">Gnucoop took part to the GeOnG2018, en event organized every 2 years by Cartong. </span></h6>
-<h6><span style="font-weight: 400;">The event included workshops, round tables and group works on the topic of good data and data sharing in the humanitarian context. It was a great occasion to meet some NGOs, digital innovators and companies promoting innovations in the humanitarian sector.</span></h6>
-<h6><span style="font-weight: 400;">Particularly Gnucoop presented:</span></h6>
-<h6><span style="font-weight: 400;">A <strong>Workshop</strong> about our data collection platform, <strong>Dewco</strong>. Participants were introduced to the main features of the Dewco Demo and they have also been walked through the specific iRHIS application, developed by Gnucoop for UNHCR, and based on the Dewco technology. </span></h6>
-<h6><span style="font-weight: 400;">The session continued with an introduction to Big Data and data analysis with some practical examples and exercise on how to deal with data checks, validation, consistency and how to infer results when not enough information is available.</span></h6>
-<h6><span style="font-weight: 400;">A <strong>Speedgeeking</strong> about our webGiS application, <strong>Yago</strong>. 6 groups of participants were introduced to the Yago application. The main functionalities and features of the app had been explained followed by Q&amp;A sessions where the audience could ask questions and curiosities about the system.</span></h6>
+<h6>Gnucoop took part to the GeOnG2018, en event organized every 2 years by Cartong. </h6>
+<h6>The event included workshops, round tables and group works on the topic of good data and data sharing in the humanitarian context. It was a great occasion to meet some NGOs, digital innovators and companies promoting innovations in the humanitarian sector.</h6>
+<h6>Particularly Gnucoop presented:</h6>
+<h6>A <strong>Workshop</strong> about our data collection platform, <strong>Dewco</strong>. Participants were introduced to the main features of the Dewco Demo and they have also been walked through the specific iRHIS application, developed by Gnucoop for UNHCR, and based on the Dewco technology. </h6>
+<h6>The session continued with an introduction to Big Data and data analysis with some practical examples and exercise on how to deal with data checks, validation, consistency and how to infer results when not enough information is available.</h6>
+<h6>A <strong>Speedgeeking</strong> about our webGiS application, <strong>Yago</strong>. 6 groups of participants were introduced to the Yago application. The main functionalities and features of the app had been explained followed by Q&amp;A sessions where the audience could ask questions and curiosities about the system.</h6>
 <h6><img class="aligncenter wp-image-3867 size-full" src="https://www.gnucoop.com/wp-content/uploads/2018/11/WhatsApp-Image-2018-10-30-at-4.51.30-PM.jpeg" alt="" width="1510" height="964" /></h6>
 <h6>Over the three days, Gnucoop, who was also<strong> Golden Sponsor</strong> of the event, had a dedicated stand where to expose its material and brochures as well as interact with the audience and answers questions to interested people.</h6>
-<span style="font-weight: 400;">During the three days, after a plenary session, Gnuoop took part to different workshops</span>`,
+During the three days, after a plenary session, Gnuoop took part to different workshops`,
 	},
 	{
 		Title:   "30 anni di convenzione sui diritti dell’infanzia - anche la tecnologia può aiutare",
@@ -837,7 +837,7 @@ And thank you very much for the lovely evening @AngieNicoleOD @Shadrocker and Mi
 		Title:   "How Tech Can Help Services Respond to Citizens",
 		Slug:    "how-tech-can-help-services-respond-to-citizens",
 		Excerpt: "",
-		Content: `<em><span style="font-weight: 400;">Syria Tracker is an online map that shows where human rights abuses are happening in Syria. The site encourages civilians to anonymously report what’s going on in Syria.</span></em>
+		Content: `<em>Syria Tracker is an online map that shows where human rights abuses are happening in Syria. The site encourages civilians to anonymously report what’s going on in Syria.</em>
 
 There's been a lot of hype around digital citizen feedback platforms. The lure of using mobile phones to receive reports from citizens anywhere across the globe, neatly documented on a digital map has led to a flurry of applications.
 
@@ -1012,9 +1012,9 @@ Connect to your local micro-community in your own language. Let Migreat's ever-g
 
 &nbsp;
 
-<strong><a href="https://play.google.com/store/apps/details?id=com.dvuckovic.asylumseeker&amp;hl=en">Asylum in Serbia</a></strong> is an App that provide different informations about<a href="https://www.gnucoop.com/wp-content/uploads/2015/12/asylim-in-serbia.jpg"><img class=" wp-image-1809 alignright" src="https://www.gnucoop.com/wp-content/uploads/2015/12/asylim-in-serbia.jpg" alt="asylim in serbia" width="300" height="245" /></a> Reception centers, <span style="line-height: 1.5;">Centers for asylum, News, Asylum, rights and law, Service information, Important phone numbers and Dictionary. </span>
+<strong><a href="https://play.google.com/store/apps/details?id=com.dvuckovic.asylumseeker&amp;hl=en">Asylum in Serbia</a></strong> is an App that provide different informations about<a href="https://www.gnucoop.com/wp-content/uploads/2015/12/asylim-in-serbia.jpg"><img class=" wp-image-1809 alignright" src="https://www.gnucoop.com/wp-content/uploads/2015/12/asylim-in-serbia.jpg" alt="asylim in serbia" width="300" height="245" /></a> Reception centers, Centers for asylum, News, Asylum, rights and law, Service information, Important phone numbers and Dictionary. 
 
-<span style="line-height: 1.5;">It’s benn developed by Asylum Protection Center is humanitarian organization which provides legal, psychological, social, and humanitarian and integration help.</span>
+It’s benn developed by Asylum Protection Center is humanitarian organization which provides legal, psychological, social, and humanitarian and integration help.
 
 &nbsp;
 
@@ -1237,11 +1237,11 @@ Read the <a href="https://www.devex.com/news/the-role-of-the-private-sector-in-a
 		Excerpt: "",
 		Content: `
 <blockquote><b>"There's nothing inevitable about refugees being a cost, they're human beings with skills, talents, aspirations, with the ability to make contributions — if we let them."  </b><a href="http://www.alexanderbetts.com/unhcr-i-circle.html"><b>Alexander Betts</b></a></blockquote>
-<span style="font-weight: 400;">We can start talking about what is happening in Uganda, not because it’s representative of all host countries but ‘cause it's exceptional. Unlike most host countries around the world, what Uganda has done is give refugees economic opportunity. It gives them the right to work. It gives them freedom of movement. And the results of that are extraordinary both for refugees and the host community. In the capital city, Kampala, 21 percent of refugees own a business that employs other people, and 40 percent of those employees are nationals of the host country. In other words, refugees are making jobs for citizens of the host country. Even in the camps, it’s easy to find extraordinary examples of vibrant, flourishing and entrepreneurial businesses.</span>
+We can start talking about what is happening in Uganda, not because it’s representative of all host countries but ‘cause it's exceptional. Unlike most host countries around the world, what Uganda has done is give refugees economic opportunity. It gives them the right to work. It gives them freedom of movement. And the results of that are extraordinary both for refugees and the host community. In the capital city, Kampala, 21 percent of refugees own a business that employs other people, and 40 percent of those employees are nationals of the host country. In other words, refugees are making jobs for citizens of the host country. Even in the camps, it’s easy to find extraordinary examples of vibrant, flourishing and entrepreneurial businesses.
 
-<span style="font-weight: 400;">Beyond that we should consider that going digital has the potential to fundamentally transform the relationship between citizen and government. Research has shown that disadvantaged groups, including immigrants and minorities, are high users of smartphones and social media, and could theoretically be reached through these tools. Newly arrived immigrants are some of the most vulnerable in society and are often in need of support settling in and connecting to information about local services and jobs. However, these groups are often thought to be digitally, as well as socially excluded, and the move by governments to online platforms could exacerbate existing barriers to accessing public services. Furthermore, these groups may lack the necessary digital skills and host-country language ability to take full advantage of digital government services.</span>
+Beyond that we should consider that going digital has the potential to fundamentally transform the relationship between citizen and government. Research has shown that disadvantaged groups, including immigrants and minorities, are high users of smartphones and social media, and could theoretically be reached through these tools. Newly arrived immigrants are some of the most vulnerable in society and are often in need of support settling in and connecting to information about local services and jobs. However, these groups are often thought to be digitally, as well as socially excluded, and the move by governments to online platforms could exacerbate existing barriers to accessing public services. Furthermore, these groups may lack the necessary digital skills and host-country language ability to take full advantage of digital government services.
 
-<span style="font-weight: 400;">Here we’ll show how in the recent Refugee Crisi it’s crossing Europe, the tech community responds to this emergency ad develope some ideas to create a link between refugees and job market.</span>
+Here we’ll show how in the recent Refugee Crisi it’s crossing Europe, the tech community responds to this emergency ad develope some ideas to create a link between refugees and job market.
 
 <hr />
 
@@ -1274,15 +1274,15 @@ Foto: <a href="https://www.facebook.com/redischool/?fref=photo">ReDi school face
 
 <hr />
 
-<a href="http://www.refugeeswork.com/"><b>RefugeesWork</b></a> <span style="font-weight: 400;">is the iniciative that tries <img class="alignright wp-image-2881" src="https://www.gnucoop.com/wp-content/uploads/2016/07/RefugeesWork-150x150.jpg" alt="RefugeesWork" width="150" height="150" /> to help refugees/newcomers to connect with the locals through working together on tasks. The offered tasks should be a win-win situation for everyone, including newcomer, the organization and the city. No part of the equation should come out of the collaboration feeling used. Our focus is social engagement through working together.</span>
-<span style="font-weight: 400;">You can post your offer or request and start making world a better place. Work is the best pathway to connect newcomers with locals. We grow through the things we make. </span>
+<a href="http://www.refugeeswork.com/"><b>RefugeesWork</b></a> is the iniciative that tries <img class="alignright wp-image-2881" src="https://www.gnucoop.com/wp-content/uploads/2016/07/RefugeesWork-150x150.jpg" alt="RefugeesWork" width="150" height="150" /> to help refugees/newcomers to connect with the locals through working together on tasks. The offered tasks should be a win-win situation for everyone, including newcomer, the organization and the city. No part of the equation should come out of the collaboration feeling used. Our focus is social engagement through working together.
+You can post your offer or request and start making world a better place. Work is the best pathway to connect newcomers with locals. We grow through the things we make. 
 
 <hr />
 
-<img class="alignleft wp-image-2882 " src="https://www.gnucoop.com/wp-content/uploads/2016/07/www.actionemploirefugies.com--300x177.jpg" alt="www.actionemploirefugies.com-" width="216" height="128" /> <a href="http://www.actionemploirefugies.com/"><b>Action Emploi Réfugiés</b></a> <span style="font-weight: 400;">est une plate-forme de rapprochement désintermédié entre employeurs, particuliers et réfugiés demandeurs d’emploi.</span>
-<span style="font-weight: 400;">Action Emploi Réfugiés is a virtual meeting place for employers, both individuals and businesses, and refugees trying to find jobs </span>
-<span style="font-weight: 400;">" مبادرة توظيف اللاجئين "</span>
-<span style="font-weight: 400;">هو مكان للاجتماع على شبكة الانترنت ،لأرباب العمل والشركات واللاجئين الذين يرغبون باللعثور على وظيفة .</span>
+<img class="alignleft wp-image-2882 " src="https://www.gnucoop.com/wp-content/uploads/2016/07/www.actionemploirefugies.com--300x177.jpg" alt="www.actionemploirefugies.com-" width="216" height="128" /> <a href="http://www.actionemploirefugies.com/"><b>Action Emploi Réfugiés</b></a> est une plate-forme de rapprochement désintermédié entre employeurs, particuliers et réfugiés demandeurs d’emploi.
+Action Emploi Réfugiés is a virtual meeting place for employers, both individuals and businesses, and refugees trying to find jobs 
+" مبادرة توظيف اللاجئين "
+هو مكان للاجتماع على شبكة الانترنت ،لأرباب العمل والشركات واللاجئين الذين يرغبون باللعثور على وظيفة .
 
 <hr />
 
@@ -1293,7 +1293,7 @@ Integrify is a refugee camp reinvented. Instead of operating as a housing facili
 
 <hr />
 
-<a href="https://linkedinforgood.linkedin.com/welcome-talent-se"><b>Welcome Talent</b></a> <span style="font-weight: 400;">is a LinkedIn initiative aiming to create a platform where newcomers to Sweden and employers in Sweden easily can find each other. When employers add #welcometalent you can easely find the jobs/internships on the yellow button below. These positions will not require native Swedish, but please read the requirements carefully before applying.Tip: Remember to update your country to "Sweden" so employers can find you.</span>
+<a href="https://linkedinforgood.linkedin.com/welcome-talent-se"><b>Welcome Talent</b></a> is a LinkedIn initiative aiming to create a platform where newcomers to Sweden and employers in Sweden easily can find each other. When employers add #welcometalent you can easely find the jobs/internships on the yellow button below. These positions will not require native Swedish, but please read the requirements carefully before applying.Tip: Remember to update your country to "Sweden" so employers can find you.
 
 <iframe src="https://www.youtube.com/embed/62UqW8CW__I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>`,
 	},
@@ -1302,22 +1302,22 @@ Integrify is a refugee camp reinvented. Instead of operating as a housing facili
 		Slug:    "education-has-the-power-to-empower-and-change-a-persons-entire-life-and-future",
 		Excerpt: "",
 		Content: `
-<blockquote><i><span style="font-weight: 400;">Education is not just a matter of relevance in displaced populations, but of survival. One of the refugees said “If I am not a student, I am nothing.” </span></i></blockquote>
+<blockquote><i>Education is not just a matter of relevance in displaced populations, but of survival. One of the refugees said “If I am not a student, I am nothing.” </i></blockquote>
 <a href="http://www.re-coded.com/">Re:Coded</a> aims to create innovative, socially minded leaders in conflict affected communities using technology and entrepreneurship as a catalyst. We aim to connect the dots between local problems and global opportunities and harness cross cutting solutions to transform local capacity with the aim of building long-term economic development, peace and geopolitical stability.
 The Fellowship is an intensive program designed to train refugees and displaced youth with no prior coding experience to become
 production-ready web developers. The program is adapted from The Flatiron School's Web Development Immersive — a course that has successfully trained students for the workforce and helped them find web development jobs.
 
-<span style="font-weight: 400;"> <a href="https://kiron.ngo/">Kiron</a></span><span style="font-weight: 400;">:World-Class Education For Refugees</span>
+ <a href="https://kiron.ngo/">Kiron</a>:World-Class Education For Refugees
 
-<span style="font-weight: 400;">Our vision is to provide millions of refugees worldwide with the opportunity to graduate with an <img class="alignleft size-thumbnail wp-image-2900" src="https://www.gnucoop.com/wp-content/uploads/2016/08/Kiron-150x150.jpg" alt="Kiron" width="150" height="150" />accredited university degree, free of charge. No more time, potential, or lives wasted.</span>
+Our vision is to provide millions of refugees worldwide with the opportunity to graduate with an <img class="alignleft size-thumbnail wp-image-2900" src="https://www.gnucoop.com/wp-content/uploads/2016/08/Kiron-150x150.jpg" alt="Kiron" width="150" height="150" />accredited university degree, free of charge. No more time, potential, or lives wasted.
 
-<span style="font-weight: 400;">Kiron uses an innovative combination of online and offline learning to provide accessible, sustainable, and cost-effective education. To date, we have over 1,000 students, 18 partner universities, and 4 degree programmes. That's over 1,000 lives changed already.</span>
+Kiron uses an innovative combination of online and offline learning to provide accessible, sustainable, and cost-effective education. To date, we have over 1,000 students, 18 partner universities, and 4 degree programmes. That's over 1,000 lives changed already.
 
-<span style="font-weight: 400;">Kiron offers much more than just online learning. Our vision is to reinvent the traditional concept of a university: with a diverse range of partners, we are striving to create an education model that is more accessible, more human-centred, and more supportive of personal growth.</span>
+Kiron offers much more than just online learning. Our vision is to reinvent the traditional concept of a university: with a diverse range of partners, we are striving to create an education model that is more accessible, more human-centred, and more supportive of personal growth.
 
-<span style="font-weight: 400;">The </span><a href="http://www.unicefstories.org/2015/09/30/expanding-learning-opportunities-for-refugee-children-ugandas-digischool-pilot/"><span style="font-weight: 400;">DigiSchool</span></a><span style="font-weight: 400;">, also known as the MobiStation, is a portable, solar-powered multimedia kit fully equipped with a speaker, projector, and a document reading camera. DigiSchool, an abridged form of “digital school in a box,” refers to dev<img class="alignright size-thumbnail wp-image-2901" src="https://www.gnucoop.com/wp-content/uploads/2016/08/digischool-150x150.jpg" alt="digischool" width="150" height="150" />ices with pre-uploaded education content. At a glance, the DigiSchool looks like an ordinary plastic suitcase with wheels and a pullout handle. But inside this black pelican case, you can find video clips, cartoons, music videos, math lessons, an offline Wikipedia, and much more.</span>
+The <a href="http://www.unicefstories.org/2015/09/30/expanding-learning-opportunities-for-refugee-children-ugandas-digischool-pilot/">DigiSchool</a>, also known as the MobiStation, is a portable, solar-powered multimedia kit fully equipped with a speaker, projector, and a document reading camera. DigiSchool, an abridged form of “digital school in a box,” refers to dev<img class="alignright size-thumbnail wp-image-2901" src="https://www.gnucoop.com/wp-content/uploads/2016/08/digischool-150x150.jpg" alt="digischool" width="150" height="150" />ices with pre-uploaded education content. At a glance, the DigiSchool looks like an ordinary plastic suitcase with wheels and a pullout handle. But inside this black pelican case, you can find video clips, cartoons, music videos, math lessons, an offline Wikipedia, and much more.
 
-<span style="font-weight: 400;">The current DigiSchool is a fourth generation prototype. Progress has been made since early 2013 when the Global Innovation Lab in Uganda produced the DigiSchool hardware and carried out the first user testing. On the software side, the DigiSchools’ digital content library continues to be enhanced with more educational content. </span>
+The current DigiSchool is a fourth generation prototype. Progress has been made since early 2013 when the Global Innovation Lab in Uganda produced the DigiSchool hardware and carried out the first user testing. On the software side, the DigiSchools’ digital content library continues to be enhanced with more educational content. 
 
 `,
 	},
@@ -1385,16 +1385,16 @@ Lo scopo dell’App è quello di rispondere alle esigenze:
 		Title:   "Data for refugees: a new data collection system for UNHCR",
 		Slug:    "data-for-refugees-a-new-data-collection-system-for-unhcr",
 		Excerpt: "",
-		Content: `<span style="font-weight: 400;">Since a couple of months Gnucoop is engaged in a big project is support of UNHCR. Twine is a web-based platform currently used by UNHCR in refugee operations for data collection and reporting. We first approached this system in order to analyse its weaknesses and to come up with suggestions for the development of a new high performing and user-friendly application. </span>
-<span style="font-weight: 400;">The so-called “NewTwine” - it is our purpose to give it as well a brand-new name - is being designed from scratch, including a total review of the current system architecture and the development of a mobile application for a unique data collection tool that represents the biggest news of the project. </span>
-<span style="font-weight: 400;">This application allows to collect data and compile entry forms in a user-friendly way, visualize data, analyse and generate reports at different levels: from refugee camps worldwide to country offices up to regional and HQ level. The type of information concerns healthcare, water and sanitation, nutrition and food security sectors, where the Health Information System (HIS) functionalities entail the biggest component. <img class="alignleft wp-image-2981 size-medium" src="https://www.gnucoop.com/wp-content/uploads/2016/12/20170221_103224-300x225.jpg" width="300" height="225" /></span>
-<span style="font-weight: 400;">Twine is something that user can easily learn to utilize and this is huge beneficial for UNHCR at all levels because it allows the standardization and the speedup of several operations: it has just one interface for data entry; it offers the possibility of working offline and synchronizing when connection is available; it allows selected users to create and modify forms for data collection. </span>
-<span style="font-weight: 400;">The project´s implementation started in April 2016 and is going to be completed until June 2017. We are currently testing the collecting section. During the analysis phase we have been piloting a new data collection modality using Twine in the WASH sector. Scope of it was the identification of strengths and challenges before extending the new system to other intervention sectors.</span>
-<span style="font-weight: 400;">A five-week-feature testing between August and September 2016 took place in four Countries, such as Kenya, Jordan, Rwanda and Tanzania. First the Out-Patient Data (OPD) collection forms were tested on 80 tablets, but the application will be responsive and therefore data could be also entered by PC, Laptop, and smartphones.
-</span> <span style="font-weight: 400;"> Different persons, with individual expectations</span><span style="font-weight: 400;"> and experiences </span><span style="font-weight: 400;">brought many useful and necessary feedback to modify and give us a better direction for the future development of the application. </span>
-<span style="font-weight: 400;">During the testing 49 versions of the application have been released and more than 150 issues fixed. Based on the feedbacks, we were able to pinpoint some weaker points in development including the   enhancement of the offline-sync function and also thinking about harmonizing across the different Twine platforms (web and mobile).  The need to focus more on the aesthetic/user interface aspects of the app has been also pointed out.</span>
-<span style="font-weight: 400;">The data elaboration and reporting section is being developed  now. This tool will allow the user to create new reports and customize her/his own dashboard.</span>
-<span style="font-weight: 400;">Up to now a very collaborative working atmosphere between Gnucoop staff and UNHCR is being contributing to the first positive results. We are very satisfied with that and share the opinion of Eugene Paik - Public Health Data Analyst at UNHCR - when saying that “the </span><span style="font-weight: 400;">development is heading in the right direction”.</span>`,
+		Content: `Since a couple of months Gnucoop is engaged in a big project is support of UNHCR. Twine is a web-based platform currently used by UNHCR in refugee operations for data collection and reporting. We first approached this system in order to analyse its weaknesses and to come up with suggestions for the development of a new high performing and user-friendly application. 
+The so-called “NewTwine” - it is our purpose to give it as well a brand-new name - is being designed from scratch, including a total review of the current system architecture and the development of a mobile application for a unique data collection tool that represents the biggest news of the project. 
+This application allows to collect data and compile entry forms in a user-friendly way, visualize data, analyse and generate reports at different levels: from refugee camps worldwide to country offices up to regional and HQ level. The type of information concerns healthcare, water and sanitation, nutrition and food security sectors, where the Health Information System (HIS) functionalities entail the biggest component. <img class="alignleft wp-image-2981 size-medium" src="https://www.gnucoop.com/wp-content/uploads/2016/12/20170221_103224-300x225.jpg" width="300" height="225" />
+Twine is something that user can easily learn to utilize and this is huge beneficial for UNHCR at all levels because it allows the standardization and the speedup of several operations: it has just one interface for data entry; it offers the possibility of working offline and synchronizing when connection is available; it allows selected users to create and modify forms for data collection. 
+The project´s implementation started in April 2016 and is going to be completed until June 2017. We are currently testing the collecting section. During the analysis phase we have been piloting a new data collection modality using Twine in the WASH sector. Scope of it was the identification of strengths and challenges before extending the new system to other intervention sectors.
+A five-week-feature testing between August and September 2016 took place in four Countries, such as Kenya, Jordan, Rwanda and Tanzania. First the Out-Patient Data (OPD) collection forms were tested on 80 tablets, but the application will be responsive and therefore data could be also entered by PC, Laptop, and smartphones.
+  Different persons, with individual expectations and experiences brought many useful and necessary feedback to modify and give us a better direction for the future development of the application. 
+During the testing 49 versions of the application have been released and more than 150 issues fixed. Based on the feedbacks, we were able to pinpoint some weaker points in development including the   enhancement of the offline-sync function and also thinking about harmonizing across the different Twine platforms (web and mobile).  The need to focus more on the aesthetic/user interface aspects of the app has been also pointed out.
+The data elaboration and reporting section is being developed  now. This tool will allow the user to create new reports and customize her/his own dashboard.
+Up to now a very collaborative working atmosphere between Gnucoop staff and UNHCR is being contributing to the first positive results. We are very satisfied with that and share the opinion of Eugene Paik - Public Health Data Analyst at UNHCR - when saying that “the development is heading in the right direction”.`,
 	},
 	{
 		Title:   "Webinar on The Use of Digital Tools and  Geoinformation for Development",
@@ -1429,7 +1429,7 @@ Lo scopo dell’App è quello di rispondere alle esigenze:
 		Content: `From 20th to 24th of February we have been in <a href="http://data.unhcr.org/horn-of-africa/settlement.php?id=17&amp;country=110&amp;region=12">Kakuma Refugees Camp</a>.
 This mission is part of the <a href="https://www.gnucoop.com/data-for-refugees-a-new-data-collection-system-for-unhcr/">project</a> we're developing in support of UNHCR.
 During the first day we've visited the General Hospital of the Refugees Camp, managed by <a href="https://www.rescue.org/">IRC (International Rescue Committe)</a>
-<span style="font-weight: 400;"><img class="aligncenter wp-image-2991 size-large" src="https://www.gnucoop.com/wp-content/uploads/2017/03/20170220_153613-1-1024x403.jpg" width="1024" height="403" /><strong>First visit to IRC General Hospital</strong></span>
+<img class="aligncenter wp-image-2991 size-large" src="https://www.gnucoop.com/wp-content/uploads/2017/03/20170220_153613-1-1024x403.jpg" width="1024" height="403" /><strong>First visit to IRC General Hospital</strong>
 
 Together with the partners we discussed the program of the following days, which aim was to submit the new data collection system to the clinic staff and test it.
 <img class="alignleft wp-image-3001 size-medium" src="https://www.gnucoop.com/wp-content/uploads/2017/03/20170221_122223-e1488374449407-225x300.jpg" width="225" height="300" /> <img class="alignleft size-medium wp-image-3035" src="https://www.gnucoop.com/wp-content/uploads/2017/03/20170221_104451-1-225x300.jpg" alt="" width="225" height="300" /><img class="alignleft size-medium wp-image-3009" src="https://www.gnucoop.com/wp-content/uploads/2017/03/20170221_102539-5-e1488376457889-225x300.jpg" alt="" width="225" height="300" />
@@ -1450,21 +1450,21 @@ Together with the partners we discussed the program of the following days, which
 
 <strong>Testing at the IRC Main Hospital (OPD, IPD, RH, EPI Sectors) </strong>
 
-<span style="font-weight: 400;">From our point of view, getting the chance to be on the field personally was of great utility. In addition to that, the presence of two persons with different competencies and capabilities - namely one developer and one project manager - was essential to understand and face the issues rised.</span>
+From our point of view, getting the chance to be on the field personally was of great utility. In addition to that, the presence of two persons with different competencies and capabilities - namely one developer and one project manager - was essential to understand and face the issues rised.
 
 The workers have been explained and shown by the developer how to use the application in the very real field conditions and how to deal with some problems. We had to acknowledge that those mechanisms and passages often considered "trivial" by technicians are not regarded as such also by the users, therefore we took this as a lesson learned for the next field testing.
-<span style="font-weight: 400;">The deep knowledge of forms has been very helpful for feedback gathering and the related reviewing processes.</span>
-<span style="font-weight: 400;">Furthermore, we could count for some urgent issues on our staff in Italy, who was reacting almost in real time to any request. </span>
-<span style="font-weight: 400;">Two categories of users participated in the test:</span>
+The deep knowledge of forms has been very helpful for feedback gathering and the related reviewing processes.
+Furthermore, we could count for some urgent issues on our staff in Italy, who was reacting almost in real time to any request. 
+Two categories of users participated in the test:
 <ul>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Nurses / Midwives for forms related to Reproductive Health;</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Refugees employed in the clinics, for all the other forms.</span></li>
+ 	<li style="font-weight: 400;">Nurses / Midwives for forms related to Reproductive Health;</li>
+ 	<li style="font-weight: 400;">Refugees employed in the clinics, for all the other forms.</li>
 </ul>
-<span style="font-weight: 400;">Generally, the feedback we received was content-related, while almost nothing about the new collection system, that is the transition from the use of paper to electronic devices, was mentioned.</span>
-<span style="font-weight: 400;">Only in the Expanding Program in Immunization (EPI) sector of the Main Hospital, the clinicians have expressed strong doubts, and declared to prefer the current paper forms.</span>
+Generally, the feedback we received was content-related, while almost nothing about the new collection system, that is the transition from the use of paper to electronic devices, was mentioned.
+Only in the Expanding Program in Immunization (EPI) sector of the Main Hospital, the clinicians have expressed strong doubts, and declared to prefer the current paper forms.
 
-<span style="font-weight: 400;">It was the first testing so we focussed on the first feedback from the users, how they reacted to the use of the new system. </span><span style="font-weight: 400;"> As already explained, they did not make any comments on the application but simply suggested some changes on the content of the form. </span><span style="font-weight: 400;">
-In terms of timing, probably, after few days, they will get used to the system and get faster.</span>
+It was the first testing so we focussed on the first feedback from the users, how they reacted to the use of the new system.  As already explained, they did not make any comments on the application but simply suggested some changes on the content of the form. 
+In terms of timing, probably, after few days, they will get used to the system and get faster.
 We suggest to spend more time to explain better to the users how it will change the entire process of data collecting and reviewing, thanks to the new system and make them aware about its potentials.`,
 	},
 	{
@@ -1474,21 +1474,21 @@ We suggest to spend more time to explain better to the users how it will change 
 		Content: `
 <h4 style="text-align: center;"><strong><i>Technology itself does not mean progress,</i></strong></h4>
 <h4 style="text-align: center;"><strong><i>progress is our ability to use technology to make a difference</i></strong></h4>
-<h4 style="text-align: center;"><span style="font-weight: 400;">(Luca De Biase)</span></h4>
+<h4 style="text-align: center;">(Luca De Biase)</h4>
 <div class="ember-view dh-page-text"><strong>When:</strong>  Wednesday, 12 April 2017, 9 a.m. (CET)</div>
 <div id="ember1464" class="ember-view dh-page-text"><strong>Where: </strong>Piazza della Scienza, 4, Università degli Studi di MIlano - Bicocca</div>
 <div class="ember-view dh-page-text">              Edificio U4, aula 2034</div>
 <div class="ember-view dh-page-text"></div>
 <div class="ember-view dh-page-text"></div>
-<div class="ember-view dh-page-text"><span style="font-weight: 400;">Gnucoop Soc. Coop. and <a href="http://www.standbytaskforce.org/">Stand by Task Force</a> (SBTF) are organizing an event about the use of digital tools to support information management during natural disasters and humanitarian crisis.</span></div>
+<div class="ember-view dh-page-text">Gnucoop Soc. Coop. and <a href="http://www.standbytaskforce.org/">Stand by Task Force</a> (SBTF) are organizing an event about the use of digital tools to support information management during natural disasters and humanitarian crisis.</div>
 <div class="ember-view dh-page-text">
 
-<span style="font-weight: 400;">When a disaster or humanitarian emergency strikes, many organisations (public agencies, humanitarian responders, governmental and non governmental organisations) activate and try to provide their support. In these contexts, it’s very important to have access to and rely on trustworthy information. If used sensibly, social networks and digital tools have the potential to provide important pieces of information that were not accessible only up to few years ago. </span>
+When a disaster or humanitarian emergency strikes, many organisations (public agencies, humanitarian responders, governmental and non governmental organisations) activate and try to provide their support. In these contexts, it’s very important to have access to and rely on trustworthy information. If used sensibly, social networks and digital tools have the potential to provide important pieces of information that were not accessible only up to few years ago. 
 
-<span style="font-weight: 400;">Therefore, the event has two main objectives:</span>
+Therefore, the event has two main objectives:
 <ul>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">to sensitize civil society organizations, civil protection organisations, public institutions, university students and volunteers on the sensible use of digital tools such as social networks, digital images, web news, etc…, to help responding to humanitarian crisis,</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">to involve new ‘digital’ volunteers who could provide additional support in responding to emergencies or humanitarian crisis and become active members of the SBTF.</span></li>
+ 	<li style="font-weight: 400;">to sensitize civil society organizations, civil protection organisations, public institutions, university students and volunteers on the sensible use of digital tools such as social networks, digital images, web news, etc…, to help responding to humanitarian crisis,</li>
+ 	<li style="font-weight: 400;">to involve new ‘digital’ volunteers who could provide additional support in responding to emergencies or humanitarian crisis and become active members of the SBTF.</li>
 </ul>
 The program will be the following:
 <ul>
@@ -1496,7 +1496,7 @@ The program will be the following:
  	<li>Gnucoop tools and case studies: data collection &amp; GIS and Disaster Risk Reduction</li>
  	<li>Information for Disaster Response: SBTF Case, Studies, Example of Deployments</li>
 </ul>
-We are very glad to have as our guests <b>Mercedes Aguerre, </b><span style="font-weight: 400;"><a href="http://www.coopi.org">COOPI </a>drr advisor, for a an introduction on Disaster Risk Reduction and  </span><b>Angela Oduor Lungati, </b>Director of Community Engagement, <a href="http://www.ushahidi.com">Ushahidi </a>to present this very successful platform.
+We are very glad to have as our guests <b>Mercedes Aguerre, </b><a href="http://www.coopi.org">COOPI </a>drr advisor, for a an introduction on Disaster Risk Reduction and  <b>Angela Oduor Lungati, </b>Director of Community Engagement, <a href="http://www.ushahidi.com">Ushahidi </a>to present this very successful platform.
 
 For more information <a href="http://www.geo.unimib.it/master">http://masterwash.unimib.it</a>
 
@@ -1509,7 +1509,7 @@ To confirm your participation <a href="mailto:info@gnucoop.com">info@gnucoop.com
 		Title:   "GIS platform for Disaster Risk Reduction",
 		Slug:    "gis-platform-for-disaster-risk-reduction",
 		Excerpt: "",
-		Content: `Over the past few months Gnucoop developed for the italian NGO <a href="http://www.coopi.org/en/"><span style="font-weight: 400;">COOPI-Cooperazione Internazionale</span></a><span style="font-weight: 400;">* a GIS platform, which enable to visualize the main threats and vulnerabilities, as well as resources available in the surrounding areas to foster crisis management by turning this information into actions. </span>
+		Content: `Over the past few months Gnucoop developed for the italian NGO <a href="http://www.coopi.org/en/">COOPI-Cooperazione Internazionale</a>* a GIS platform, which enable to visualize the main threats and vulnerabilities, as well as resources available in the surrounding areas to foster crisis management by turning this information into actions. 
 
 COOPI helps communities prone to environmental disasters or other hazards deal with them. Development of geographical information systems, risk analysis and dissemination of risk management tools are among the main activities of its program within the sector.
 The marginalized informal communities of Rimac District in Lima in Peru, mostly affected by earthquakes and landslides, belong to the targeted groups of COOPI. In addition to natural hazards, inadequate basic services and infrastructures, coupled with scarce  awareness about disaster risk reduction are main issues to be tackled.
@@ -1541,59 +1541,59 @@ In the new system the Sirvtab will be replaced by a more modern and lighter soft
 
 <strong>The software will be mainly divided into two sections:</strong>
 
-<b>Backend</b><span style="font-weight: 400;"> A simple and complete control panel that will allow administrators to:
-manage users and permissions,</span>
+<b>Backend</b> A simple and complete control panel that will allow administrators to:
+manage users and permissions,
 <ul>
- 	<li>upload geographic data in various formats (<span style="font-weight: 400;">shapefiles</span><span style="font-weight: 400;"> geojson and GeoTIFF)</span></li>
+ 	<li>upload geographic data in various formats (shapefiles geojson and GeoTIFF)</li>
  	<li>manage metadata associated with geographic data,</li>
  	<li>manage the library of documents and images,</li>
  	<li>publish notices, news and updates visible to users of the platform.</li>
 </ul>
-<b>Frontend</b><span style="font-weight: 400;"> The heart of the software that will allows users and visitors to create their own maps and "surf" the resources localized in the project. The main functions of the frontend will be:</span>
+<b>Frontend</b> The heart of the software that will allows users and visitors to create their own maps and "surf" the resources localized in the project. The main functions of the frontend will be:
 <ul>
  	<li>Create map</li>
- 	<li><span style="font-weight: 400;">Insert maps from OpenStreetMap and Google Map /BING</span></li>
- 	<li><span style="font-weight: 400;">Measure distances / Areas</span></li>
- 	<li><span style="font-weight: 400;">Create elevation profile</span></li>
- 	<li><span style="font-weight: 400;">Create cartograms and other geo-statistical maps</span></li>
- 	<li><span style="font-weight: 400;">Creating a personal profile</span></li>
- 	<li><span style="font-weight: 400;">Save and archive on server your own maps that can be reused later (this a function only  for registered users)</span></li>
- 	<li><span style="font-weight: 400;">Export maps in different formats (JPEG, PNG, PDF)</span></li>
+ 	<li>Insert maps from OpenStreetMap and Google Map /BING</li>
+ 	<li>Measure distances / Areas</li>
+ 	<li>Create elevation profile</li>
+ 	<li>Create cartograms and other geo-statistical maps</li>
+ 	<li>Creating a personal profile</li>
+ 	<li>Save and archive on server your own maps that can be reused later (this a function only  for registered users)</li>
+ 	<li>Export maps in different formats (JPEG, PNG, PDF)</li>
 </ul>
-<span style="font-weight: 400;">View your maps on the main navigation applications (Google Maps, iOS maps, Google Earth) (available from smartphones and tablets).
-</span>
+View your maps on the main navigation applications (Google Maps, iOS maps, Google Earth) (available from smartphones and tablets).
 
-<span style="font-weight: 400;">The source code will be released under a free (as in speech not free as in beer) software license and will be available probably through a github repository, to trace changes and developments over time!</span>
 
-<span style="font-weight: 400;">Our software is available here <a href="https://guatemala.gnucoop.io/">https://guatemala.gnucoop.io/</a>.</span>
+The source code will be released under a free (as in speech not free as in beer) software license and will be available probably through a github repository, to trace changes and developments over time!
+
+Our software is available here <a href="https://guatemala.gnucoop.io/">https://guatemala.gnucoop.io/</a>.
 
 Our Senior developer is in Lima for the first training section to <a href="http://cenepred.gob.pe/">CENEPRED</a>, follow the mission on our social channels!
 
-<span style="font-weight: 400;">*</span><a href="http://www.coopi.org/en/"><span style="font-weight: 400;">COOPI-Cooperazione Internazionale</span></a><span style="font-weight: 400;"> worked with civil society organizations, local authorities, and the private sector to strengthen risk management in marginalized informal communities of Rímac District in Lima. The program disseminated risk-management tools among government authorities with decision-making capacity; upgraded hazard-prone infrastructure; strengthened capacities of community groups, including women’s associations; provided practical training; and developed a geographical information system database to identify and help address existing vulnerabilities. (USAID LATIN AMERICA AND THE CARIBBEAN – DISASTER RISK REDUCTION FACT SHEET #1, FISCAL YEAR (FY) 2015)</span>
+*<a href="http://www.coopi.org/en/">COOPI-Cooperazione Internazionale</a> worked with civil society organizations, local authorities, and the private sector to strengthen risk management in marginalized informal communities of Rímac District in Lima. The program disseminated risk-management tools among government authorities with decision-making capacity; upgraded hazard-prone infrastructure; strengthened capacities of community groups, including women’s associations; provided practical training; and developed a geographical information system database to identify and help address existing vulnerabilities. (USAID LATIN AMERICA AND THE CARIBBEAN – DISASTER RISK REDUCTION FACT SHEET #1, FISCAL YEAR (FY) 2015)
 
-<span style="color: #333399;">Pictures by COOPI-Cooperazione Internazionale <span style="color: #000000;">Thank you!</span></span>`,
+Pictures by COOPI-Cooperazione Internazionale Thank you!`,
 	},
 	{
 		Title:   "YAGO, Yet Another GIS Online for Rímac",
 		Slug:    "yago-yet-another-gis-online-for-rmac",
 		Excerpt: "",
-		Content: `<span style="font-weight: 400;">From 19th to 27th of April we have been in Lima. </span>
+		Content: `From 19th to 27th of April we have been in Lima. 
 
-<span style="font-weight: 400;">This mission is part of the </span><a href="https://www.gnucoop.com/gis-platform-for-disaster-risk-reduction/"><span style="font-weight: 400;">project Yago</span></a><span style="font-weight: 400;">  (Yet Another GIS Online) we’re developing in support of <a href="http://www.coopi.org">COOPI </a>and its activities in the framework of the project RIMAC DRR (</span><i><span style="font-weight: 400;">Reinforcing Innovative Mechanisms for Arising Capacities in Disaster Risk Reduction in Rímac</span></i><span style="font-weight: 400;">). </span>
-<span style="font-weight: 400;">The purpose of the mission was the training on the use of Yago, our GIS platform, to the Municipality of Rímac staff (Area of Civil Defence, Recuperation of the Historic Centre, Environment, Security, among others) and to </span><a href="http://www.cenepred.gob.pe/web/"><span style="font-weight: 400;">CENEPRED</span></a><span style="font-weight: 400;"> staff .</span>
-<span style="font-weight: 400;">CENEPRED (Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres) is the institution responsible for the pillars of Disaster Risk evaluation, prevention and reduction. </span>
-<span style="font-weight: 400;">The Municipality of Rímac is one district of Lima Metropolitana and it is an ally of the RIMAC DRR project.  Yago will be an important tool for the Municipality of Rímac to include the spatial component in its decision making process. </span>
+This mission is part of the <a href="https://www.gnucoop.com/gis-platform-for-disaster-risk-reduction/">project Yago</a>  (Yet Another GIS Online) we’re developing in support of <a href="http://www.coopi.org">COOPI </a>and its activities in the framework of the project RIMAC DRR (<i>Reinforcing Innovative Mechanisms for Arising Capacities in Disaster Risk Reduction in Rímac</i>). 
+The purpose of the mission was the training on the use of Yago, our GIS platform, to the Municipality of Rímac staff (Area of Civil Defence, Recuperation of the Historic Centre, Environment, Security, among others) and to <a href="http://www.cenepred.gob.pe/web/">CENEPRED</a> staff .
+CENEPRED (Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres) is the institution responsible for the pillars of Disaster Risk evaluation, prevention and reduction. 
+The Municipality of Rímac is one district of Lima Metropolitana and it is an ally of the RIMAC DRR project.  Yago will be an important tool for the Municipality of Rímac to include the spatial component in its decision making process. 
 
-<span style="font-weight: 400;">The training has been organized in 3 different daily session:</span>
+The training has been organized in 3 different daily session:
 <b>Day 1 YAGO User training (Map creation and Data visualization)</b>
-<b>Participants: </b><span style="font-weight: 400;">Municipality of Rímac and, CENEPRED </span>
+<b>Participants: </b>Municipality of Rímac and, CENEPRED 
 
 <b>Day 2 Yago Administration training  (Users and permissions management, WMS sources, Layers and Themes management) </b>
-<b>Participants: </b><span style="font-weight: 400;">Municipality of Rímac and CENEPRED . </span>
-<span style="font-weight: 400;">The training was directed to some technicians from Municipality and CENEPRED, which will be responsible for the upload of data collected by the field workers, and to one IT technician who will follow the future development of the platform.</span>
+<b>Participants: </b>Municipality of Rímac and CENEPRED . 
+The training was directed to some technicians from Municipality and CENEPRED, which will be responsible for the upload of data collected by the field workers, and to one IT technician who will follow the future development of the platform.
 
 <b>Day 3 Yago Dev training (System architecture and maintenance)</b>
-<span style="font-weight: 400;">Mainly directed to CENEPRED</span>
+Mainly directed to CENEPRED
 <img class="alignleft wp-image-3119 " src="https://www.gnucoop.com/wp-content/uploads/2017/05/Yago-User-training-300x169.jpg" alt="" width="256" height="144" /><img class="wp-image-3120 alignleft" src="https://www.gnucoop.com/wp-content/uploads/2017/05/Yago-Administration-training-300x169.jpg" alt="" width="229" height="129" /><img class="wp-image-3121 alignleft" src="https://www.gnucoop.com/wp-content/uploads/2017/05/Yago-dev-training-300x169.jpg" alt="" width="209" height="118" />
 
 &nbsp;
@@ -1606,9 +1606,9 @@ Our Senior developer is in Lima for the first training section to <a href="htt
 
 <hr />
 
-<span style="font-weight: 400;">All the participants, especially the Municipality staff, were really enthusiastic of the platform and they actively participated to the training.</span>
+All the participants, especially the Municipality staff, were really enthusiastic of the platform and they actively participated to the training.
 
-<span style="font-weight: 400;">COOPI will organize in the next weeks a presentation event to disseminate YAGO and the importance of including the use of spatial data in the daily works of the Municipality. The event will be directed to the large public to disseminate YAGO and the inclusion of the SIG in the decision making process.  </span>
+COOPI will organize in the next weeks a presentation event to disseminate YAGO and the importance of including the use of spatial data in the daily works of the Municipality. The event will be directed to the large public to disseminate YAGO and the inclusion of the SIG in the decision making process.  
 
 <img class="alignleft wp-image-3140" src="https://www.gnucoop.com/wp-content/uploads/2017/05/training-Lima-1_bis.jpg" alt="" width="372" height="217" />
 <img class="alignleft wp-image-3128" src="https://www.gnucoop.com/wp-content/uploads/2017/05/training-Lima-2-1024x576.jpeg" alt="" width="341" height="192" />
@@ -1625,18 +1625,18 @@ Our Senior developer is in Lima for the first training section to <a href="htt
 
 <hr />
 
-<span style="font-weight: 400;">We spent the first 3 days working side by side with COOPI staff.</span>
-<span style="font-weight: 400;">From our point of view, getting the chance to be on the field was of great utility.</span> <span style="font-weight: 400;">Working directly with end users was key to develop some new features.</span><span style="font-weight: 400;">
-</span><span style="font-weight: 400;">The local staff contributions were very important mainly because this project is part of a framework agreement signed by Gnucoop and COOPI, for the use of YAGO platform in four different projects:</span>
+We spent the first 3 days working side by side with COOPI staff.
+From our point of view, getting the chance to be on the field was of great utility. Working directly with end users was key to develop some new features.
+The local staff contributions were very important mainly because this project is part of a framework agreement signed by Gnucoop and COOPI, for the use of YAGO platform in four different projects:
 
-<i><span style="font-weight: 400;">Renforcement des capacités de préparation, mitigation et réponse aux catastrophes de communautés urbaines les plus vulnérables en Haïti;</span></i>
-<i><span style="font-weight: 400;">RIMAC DRR – Reinforcing Innovative Mechanisms for Arising Capacities in Disaster Risk Reduction in Rímac, Perú;</span></i>
-<i><span style="font-weight: 400;">Améliorer la résilience face à la sécheresse des acteurs locaux et des familles rurales les plus vulnérables dans la partie orientale du Département du Sud-Est, Haïti;</span></i>
-<i><span style="font-weight: 400;">Fortalecimiento de las capacidades del sistema CONRED y de la sociedad civil en comunidades de la Mancomunidad del Sur en el Departamento de Guatemala.</span></i>
+<i>Renforcement des capacités de préparation, mitigation et réponse aux catastrophes de communautés urbaines les plus vulnérables en Haïti;</i>
+<i>RIMAC DRR – Reinforcing Innovative Mechanisms for Arising Capacities in Disaster Risk Reduction in Rímac, Perú;</i>
+<i>Améliorer la résilience face à la sécheresse des acteurs locaux et des familles rurales les plus vulnérables dans la partie orientale du Département du Sud-Est, Haïti;</i>
+<i>Fortalecimiento de las capacidades del sistema CONRED y de la sociedad civil en comunidades de la Mancomunidad del Sur en el Departamento de Guatemala.</i>
 
 <strong>In the next months different Training sessions will be held in Haiti and Guatemala.</strong>
 
-<span style="font-weight: 400;">Pictures by COOPI-Cooperazione Internazionale </span><span style="font-weight: 400;">Thank you!</span>`,
+Pictures by COOPI-Cooperazione Internazionale Thank you!`,
 	},
 	{
 		Title:   "#ICT4Evaluation conference at IFAD, 6-7 June 2017",
@@ -1658,7 +1658,7 @@ The <strong>Tech Fair</strong>, held in parallel to the conference, on <strong>7
 
 This made visible and facilitated a broader understanding of the technological opportunities that are available today.
 <img class="alignleft size-large wp-image-3166" src="https://www.gnucoop.com/wp-content/uploads/2017/06/IMG_20170607_103026-1024x768.jpg" alt="" width="1024" height="768" />
-<span style="color: #000000;">Our Communication Officer Giuditta at the Tech Fair</span>
+Our Communication Officer Giuditta at the Tech Fair
 
 Gnucoop brought his <a href="https://www.gnucoop.com/data-for-refugees-a-new-data-collection-system-for-unhcr/">TWINE</a> project, a web-based platform currently used by UNHCR in refugee operations for data collection and reporting.
 
@@ -1696,7 +1696,7 @@ After this phase, Gnucoop was granted the commission to re-design the current Tw
 &nbsp;
 <h6>It’s possible to navigate through a dashboard and repository <div style="display:none"><a href="http://healthmagblog.online/health-blog/back-excerises.html">Back Excerises</a></div> section at<strong> multiple geographical level: &nbsp;from refugee camps worldwide to country offices up to regional and HQ level.&nbsp;</strong></h6>
 
-<h6 align="justify"><span style="color: #00000a;"><span style="font-family: Calibri, serif;"><span style="font-size: medium;"><img class="size-full wp-image-3204 alignleft" src="https://www.gnucoop.com/wp-content/uploads/2017/06/homepage.png" alt="" width="416" height="294"></span></span></span></h6>
+<h6 align="justify"><img class="size-full wp-image-3204 alignleft" src="https://www.gnucoop.com/wp-content/uploads/2017/06/homepage.png" alt="" width="416" height="294"></h6>
 <h6 align="justify"></h6>
 <h6 align="justify"></h6>
 <h6 align="justify"></h6>
@@ -1714,64 +1714,64 @@ After this phase, Gnucoop was granted the commission to re-design the current Tw
 		Slug:    "cash-and-vouchers-a-new-way-to-respond-to-hunger-and-nutrition-issues",
 		Excerpt: "",
 		Content: `
-<h6 style="text-align: center;"><em><b>Infographic 1</b><span style="font-weight: 400;">: </span><span style="font-weight: 400;">Cash and voucher system</span></em></h6>
+<h6 style="text-align: center;"><em><b>Infographic 1</b>: Cash and voucher system</em></h6>
 &nbsp;
 
-<b>Cash and voucher system</b><span style="font-weight: 400;"> refers to a restricted number of tools, where the </span><b>cash or voucher is given to individuals, households or communities, but not to governments or other state actors</b><span style="font-weight: 400;">.</span>
+<b>Cash and voucher system</b> refers to a restricted number of tools, where the <b>cash or voucher is given to individuals, households or communities, but not to governments or other state actors</b>.
 
-<span style="font-weight: 400;">In certain </span><b>humanitarian disasters</b><span style="font-weight: 400;">, the supply of food to markets and shops is sustained, yet, the affected population loses the means to buy it. In such cases, the cash and voucher aid approach ensures humanitarian aid reaches directly those with the greatest need in a timely manner.</span>
+In certain <b>humanitarian disasters</b>, the supply of food to markets and shops is sustained, yet, the affected population loses the means to buy it. In such cases, the cash and voucher aid approach ensures humanitarian aid reaches directly those with the greatest need in a timely manner.
 
-<b>Cash and vouchers are quick to deliver, cost-effective and provide people in need with greater choice</b><span style="font-weight: 400;">. Among its advantages are benefits for local economies, empowerment of the beneficiaries, dignity and decision power to people who can choose the items they would like to buy. The cash and voucher system has shown to help the morale of those in need and also prepares the ground for linking relief, rehabilitation and development (LRRD) activities.</span>
+<b>Cash and vouchers are quick to deliver, cost-effective and provide people in need with greater choice</b>. Among its advantages are benefits for local economies, empowerment of the beneficiaries, dignity and decision power to people who can choose the items they would like to buy. The cash and voucher system has shown to help the morale of those in need and also prepares the ground for linking relief, rehabilitation and development (LRRD) activities.
 
-<b>Cash and vouchers can be spent on a variety of products but usually food, non-food items, fuel, blankets and other essentials are the first port of call for those who need support</b><span style="font-weight: 400;">.</span>
+<b>Cash and vouchers can be spent on a variety of products but usually food, non-food items, fuel, blankets and other essentials are the first port of call for those who need support</b>.
 
-<span style="font-weight: 400;">With the institutional shift from food aid to food assistance, </span><a href="http://documents.wfp.org/stellent/groups/public/documents/newsroom/wfp274576.pdf?_ga=2.16378677.2081798952.1499178432-1861972953.1499178432"><span style="font-weight: 400;">WFP</span> </a><span style="font-weight: 400;"> now has </span><b>three distinct transfer modalities</b><span style="font-weight: 400;"> for distributing resources to target beneficiaries:</span>
-<b>Cash</b><span style="font-weight: 400;">,</span>
-<b>Vouchers</b><span style="font-weight: 400;">,</span>
-<b>Food in kind</b><span style="font-weight: 400;"> (in-kind contribution and/or procured).</span>
+With the institutional shift from food aid to food assistance, <a href="http://documents.wfp.org/stellent/groups/public/documents/newsroom/wfp274576.pdf?_ga=2.16378677.2081798952.1499178432-1861972953.1499178432">WFP </a> now has <b>three distinct transfer modalities</b> for distributing resources to target beneficiaries:
+<b>Cash</b>,
+<b>Vouchers</b>,
+<b>Food in kind</b> (in-kind contribution and/or procured).
 
-<span style="font-weight: 400;">Cash and vouchers, together with food, provide WFP with additional flexibility in responding to hunger and nutrition issues, and allow the organization to tailor a food assistance response to the needs of beneficiaries – including those with special needs – and their contexts (i.e. what is possible, acceptable and/or feasible in a given situation), facilitating their access to available food in the local markets</span>
+Cash and vouchers, together with food, provide WFP with additional flexibility in responding to hunger and nutrition issues, and allow the organization to tailor a food assistance response to the needs of beneficiaries – including those with special needs – and their contexts (i.e. what is possible, acceptable and/or feasible in a given situation), facilitating their access to available food in the local markets
 
-<span style="font-weight: 400;">The </span><b>diversification of transfer modality options</b><span style="font-weight: 400;"> requires: (i) a </span><b>systematic analysis of markets</b><span style="font-weight: 400;"> to determine suitability of a market based response; and (ii) a </span><b>better understanding of the context </b><span style="font-weight: 400;">through a series of sectoral capacity assessments. These will identify what is possible and feasible in a given context, and what is acceptable for beneficiaries in order to ensure that the chosen transfer modality is the most appropriate option.</span>
+The <b>diversification of transfer modality options</b> requires: (i) a <b>systematic analysis of markets</b> to determine suitability of a market based response; and (ii) a <b>better understanding of the context </b>through a series of sectoral capacity assessments. These will identify what is possible and feasible in a given context, and what is acceptable for beneficiaries in order to ensure that the chosen transfer modality is the most appropriate option.
 
-<span style="font-weight: 400;">The </span><b>transfer modality</b><span style="font-weight: 400;"> consit of:</span>
-<b>Cash trasnfers</b><span style="font-weight: 400;"> – monetary assistance in the form of physical cash or electronic disbursement to a targeted individual or household that enables direct access to food from the marketplace,</span>
-<b>Voucher transfers</b><span style="font-weight: 400;"> – assistance to a targeted individual or household in the form of a paper or electronic entitlement reedemable at preselected retailers or at specifically organised fairs for a predifined list of commodities, but not for cash,</span>
-<b>Food in-kind transfers</b><span style="font-weight: 400;"> – assistance to a targeted individual or household in the form of dry or wet rations.</span>
+The <b>transfer modality</b> consit of:
+<b>Cash trasnfers</b> – monetary assistance in the form of physical cash or electronic disbursement to a targeted individual or household that enables direct access to food from the marketplace,
+<b>Voucher transfers</b> – assistance to a targeted individual or household in the form of a paper or electronic entitlement reedemable at preselected retailers or at specifically organised fairs for a predifined list of commodities, but not for cash,
+<b>Food in-kind transfers</b> – assistance to a targeted individual or household in the form of dry or wet rations.
 
-<span style="font-weight: 400;">The </span><b>two main types of vouchers</b><span style="font-weight: 400;"> are:</span>
-<b>Commodity voucher</b><span style="font-weight: 400;"> – redeemable for fixed quantities of specified foods,</span>
-<b>Value voucher</b><span style="font-weight: 400;"> – redeemable for a choice of specified food items with the equivalent cash value of the voucher. </span>
-<span style="font-weight: 400;">
-Furthermore, there are </span><b>two voucher distribution models</b><span style="font-weight: 400;">:</span>
-<b>Paper voucher</b><span style="font-weight: 400;"> – The beneficiary receives paper coupons and/or a scratch card that has a commodity or monetary value and that can be exchanged at contracted retailers or at specifically organized fairs. Both cash and commodity vouchers can be exchanged for items or services, but not for cash. Paper vouchers are distributed on a monthly basis and have a predefined validity period. </span>
-<b>Electronic voucher</b><span style="font-weight: 400;"> – Electronic vouchers (e-vouchers) carry information on the monetary value of assistance or items and quantities they can be exchanged for on a barcode, a magnetic band or microchip on the card, or by short message service (SMS). Electronic voucher instruments (bank card, cell phone, SCOPECARD, etc.) are issued to beneficiaries only once, whereas their redemption value or quantity is credited remotely at predefined temporal intervals.</span>
+The <b>two main types of vouchers</b> are:
+<b>Commodity voucher</b> – redeemable for fixed quantities of specified foods,
+<b>Value voucher</b> – redeemable for a choice of specified food items with the equivalent cash value of the voucher. 
+
+Furthermore, there are <b>two voucher distribution models</b>:
+<b>Paper voucher</b> – The beneficiary receives paper coupons and/or a scratch card that has a commodity or monetary value and that can be exchanged at contracted retailers or at specifically organized fairs. Both cash and commodity vouchers can be exchanged for items or services, but not for cash. Paper vouchers are distributed on a monthly basis and have a predefined validity period. 
+<b>Electronic voucher</b> – Electronic vouchers (e-vouchers) carry information on the monetary value of assistance or items and quantities they can be exchanged for on a barcode, a magnetic band or microchip on the card, or by short message service (SMS). Electronic voucher instruments (bank card, cell phone, SCOPECARD, etc.) are issued to beneficiaries only once, whereas their redemption value or quantity is credited remotely at predefined temporal intervals.
 <h6 style="text-align: center;"><img class="aligncenter size-large wp-image-3253" src="https://www.gnucoop.com/wp-content/uploads/2017/07/gnucoopcash02-100-1024x858.jpg" alt="" width="1024" height="858" />
-<b><i>Infographic 2:</i></b><i><span style="font-weight: 400;"> Paper and electronic voucher</span></i></h6>
-<h6 style="text-align: center;"><img class="aligncenter size-full wp-image-3254" src="https://www.gnucoop.com/wp-content/uploads/2017/07/Cash-and-Voucher-3.png" alt="" width="675" height="604" /><b><i>Infographic 3</i></b><i><span style="font-weight: 400;">: Summary features of e-transfer mechanisms</span></i></h6>
+<b><i>Infographic 2:</i></b><i> Paper and electronic voucher</i></h6>
+<h6 style="text-align: center;"><img class="aligncenter size-full wp-image-3254" src="https://www.gnucoop.com/wp-content/uploads/2017/07/Cash-and-Voucher-3.png" alt="" width="675" height="604" /><b><i>Infographic 3</i></b><i>: Summary features of e-transfer mechanisms</i></h6>
 `,
 	},
 	{
 		Title:   "The role of ICTs for agriculture in global development",
 		Slug:    "the-role-of-icts-for-agriculture-in-global-development",
 		Excerpt: "",
-		Content: `<b>Information</b><b> and communication technologies (ICTs) can facilitate access to timely and accurate information for an improved agricultural production</b><span style="font-weight: 400;">. Access to information is crucial in family farming, which is known to be heterogeneous, primarily family-based labour, production of highly diversified products, and limited access to productive resources.</span>
+		Content: `<b>Information</b><b> and communication technologies (ICTs) can facilitate access to timely and accurate information for an improved agricultural production</b>. Access to information is crucial in family farming, which is known to be heterogeneous, primarily family-based labour, production of highly diversified products, and limited access to productive resources.
 
-<span style="font-weight: 400;">ICTs, especially </span><b>mobile applications</b><span style="font-weight: 400;">, are playing key role in facilitating access to these resources by the poor. The </span><b>"digital financial services" revolution</b><span style="font-weight: 400;"> has huge implication on family farmers.</span>
+ICTs, especially <b>mobile applications</b>, are playing key role in facilitating access to these resources by the poor. The <b>"digital financial services" revolution</b> has huge implication on family farmers.
 
 <img class="wp-image-3278" src="https://www.gnucoop.com/wp-content/uploads/2017/07/foto_blog_gnucoop-300x268.jpg" alt="" width="610" height="545" /> Photo Credit: Marco Marche
 
-<span style="font-weight: 400;">
-With the increasing penetration of mobile phones in remote parts of the world, efforts should then be made to strengthen the innovative use of mobile technologies by family farmers. Combination of </span><b>mobile technology and geographic information system</b><span style="font-weight: 400;"> provide accurate, specific/micro information of soil, water, nutrient etc. on farmers' field for decision making.
-</span>
 
-<span style="font-weight: 400;">Creating the enabling environments for</span><b> rural ICT connectivity </b><span style="font-weight: 400;">through sound policies and strategies and ensuring thereby affordable and quality access to the technologies, especially in rural areas, will support smooth exchange of agricultural information for family farms. ICT strategies and platforms that increase involvement of farmers' organizations in policy development, policy debates, and influencing policy implementation have to be promoted.</span>
+With the increasing penetration of mobile phones in remote parts of the world, efforts should then be made to strengthen the innovative use of mobile technologies by family farmers. Combination of <b>mobile technology and geographic information system</b> provide accurate, specific/micro information of soil, water, nutrient etc. on farmers' field for decision making.
 
-<span style="font-weight: 400;">In </span><b>2013</b><span style="font-weight: 400;">, <strong>Gnucoop</strong> developed for </span><a href="http://www.actioncontrelafaim.org/"><strong>Action Contre la Faim</strong></a><span style="font-weight: 400;"> a </span><b>mobile-web application</b><span style="font-weight: 400;"> to monitor prices of basic food items available in </span><b>Central African Republic markets</b><span style="font-weight: 400;">. Food prices are usually collected by different organizations working in different areas. </span>
 
-<span style="font-weight: 400;">This platform, based on </span><a href="https://opendatakit.org/"><strong>ODK </strong></a><b>data collection application</b><span style="font-weight: 400;">, gathers information from different sources into a unique system. </span>
+Creating the enabling environments for<b> rural ICT connectivity </b>through sound policies and strategies and ensuring thereby affordable and quality access to the technologies, especially in rural areas, will support smooth exchange of agricultural information for family farms. ICT strategies and platforms that increase involvement of farmers' organizations in policy development, policy debates, and influencing policy implementation have to be promoted.
 
-<span style="font-weight: 400;">Find out more on <a href="http://www.odk.missions-acf.org/rca/">ODK website</a></span>
+In <b>2013</b>, <strong>Gnucoop</strong> developed for <a href="http://www.actioncontrelafaim.org/"><strong>Action Contre la Faim</strong></a> a <b>mobile-web application</b> to monitor prices of basic food items available in <b>Central African Republic markets</b>. Food prices are usually collected by different organizations working in different areas. 
+
+This platform, based on <a href="https://opendatakit.org/"><strong>ODK </strong></a><b>data collection application</b>, gathers information from different sources into a unique system. 
+
+Find out more on <a href="http://www.odk.missions-acf.org/rca/">ODK website</a>
 
 <img class="size-full wp-image-3277 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2017/07/ict4agriculture.png" alt="" width="940" height="788" />`,
 	},
@@ -1779,72 +1779,72 @@ With the increasing penetration of mobile phones in remote parts of the world, e
 		Title:   "Twine platform is growing: from HIS (Health Information System) to Livelihood & Energy sector",
 		Slug:    "twine-platform-is-growing-from-his-health-information-system-to-livelihood-energy-sector",
 		Excerpt: "",
-		Content: `<span style="font-weight: 400;">According to <strong>UNHCR</strong></span><i><span style="font-weight: 400;"> “</span></i><span style="font-weight: 400;">After fleeing war or persecution, the opportunity to work and earn a living is one of the most effective ways people can rebuild their lives in dignity and peace</span><i><span style="font-weight: 400;">”.
-</span></i><span style="font-weight: 400;"><a href="http://www.unhcr.org/"><strong>UNHCR</strong></a> </span><span style="font-weight: 400;">helps the displaced to achieve self-reliance by building their skills and knowledge, as well as providing access to the resources, training, assets, inputs, services and markets they need.</span>
+		Content: `According to <strong>UNHCR</strong><i> “</i>After fleeing war or persecution, the opportunity to work and earn a living is one of the most effective ways people can rebuild their lives in dignity and peace<i>”.
+</i><a href="http://www.unhcr.org/"><strong>UNHCR</strong></a> helps the displaced to achieve self-reliance by building their skills and knowledge, as well as providing access to the resources, training, assets, inputs, services and markets they need.
 
 “<strong>Access to safe and sustainable energy is a basic human need</strong>. Without it, the forcibly displaced – particularly women and children – may be at increased risk and have less time to rebuild their lives”.
-<span style="font-weight: 400;"><strong>In 2014</strong>, <strong>UNHCR launched a global strategy</strong> for </span><a href="http://www.unhcr.org/530f11ee6"><span style="font-weight: 400;">Safe Access to Fuels and Energy (SAFE)</span></a><span style="font-weight: 400;">. The<strong> SAFE strategy offers crucial guidance and details innovative approaches and technologies</strong>, including clean or fuel-efficient cookers, alternative and sustainable fuels, and solar-powered lighting.</span>
+<strong>In 2014</strong>, <strong>UNHCR launched a global strategy</strong> for <a href="http://www.unhcr.org/530f11ee6">Safe Access to Fuels and Energy (SAFE)</a>. The<strong> SAFE strategy offers crucial guidance and details innovative approaches and technologies</strong>, including clean or fuel-efficient cookers, alternative and sustainable fuels, and solar-powered lighting.
 
 <img class="size-full wp-image-3288" src="https://www.gnucoop.com/wp-content/uploads/2017/08/Im-2.png" alt="" width="830" height="552" /> Photo Credit: Marco Marche
 
-<span style="font-weight: 400;">In the next months <strong>Gnucoop</strong> will work with <strong>UNHCR DIST (Division of Information Systems and Telecommunications)</strong>, and its business partner <strong>Operational Solutions and Transitions Section (OSTS)</strong>, <strong>to extend the new Twine monitoring base platform, </strong>to include the <strong>Energy and Livelihoods</strong> programme sectors.</span>
+In the next months <strong>Gnucoop</strong> will work with <strong>UNHCR DIST (Division of Information Systems and Telecommunications)</strong>, and its business partner <strong>Operational Solutions and Transitions Section (OSTS)</strong>, <strong>to extend the new Twine monitoring base platform, </strong>to include the <strong>Energy and Livelihoods</strong> programme sectors.
 
-<span style="font-weight: 400;">As UNHCR DIST mentioned in the <em>Concept Note</em>: “<strong>There are several advantages to extending the Twine base platform</strong>. It will facilitate end-user/stakeholder access to important operational and decision-making data via a shared portal. Additionally, it will also extend our investment by leveraging a common infrastructure and user management”.</span>`,
+As UNHCR DIST mentioned in the <em>Concept Note</em>: “<strong>There are several advantages to extending the Twine base platform</strong>. It will facilitate end-user/stakeholder access to important operational and decision-making data via a shared portal. Additionally, it will also extend our investment by leveraging a common infrastructure and user management”.`,
 	},
 	{
 		Title:   "YAGO training in Haiti",
 		Slug:    "yago-training-in-haiti",
 		Excerpt: "",
-		Content: `<span style="font-weight: 400;">The </span><b>second section of YAGO (Yet Another GIS Online) training</b><span style="font-weight: 400;"> has been held in </span><b>Haiti, from July 30th to August 4th.</b>
+		Content: `The <b>second section of YAGO (Yet Another GIS Online) training</b> has been held in <b>Haiti, from July 30th to August 4th.</b>
 
-<span style="font-weight: 400;">This training is part of the </span><a href="https://www.gnucoop.com/gis-platform-for-disaster-risk-reduction/"><span style="font-weight: 400;">project Yago</span></a><span style="font-weight: 400;"> we’re developing in support of </span><a href="http://www.coopi.org/"><b>COOPI</b> </a><span style="font-weight: 400;">and its activities are in the framework of two different projects:</span>
+This training is part of the <a href="https://www.gnucoop.com/gis-platform-for-disaster-risk-reduction/">project Yago</a> we’re developing in support of <a href="http://www.coopi.org/"><b>COOPI</b> </a>and its activities are in the framework of two different projects:
 
-<i><span style="font-weight: 400;">Renforcement des capacités de préparation, mitigation et réponse aux catastrophes de </span></i><i><span style="font-weight: 400;">communautés urbaines les plus vulnérables en Haïti </span></i><span style="font-weight: 400;">(ECHO/-CM/BUD/2015/91012),</span>
+<i>Renforcement des capacités de préparation, mitigation et réponse aux catastrophes de </i><i>communautés urbaines les plus vulnérables en Haïti </i>(ECHO/-CM/BUD/2015/91012),
 
-<i><span style="font-weight: 400;">Améliorer la résilience face à la sécheresse des acteurs locaux et des familles rurales les plus vulnérables dans la partie orientale du Département du Sud-Est, Haïti</span></i><span style="font-weight: 400;"> (ECHO/-</span><span style="font-weight: 400;">CR/BUD/2016/91005).</span>
+<i>Améliorer la résilience face à la sécheresse des acteurs locaux et des familles rurales les plus vulnérables dans la partie orientale du Département du Sud-Est, Haïti</i> (ECHO/-CR/BUD/2016/91005).
 
 <img class="size-full wp-image-3296" src="https://www.gnucoop.com/wp-content/uploads/2017/08/yago-training-in-Haiti3-1024x768.jpg" alt="" width="1024" height="768" /> Photo Credit: COOPI Haiti
 
-The training was addressed to COOPI staff and to <a href="https://www.cnigs.ht/">CNIGS Haiti</a> (Centre National de l'Information Géo-Spatiale), for Administrators and Users.<span style="font-weight: 400;">We asked COOPI coordinator in Haiti to give us some feedback about the training: </span>
+The training was addressed to COOPI staff and to <a href="https://www.cnigs.ht/">CNIGS Haiti</a> (Centre National de l'Information Géo-Spatiale), for Administrators and Users.We asked COOPI coordinator in Haiti to give us some feedback about the training: 
 
-<span style="font-weight: 400;">“</span><i><span style="font-weight: 400;">Participants raised very relevant questions, including the possibility of having a super admin who managed all the users permissions, the possibility of sharing their own work sessions with other users (or with the public) and even some criticism. </span></i><i><span style="font-weight: 400;">The platform was well-received and our intention as COOPI is to upload even more data from other municipalities from the south and the west. CNIGS asked to import all the data from other platforms to YAGO</span></i><span style="font-weight: 400;">”.</span>
+“<i>Participants raised very relevant questions, including the possibility of having a super admin who managed all the users permissions, the possibility of sharing their own work sessions with other users (or with the public) and even some criticism. </i><i>The platform was well-received and our intention as COOPI is to upload even more data from other municipalities from the south and the west. CNIGS asked to import all the data from other platforms to YAGO</i>”.
 
-<span style="font-weight: 400;">COOPI’s project </span><b>“Open data and web mapping platform to reduce disaster risk in Haiti”</b><span style="font-weight: 400;">, for which we developed the platform, </span><b>was among the top ten in the  </b><a href="http://www.risk-award.org/"><b>2017 Risk Award</b></a><b>.</b>
+COOPI’s project <b>“Open data and web mapping platform to reduce disaster risk in Haiti”</b>, for which we developed the platform, <b>was among the top ten in the  </b><a href="http://www.risk-award.org/"><b>2017 Risk Award</b></a><b>.</b>
 
-<span style="font-weight: 400;">The Risk Award is assigned to innovative plans and approaches for disaster risk reduction and disaster management. The prize is awarded every 2 years by the UN Office for Disaster Risk Reduction (</span><a href="https://www.unisdr.org/"><span style="font-weight: 400;">UNISDR</span></a><span style="font-weight: 400;">), the Global Risk Forum Davos (</span><a href="https://grforum.org/"><span style="font-weight: 400;">GRF</span></a><span style="font-weight: 400;">) and the </span><a href="http://www.munichre-foundation.org/home.html"><span style="font-weight: 400;">Munich Re Foundation</span></a><span style="font-weight: 400;">.</span>
+The Risk Award is assigned to innovative plans and approaches for disaster risk reduction and disaster management. The prize is awarded every 2 years by the UN Office for Disaster Risk Reduction (<a href="https://www.unisdr.org/">UNISDR</a>), the Global Risk Forum Davos (<a href="https://grforum.org/">GRF</a>) and the <a href="http://www.munichre-foundation.org/home.html">Munich Re Foundation</a>.
 
-<span style="font-weight: 400;">More information </span><a href="http://www.coopi.org/en/coopi-ranked-top-ten-in-2017-risk-award/"><span style="font-weight: 400;">here </span></a>`,
+More information <a href="http://www.coopi.org/en/coopi-ranked-top-ten-in-2017-risk-award/">here </a>`,
 	},
 	{
 		Title:   "Gnucoop: a Software House with Humanitarian skills and Free Software Heart",
 		Slug:    "gnucoop-a-software-house-with-humanitarian-skills-and-free-software-heart",
 		Excerpt: "",
-		Content: `<span style="font-weight: 400;">When the first two “nerds” founders of Gnucoop decided to dedicate their computer knowledge to the Humanitarian AID they knew they should have involved some professionals with experience in several developing countries working in NGOs sector.</span>
-<span style="font-weight: 400;">They strongly believed that the </span><b>combination of technical competencies with development skills</b><span style="font-weight: 400;"> would have given international cooperation projects a better chance to be successful. Gnucoop dedicates a considerable part of its work to activities aiming at providing customized IT solutions and technical assistance to INGOs, UN Agencies and Humanitarian Aid Organisations, supporting them in achieving their purposes.</span>
-<span style="font-weight: 400;">At the beginning, the understanding of the specific language used by developers, the existence of many acronyms, technical terms, simple words used with a completely different meaning didn’t make easy our work.</span>
-<span style="font-weight: 400;">During project implementation we had to use many different tools specific for a Software Development project (i.e. project management platform for agile developers, web-based hosting service for source code).</span>
-<span style="font-weight: 400;">Step by step, project by project, testing by testing, we discovered a new world and now we can say that part of nerds language is also our language.</span>
+		Content: `When the first two “nerds” founders of Gnucoop decided to dedicate their computer knowledge to the Humanitarian AID they knew they should have involved some professionals with experience in several developing countries working in NGOs sector.
+They strongly believed that the <b>combination of technical competencies with development skills</b> would have given international cooperation projects a better chance to be successful. Gnucoop dedicates a considerable part of its work to activities aiming at providing customized IT solutions and technical assistance to INGOs, UN Agencies and Humanitarian Aid Organisations, supporting them in achieving their purposes.
+At the beginning, the understanding of the specific language used by developers, the existence of many acronyms, technical terms, simple words used with a completely different meaning didn’t make easy our work.
+During project implementation we had to use many different tools specific for a Software Development project (i.e. project management platform for agile developers, web-based hosting service for source code).
+Step by step, project by project, testing by testing, we discovered a new world and now we can say that part of nerds language is also our language.
 
-<span style="font-weight: 400;">The merger of these two worlds, which look far from each other in the collective imagination, is our strength. This combination which links nerds, always represented working alone in a tiny room under the light of their PC, and Humanitarian workers, always travelling around the world and surrounded by people, made Gnucoop </span><b>an uncommon Software House</b><span style="font-weight: 400;">. </span>
+The merger of these two worlds, which look far from each other in the collective imagination, is our strength. This combination which links nerds, always represented working alone in a tiny room under the light of their PC, and Humanitarian workers, always travelling around the world and surrounded by people, made Gnucoop <b>an uncommon Software House</b>. 
 
 <img class="wp-image-3317" src="https://www.gnucoop.com/wp-content/uploads/2017/09/ong-2.0.jpg" alt="" width="491" height="208" /> Photo Credit: Ong 2.0
 
 &nbsp;
 
-<span style="font-weight: 400;">For those reasons, it’s a pleasure to share the </span><a href="http://www.ictworks.org/2017/03/02/the-digital-development-glossary-your-key-to-ict4d-buzzwords/"><span style="font-weight: 400;">Digital Development Glossary</span></a><span style="font-weight: 400;"> made by </span><b>ICTworks</b><span style="font-weight: 400;"> and we would like to add some keywords we have already treated in our blog:</span>
+For those reasons, it’s a pleasure to share the <a href="http://www.ictworks.org/2017/03/02/the-digital-development-glossary-your-key-to-ict4d-buzzwords/">Digital Development Glossary</a> made by <b>ICTworks</b> and we would like to add some keywords we have already treated in our blog:
 
-<a href="https://www.gnucoop.com/cash-and-vouchers-a-new-way-to-respond-to-hunger-and-nutrition-issues/"><span style="font-weight: 400;">E-voucher</span></a><span style="font-weight: 400;">: Electronic vouchers (e-vouchers) carry information on the monetary value of assistance or items. They can be exchanged through a barcode, a magnetic band or microchip on a card, or by short message service (SMS). Electronic voucher tools (bank card, cell phone, SCOPECARD, etc.) are issued to beneficiaries only once, whereas their refund value or quantity is remotely credited at predefined temporal intervals.</span>
+<a href="https://www.gnucoop.com/cash-and-vouchers-a-new-way-to-respond-to-hunger-and-nutrition-issues/">E-voucher</a>: Electronic vouchers (e-vouchers) carry information on the monetary value of assistance or items. They can be exchanged through a barcode, a magnetic band or microchip on a card, or by short message service (SMS). Electronic voucher tools (bank card, cell phone, SCOPECARD, etc.) are issued to beneficiaries only once, whereas their refund value or quantity is remotely credited at predefined temporal intervals.
 
-<a href="https://www.gnucoop.com/gis-platform-for-disaster-risk-reduction/"><span style="font-weight: 400;">GIS platform</span></a><span style="font-weight: 400;">:</span><span style="font-weight: 400;"> GIS software systems have been used for more than </span><span style="font-weight: 400;">three decades</span><span style="font-weight: 400;"> by humanitarian organisations, researchers, and policy makers in order to activate quick responses to natural disasters, to detect early outbreaks of infectious diseases, </span><span style="font-weight: 400;">target </span><span style="font-weight: 400;">development</span><span style="font-weight: 400;"> resources</span><span style="font-weight: 400;">, and for public infrastructure planning, such as hospitals and clinics.</span>
+<a href="https://www.gnucoop.com/gis-platform-for-disaster-risk-reduction/">GIS platform</a>: GIS software systems have been used for more than three decades by humanitarian organisations, researchers, and policy makers in order to activate quick responses to natural disasters, to detect early outbreaks of infectious diseases, target development resources, and for public infrastructure planning, such as hospitals and clinics.
 
 <strong>And probably the most important issue for us..</strong>
 
-<span style="font-weight: 400;"><a href="http://www.gnu.org/">Free software</a>:</span><span style="font-weight: 400;"> Free software means users have </span><span style="font-weight: 400;">four essential freedoms</span><span style="font-weight: 400;">: users can run the program, study and change the program in source code form, redistribute exact copies and distribute modified versions.</span>
-<span style="font-weight: 400;">Free software gives the possibility of re-using software code, editing and sharing with the community the improvements made to the software code.</span>
+<a href="http://www.gnu.org/">Free software</a>: Free software means users have four essential freedoms: users can run the program, study and change the program in source code form, redistribute exact copies and distribute modified versions.
+Free software gives the possibility of re-using software code, editing and sharing with the community the improvements made to the software code.
 
-<span style="font-weight: 400;">An  operating system composed by  free software means that it respects users' freedom</span>
+An  operating system composed by  free software means that it respects users' freedom
 
-<span style="font-weight: 400;">Since its foundation </span><b>Gnucoop has always believed</b> <b>that no real innovation comes without knowledge sharing</b><span style="font-weight: 400;">.</span>`,
+Since its foundation <b>Gnucoop has always believed</b> <b>that no real innovation comes without knowledge sharing</b>.`,
 	},
 	{
 		Title:   "ICT4Ag: The Experience Of Gnucoop",
@@ -1886,54 +1886,54 @@ We’re developing a new functionality who allows to enter directly some data on
 		Excerpt: "",
 		Content: `
 <h2><strong>WHAT IS CHATBOT</strong></h2>
-<span style="font-weight: 400;">A </span><b>chatbot</b><span style="font-weight: 400;"> (also known as a </span><b>talkbot</b><span style="font-weight: 400;">, </span><b>chatterbot</b><span style="font-weight: 400;">, </span><b>Bot</b><span style="font-weight: 400;">, </span><b>IM bot</b><span style="font-weight: 400;">, </span><b>interactive agent</b><span style="font-weight: 400;">, or </span><b>Artificial Conversational Entity</b><span style="font-weight: 400;">) is a computer program which conducts a conversation via auditory or textual methods.</span> <span style="font-weight: 400;">Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test. Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. Some chatterbots use sophisticated natural language processing systems, but many simpler systems scan for keywords within the input, then pull a reply with the most matching keywords, or the most similar wording pattern, from a database.</span>
+A <b>chatbot</b> (also known as a <b>talkbot</b>, <b>chatterbot</b>, <b>Bot</b>, <b>IM bot</b>, <b>interactive agent</b>, or <b>Artificial Conversational Entity</b>) is a computer program which conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test. Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. Some chatterbots use sophisticated natural language processing systems, but many simpler systems scan for keywords within the input, then pull a reply with the most matching keywords, or the most similar wording pattern, from a database.
 <h2><strong>CHATBOT FOR AID PROGRAMMES</strong></h2>
-<span style="font-weight: 400;">The field of chatbots for good is still emerging, but nonprofit and government organizations have begun to develop use cases.</span>
+The field of chatbots for good is still emerging, but nonprofit and government organizations have begun to develop use cases.
 
 <img class="aligncenter size-full wp-image-3342" src="https://www.gnucoop.com/wp-content/uploads/2017/10/chatbot.jpeg" alt="" width="565" height="376" />
 
-<span style="font-weight: 400;">The chatbot technology has the potential to be an innovative tool for development and humanitarian organizations to better communicate with their beneficiaries. The ability to deploy a scaled outreach campaign while not heavily burdening staff with regards to time and training has the potential to be one invaluable use of chatbots to development organizations with and without an ICT focus.</span>
+The chatbot technology has the potential to be an innovative tool for development and humanitarian organizations to better communicate with their beneficiaries. The ability to deploy a scaled outreach campaign while not heavily burdening staff with regards to time and training has the potential to be one invaluable use of chatbots to development organizations with and without an ICT focus.
 
-<span style="font-weight: 400;">Chatbots smartly guide beneficiaries and other end users through surveys, making the surveys easier to understand and complete correctly. There are options for additional functionality using artificial intelligence and machine learning in the interpretation of messages and sending of information.</span>
+Chatbots smartly guide beneficiaries and other end users through surveys, making the surveys easier to understand and complete correctly. There are options for additional functionality using artificial intelligence and machine learning in the interpretation of messages and sending of information.
 
-<span style="font-weight: 400;">Smartphones and chatbots have made services from banking to transportation more accessible across Africa. Now, aid agencies are hoping they can do the same with food.</span>
+Smartphones and chatbots have made services from banking to transportation more accessible across Africa. Now, aid agencies are hoping they can do the same with food.
 
-<span style="font-weight: 400;">The United Nations World Food Programme (WFP) routinely carries out food security analysis in order to assess and track the need for food assistance in its areas of operation. WFP maintains a network of 1.5o food security analysts who work with governments to implement surveys of household food security and markets. WFP commonly implements comprehensive and emergency food security assessments as well as market assessments and facilitates or maintains food security monitoring systems in many of its countries of presence.</span>
+The United Nations World Food Programme (WFP) routinely carries out food security analysis in order to assess and track the need for food assistance in its areas of operation. WFP maintains a network of 1.5o food security analysts who work with governments to implement surveys of household food security and markets. WFP commonly implements comprehensive and emergency food security assessments as well as market assessments and facilitates or maintains food security monitoring systems in many of its countries of presence.
 
-<span style="font-weight: 400;">In the last year </span><span style="font-weight: 400;">WFP has also experimented with chatbot-based survey.  </span>
+In the last year WFP has also experimented with chatbot-based survey.  
 
-<span style="font-weight: 400;">Chatbots will not be the solution to all problems, but simply another ICT tool that has the potential to deliver value with a thoughtful approach and proper design and development.</span>
+Chatbots will not be the solution to all problems, but simply another ICT tool that has the potential to deliver value with a thoughtful approach and proper design and development.
 
-<span style="font-weight: 400;">More information here </span><a href="http://www.ictworks.org/2017/07/20/ok-chatbot-what-is-your-value-for-humanitarians/"><span style="font-weight: 400;">http://www.ictworks.org/2017/07/20/ok-chatbot-what-is-your-value-for-humanitarians/</span></a>
-<span style="font-weight: 400;">and here </span><a href="https://qz.com/1066734/this-aid-agency-is-using-chatbots-to-beat-world-hunger/"><span style="font-weight: 400;">https://qz.com/1066734/this-aid-agency-is-using-chatbots-to-beat-world-hunger/</span></a>`,
+More information here <a href="http://www.ictworks.org/2017/07/20/ok-chatbot-what-is-your-value-for-humanitarians/">http://www.ictworks.org/2017/07/20/ok-chatbot-what-is-your-value-for-humanitarians/</a>
+and here <a href="https://qz.com/1066734/this-aid-agency-is-using-chatbots-to-beat-world-hunger/">https://qz.com/1066734/this-aid-agency-is-using-chatbots-to-beat-world-hunger/</a>`,
 	},
 	{
 		Title:   "iGNUvation for Data Collection",
 		Slug:    "ignuvation-for-data-collection",
 		Excerpt: "",
 		Content: `
-<h2><a href="http://www.fondazionecariplo.it/it/progetti/servizi/innovazione-per-lo-sviluppo.html"><b>Innovazione per lo Sviluppo</b></a><span style="font-weight: 400;">, è un progetto che nasce da un </span><span style="font-weight: 400;">percorso di riflessione attivato da Fondazione Cariplo, Compagnia di San Paolo con la compartecipazione di Fondazione CRT (sul tema: dati per il sociale e lo sviluppo) il cui obiettivo generale scaturisce in prima istanza da un profondo bisogno di innovazione in tutti i comparti (compresa la cooperazione internazionale) per rispondere al quale una prospettiva intersettoriale può costituire una modalità utile e vincente.
-E’ un progetto rivolto al mondo della </span><b>cooperazione internazionale</b><span style="font-weight: 400;"> e dell’</span><b>innovazione</b><span style="font-weight: 400;"> per offrire un percorso di apprendimento, networking e progettazione di soluzioni tecnologiche, in un’ottica di open innovation.
-All’interno del progetto si inseriscono gli </span><strong><a href="http://www.opendaysinnovazione.it/">Open Days dell’innovazione</a></strong><span style="font-weight: 400;">, </span><span style="font-weight: 400;">due giorni di eventi aperti alla città e dedicati alle organizzazioni non profit. Per identificare insieme quale innovazione viene chiesta oggi al Terzo Settore nel contesto di cambiamento della nuova Riforma.
-Suggeriranno inoltre strumenti utili per un'innovazione aperta e per la trasformazione digitale del Non Profit tramite l'implementazione di tecnologie all'avanguardia.</span></h2>
-<h2>Abbiamo presentato la nostra candidatura e siamo stati selezionati <span style="font-weight: 400;"> tra i 20 migliori casi da presentare nello spazio espositivo degli Open Days dell'innovazione. I partecipanti agli Open Days potranno visitare gli stand in qualunque momento ma è anche previsto un "Innovation tour" guidato dalle 14,30 alle 16,30 di lunedì 6 in cui i visitatori divisi a gruppi si  sposteranno tra i diversi stand in slot di circa dieci minuti ciascuno, in cui conosceranno i singoli espositori.
-Il titolo del progetto che presenteremo all’interno dell’Open Space sarà <strong>"iGNUvation for Data Collection - il Software Libero al servizio della Cooperazione"</strong></span></h2>
+<h2><a href="http://www.fondazionecariplo.it/it/progetti/servizi/innovazione-per-lo-sviluppo.html"><b>Innovazione per lo Sviluppo</b></a>, è un progetto che nasce da un percorso di riflessione attivato da Fondazione Cariplo, Compagnia di San Paolo con la compartecipazione di Fondazione CRT (sul tema: dati per il sociale e lo sviluppo) il cui obiettivo generale scaturisce in prima istanza da un profondo bisogno di innovazione in tutti i comparti (compresa la cooperazione internazionale) per rispondere al quale una prospettiva intersettoriale può costituire una modalità utile e vincente.
+E’ un progetto rivolto al mondo della <b>cooperazione internazionale</b> e dell’<b>innovazione</b> per offrire un percorso di apprendimento, networking e progettazione di soluzioni tecnologiche, in un’ottica di open innovation.
+All’interno del progetto si inseriscono gli <strong><a href="http://www.opendaysinnovazione.it/">Open Days dell’innovazione</a></strong>, due giorni di eventi aperti alla città e dedicati alle organizzazioni non profit. Per identificare insieme quale innovazione viene chiesta oggi al Terzo Settore nel contesto di cambiamento della nuova Riforma.
+Suggeriranno inoltre strumenti utili per un'innovazione aperta e per la trasformazione digitale del Non Profit tramite l'implementazione di tecnologie all'avanguardia.</h2>
+<h2>Abbiamo presentato la nostra candidatura e siamo stati selezionati  tra i 20 migliori casi da presentare nello spazio espositivo degli Open Days dell'innovazione. I partecipanti agli Open Days potranno visitare gli stand in qualunque momento ma è anche previsto un "Innovation tour" guidato dalle 14,30 alle 16,30 di lunedì 6 in cui i visitatori divisi a gruppi si  sposteranno tra i diversi stand in slot di circa dieci minuti ciascuno, in cui conosceranno i singoli espositori.
+Il titolo del progetto che presenteremo all’interno dell’Open Space sarà <strong>"iGNUvation for Data Collection - il Software Libero al servizio della Cooperazione"</strong></h2>
 
 <h2>Presenteremo tre esempi di applicazioni per la raccolta dati.</h2>
 <h2>1. Piattaforma Web e Mobile per la raccolta e l’analisi di dati sanitari nei campi rifugiati</h2>
 <h2>2. Piattaforma per il  riconoscimento facciale per le scuole del Burkina Faso.</h2>
 <h2>3. Piattaforma webGIS per la raccolta di dati per la gestione delle emergenze in Centro/Sud America.</h2>
-<h2><span style="font-weight: 400;">Nello stand sarà presente una postazione, dotata di monitor e di videocamera per simulare la conta degli studenti in un’aula tramite il riconoscimento facciale. Saranno disponibili inoltre dei tablet per testare l’applicazione di raccolta ed elaborazione dati e la piattaforma webGIS.</span></h2>
+<h2>Nello stand sarà presente una postazione, dotata di monitor e di videocamera per simulare la conta degli studenti in un’aula tramite il riconoscimento facciale. Saranno disponibili inoltre dei tablet per testare l’applicazione di raccolta ed elaborazione dati e la piattaforma webGIS.</h2>
 <h2>Cercheremo di raccontare, nel modo più interattivo e coinvolgente, la nostra storie, la nostra esperienza ed i nostri progetti.</h2>
 <h2><b>QUANDO</b></h2>
-<h2><span style="font-weight: 400;">6 novembre – 7 novembre 2017</span></h2>
+<h2>6 novembre – 7 novembre 2017</h2>
 <h2><b>DOVE</b>
-<span style="font-weight: 400;">BASE MILANO</span>
-<a href="https://www.google.it/maps/place/Via+Bergognone,+34,+20144+Milano+MI/@45.4524972,9.1620828,17z/data=!3m1!4b1!4m5!3m4!1s0x4786c3e5b12ede79:0x92f873689d8307c2!8m2!3d45.4524972!4d9.1642715"><span style="font-weight: 400;">Via Bergognone, 34</span></a>
-<span style="font-weight: 400;">M2 Porta Genova</span>
-<span style="font-weight: 400;">Milano</span></h2>
+BASE MILANO
+<a href="https://www.google.it/maps/place/Via+Bergognone,+34,+20144+Milano+MI/@45.4524972,9.1620828,17z/data=!3m1!4b1!4m5!3m4!1s0x4786c3e5b12ede79:0x92f873689d8307c2!8m2!3d45.4524972!4d9.1642715">Via Bergognone, 34</a>
+M2 Porta Genova
+Milano</h2>
 <h2><b>PER INFORMAZIONI</b>
-<a href="http://www.opendaysinnovazione.it/"><span style="font-weight: 400;">http://www.opendaysinnovazione.it/</span></a></h2>
+<a href="http://www.opendaysinnovazione.it/">http://www.opendaysinnovazione.it/</a></h2>
 `,
 	},
 	{
@@ -1942,15 +1942,15 @@ Il titolo del progetto che presenteremo all’interno dell’Open Space sarà <s
 		Excerpt: "",
 		Content: `
 <h2><strong><i>What is a blockchain?</i></strong></h2>
-<h2><span style="font-weight: 400;">According to the  </span><a href="https://opendocs.ids.ac.uk/opendocs/bitstream/handle/123456789/12945/RRB17.pdf?sequence=38"><span style="font-weight: 400;">Institute of Development Studies</span></a><span style="font-weight: 400;">: “the <strong>blockchain is a digital ledger of transactions</strong> that is distributed, verified and monitored by multiple sources simultaneously. </span><span style="font-weight: 400;">Traditionally, ledgers have enabled and facilitated vital functions, with the help of trusted third parties such as financial institutions and governments. These include: ensuring us of who owns what; validating transactions; or verifying that a given piece of information is true”. </span></h2>
-<h2><span style="font-weight: 400;">As opposed to the ledgers of intermediaries (see Table 1), <strong>the blockchain is distributed, public, transparent, encrypted and immutable</strong>.</span></h2>
+<h2>According to the  <a href="https://opendocs.ids.ac.uk/opendocs/bitstream/handle/123456789/12945/RRB17.pdf?sequence=38">Institute of Development Studies</a>: “the <strong>blockchain is a digital ledger of transactions</strong> that is distributed, verified and monitored by multiple sources simultaneously. Traditionally, ledgers have enabled and facilitated vital functions, with the help of trusted third parties such as financial institutions and governments. These include: ensuring us of who owns what; validating transactions; or verifying that a given piece of information is true”. </h2>
+<h2>As opposed to the ledgers of intermediaries (see Table 1), <strong>the blockchain is distributed, public, transparent, encrypted and immutable</strong>.</h2>
 <img class="size-full wp-image-3403" src="https://www.gnucoop.com/wp-content/uploads/2017/11/blochchain-post-3.png" alt="" width="603" height="532" /> Table 1: Comparing traditional ledgers with the blockchain
 <h2><em>Source: Adapted from Paul Baran’s networks, Paul Baran, Introduction to Distributed Communications Networks, 1964, Rand Corporation</em></h2>
 
 <hr />
 
-<h2><span style="font-weight: 400;"><strong>UN leaders</strong> calls startups working with blockchain and other technologies to focus their attention to improve digital identities.</span></h2>
-<h2><span style="font-weight: 400;">But there are many other areas of application of blockchain for development aid. <strong>WFP</strong> for example is using blockchain in <strong>Jordan’s Azraq camp</strong>. </span><span style="font-weight: 400;">In the pilot project, called  <strong>“Building Blocks”</strong>, 10,000 refugees are now able to pay for their food by means of entitlements recorded on a blockchain-based computing platform and <strong>Robert Opp</strong>, <strong>WFP’s Director of Innovation and Change Management</strong>, said <strong>“Blockchain technology allows us to step up the fight against hunger”</strong>. </span><span style="font-weight: 400;">“Through blockchain, we aim to cut payment costs, better protect beneficiary data, control financial risks, and respond more rapidly in the wake of emergencies. Using blockchain can be a qualitative leap – not only for WFP, but for the entire humanitarian community”, he added. </span></h2>
+<h2><strong>UN leaders</strong> calls startups working with blockchain and other technologies to focus their attention to improve digital identities.</h2>
+<h2>But there are many other areas of application of blockchain for development aid. <strong>WFP</strong> for example is using blockchain in <strong>Jordan’s Azraq camp</strong>. In the pilot project, called  <strong>“Building Blocks”</strong>, 10,000 refugees are now able to pay for their food by means of entitlements recorded on a blockchain-based computing platform and <strong>Robert Opp</strong>, <strong>WFP’s Director of Innovation and Change Management</strong>, said <strong>“Blockchain technology allows us to step up the fight against hunger”</strong>. “Through blockchain, we aim to cut payment costs, better protect beneficiary data, control financial risks, and respond more rapidly in the wake of emergencies. Using blockchain can be a qualitative leap – not only for WFP, but for the entire humanitarian community”, he added. </h2>
 <h2><b>Visit  this really interesting <a href="https://www.facebook.com/groups/blockchainsfightingpoverty/">facebook group</a></b><b>, that give the title of this blogpost, </b><b>that shares and contains many ex</b><b>amples and discussion of blockchains being built to reduce poverty and increase human progress.</b></h2>
 <h2><img class="aligncenter size-full wp-image-3385" src="https://www.gnucoop.com/wp-content/uploads/2017/11/Blockchain.png" alt="" width="941" height="429" /></h2>
 `,
@@ -1977,40 +1977,40 @@ Il titolo del progetto che presenteremo all’interno dell’Open Space sarà <s
 		Title:   "Mission Report Maban County, South Sudan",
 		Slug:    "mission-report-maban-county-south-sudan",
 		Excerpt: "",
-		Content: `<h6><span style="font-weight: 400;">The last training session in the 5th pilot Country has been held in <strong>South Sudan, Maban County</strong>. </span><span style="font-weight: 400;">Several refugee camps are currently located in Maban. They are largely occupied by people fleeing armed conflict in </span><a href="https://en.wikipedia.org/wiki/Sudan"><span style="font-weight: 400;">Sudan</span></a><span style="font-weight: 400;">'s </span><a href="https://en.wikipedia.org/wiki/Blue_Nile_(state)"><span style="font-weight: 400;">Blue Nile</span></a><span style="font-weight: 400;"> and </span><a href="https://en.wikipedia.org/wiki/South_Kordofan"><span style="font-weight: 400;">South Kordofan</span></a><span style="font-weight: 400;"> States. The largest camps are from west to east: <strong>Kaya, Yusuf Batil</strong> (locally known as Batil), <strong>Gendrassa</strong> (directly abutting Batil) and </span><a href="https://en.wikipedia.org/wiki/Doro,_South_Sudan"><span style="font-weight: 400;">Doro</span></a><span style="font-weight: 400;"> (near the town of Bunj). The camps were initially supported by the </span><a href="https://en.wikipedia.org/wiki/World_Food_Programme"><span style="font-weight: 400;">World Food Programme</span></a><span style="font-weight: 400;">, originally through food air drops, although as on 2013, the UN Refugee Agency (</span><a href="http://data.unhcr.org/SouthSudan/country.php?id=251"><span style="font-weight: 400;">UNHCR</span></a><span style="font-weight: 400;">) and several other NGOs started to provide more stable relief services.</span></h6>
+		Content: `<h6>The last training session in the 5th pilot Country has been held in <strong>South Sudan, Maban County</strong>. Several refugee camps are currently located in Maban. They are largely occupied by people fleeing armed conflict in <a href="https://en.wikipedia.org/wiki/Sudan">Sudan</a>'s <a href="https://en.wikipedia.org/wiki/Blue_Nile_(state)">Blue Nile</a> and <a href="https://en.wikipedia.org/wiki/South_Kordofan">South Kordofan</a> States. The largest camps are from west to east: <strong>Kaya, Yusuf Batil</strong> (locally known as Batil), <strong>Gendrassa</strong> (directly abutting Batil) and <a href="https://en.wikipedia.org/wiki/Doro,_South_Sudan">Doro</a> (near the town of Bunj). The camps were initially supported by the <a href="https://en.wikipedia.org/wiki/World_Food_Programme">World Food Programme</a>, originally through food air drops, although as on 2013, the UN Refugee Agency (<a href="http://data.unhcr.org/SouthSudan/country.php?id=251">UNHCR</a>) and several other NGOs started to provide more stable relief services.</h6>
 <img class="size-large wp-image-3649" src="https://www.gnucoop.com/wp-content/uploads/2018/01/Gendrassa-camp-1024x417.png" alt="" width="1024" height="417" /> Gendrassa Camp
-<h6><span style="font-weight: 400;">The Maban UNHCR Health and Nutrition team has involved the NGOs working in the Health sector (</span><a href="https://www.samaritanspurse.org/"><span style="font-weight: 400;">Samaritan’s Purse</span></a><span style="font-weight: 400;">, </span><a href="https://internationalmedicalcorps.org/country/south-sudan/"><span style="font-weight: 400;">International Medical Corps</span></a><span style="font-weight: 400;">, </span><a href="http://www.medair.org/en/countries/south-sudan/"><span style="font-weight: 400;">Medair</span></a><span style="font-weight: 400;">, </span><a href="https://www.ri.org/reach/africa/south-sudan"><span style="font-weight: 400;">Relief International</span></a><span style="font-weight: 400;">) for whom we held 3 days of training. </span><span style="font-weight: 400;"><strong>The training was really successful, thanks to the enthusiastic involvement of the participants</strong>. </span><span style="font-weight: 400;">They were really well prepared <strong>people who are dedicating their life to the Sudanese Refugees</strong> who left their country and found a place to stay in South Sudan, another country afflicted by a civil war from 2014. </span><span style="font-weight: 400;">They divided their time from the clinics to the NGO compound, where they spent time working on the reports of the day. The idea of using tablets and the chance of creating reports automatically, made them really happy.</span><span style="font-weight: 400;"><img class="size-full wp-image-3660 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/01/training-3.png" alt="" width="584" height="444" /></span></h6>
-<h6><span style="font-weight: 400;"><strong>We spent the second week visiting all the clinics and health posts they managed in the 4 refugee camps and the 2 hospitals outside the camps</strong>, which serve also the host community. We collected all the information necessary for the following pilot project. Indeed, in march 2018, they will leave paper in order to use only tablet for the data collection. Some of the clinics are in good conditions and well equipped, some other need to be rehabilitated, because working there it’s not easy. Maban County is quite difficult to be reached, especially for receiving building materials. They serve more than 100 refugees per day, giving health and nutrition support and they sincerely expressed their difficulties to work in these conditions.<img class="aligncenter wp-image-3665" src="https://www.gnucoop.com/wp-content/uploads/2018/01/Clinic-2.png" alt="" width="584" height="436" /></span></h6>
-<h6><span style="font-weight: 400;">We spent lot of time with all the people involved in the Health and Nutrition sector, UNHCR staff and NGOs local staff, we could learn many things. </span><span style="font-weight: 400;">Having  time for visiting all the clinics in four different camps, having the possibility to talk to people and collecting information directly from the field about the situation in that country has been a really great experience.</span></h6>
-<span style="font-weight: 400;"><img class="aligncenter wp-image-3667" src="https://www.gnucoop.com/wp-content/uploads/2018/01/Clinic-3.png" alt="" width="584" height="435" /></span>
-<h6><span style="font-weight: 400;">The situation in the country is still really dramatic and complicate. </span><span style="font-weight: 400;">Marking four years since the outbreak of South Sudan’s civil war, <strong>UN High Commissioner for Refugees, Filippo Grandi, </strong>on 13th December 2017,<strong> appealed for “urgent action by all sides to settle the conflict and put an end to the country’s deepening humanitarian crisis and Africa’s largest refugee crisis”</strong>. </span>Noting that 63 percent of all South Sudanese refugees are under 18,<strong> Grandi labelled the situation “a children’s refugee crisis” and stressed that: “many children are arriving unaccompanied, separated and deeply traumatised.” </strong><span style="font-weight: 400;">Refugee women arriving in neighbouring countries have also reported repeated rape, the killing of their husbands, and abduction of their children. </span><span style="font-weight: 400;">The six countries neighbouring South Sudan host <strong>two million refugees</strong>, while nearly <strong>seven million citizens inside the country are in need of essential humanitarian assistance</strong>. <strong>Two million of these are internally displaced</strong>. </span><span style="font-weight: 400;">Despite this tragic situation, the South Sudanese staff we met showed us a great desire to work together and to do their job in the best possible way.
-</span><span style="font-weight: 400;">Thank you guys! </span></h6>`,
+<h6>The Maban UNHCR Health and Nutrition team has involved the NGOs working in the Health sector (<a href="https://www.samaritanspurse.org/">Samaritan’s Purse</a>, <a href="https://internationalmedicalcorps.org/country/south-sudan/">International Medical Corps</a>, <a href="http://www.medair.org/en/countries/south-sudan/">Medair</a>, <a href="https://www.ri.org/reach/africa/south-sudan">Relief International</a>) for whom we held 3 days of training. <strong>The training was really successful, thanks to the enthusiastic involvement of the participants</strong>. They were really well prepared <strong>people who are dedicating their life to the Sudanese Refugees</strong> who left their country and found a place to stay in South Sudan, another country afflicted by a civil war from 2014. They divided their time from the clinics to the NGO compound, where they spent time working on the reports of the day. The idea of using tablets and the chance of creating reports automatically, made them really happy.<img class="size-full wp-image-3660 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/01/training-3.png" alt="" width="584" height="444" /></h6>
+<h6><strong>We spent the second week visiting all the clinics and health posts they managed in the 4 refugee camps and the 2 hospitals outside the camps</strong>, which serve also the host community. We collected all the information necessary for the following pilot project. Indeed, in march 2018, they will leave paper in order to use only tablet for the data collection. Some of the clinics are in good conditions and well equipped, some other need to be rehabilitated, because working there it’s not easy. Maban County is quite difficult to be reached, especially for receiving building materials. They serve more than 100 refugees per day, giving health and nutrition support and they sincerely expressed their difficulties to work in these conditions.<img class="aligncenter wp-image-3665" src="https://www.gnucoop.com/wp-content/uploads/2018/01/Clinic-2.png" alt="" width="584" height="436" /></h6>
+<h6>We spent lot of time with all the people involved in the Health and Nutrition sector, UNHCR staff and NGOs local staff, we could learn many things. Having  time for visiting all the clinics in four different camps, having the possibility to talk to people and collecting information directly from the field about the situation in that country has been a really great experience.</h6>
+<img class="aligncenter wp-image-3667" src="https://www.gnucoop.com/wp-content/uploads/2018/01/Clinic-3.png" alt="" width="584" height="435" />
+<h6>The situation in the country is still really dramatic and complicate. Marking four years since the outbreak of South Sudan’s civil war, <strong>UN High Commissioner for Refugees, Filippo Grandi, </strong>on 13th December 2017,<strong> appealed for “urgent action by all sides to settle the conflict and put an end to the country’s deepening humanitarian crisis and Africa’s largest refugee crisis”</strong>. Noting that 63 percent of all South Sudanese refugees are under 18,<strong> Grandi labelled the situation “a children’s refugee crisis” and stressed that: “many children are arriving unaccompanied, separated and deeply traumatised.” </strong>Refugee women arriving in neighbouring countries have also reported repeated rape, the killing of their husbands, and abduction of their children. The six countries neighbouring South Sudan host <strong>two million refugees</strong>, while nearly <strong>seven million citizens inside the country are in need of essential humanitarian assistance</strong>. <strong>Two million of these are internally displaced</strong>. Despite this tragic situation, the South Sudanese staff we met showed us a great desire to work together and to do their job in the best possible way.
+Thank you guys! </h6>`,
 	},
 	{
 		Title:   "‘MEDIA and ICT FOR DEVELOPMENT’",
 		Slug:    "media-and-ict-for-development",
 		Excerpt: "",
-		Content: `<span style="font-weight: 400;">On the 14th of May 2018 and in collaboration with <a href="http://www.ong2zero.org/">ONG2.0</a>, Gnucoop took part, as lecturer, to one of the session of the </span><strong>‘Media  and ICT for development’</strong><span style="font-weight: 400;"> workshop at the University of Turin. </span>
+		Content: `On the 14th of May 2018 and in collaboration with <a href="http://www.ong2zero.org/">ONG2.0</a>, Gnucoop took part, as lecturer, to one of the session of the <strong>‘Media  and ICT for development’</strong> workshop at the University of Turin. 
 
-<span style="font-weight: 400;">The workshop is one of the activity included in the University Course in Public and Political Communication (<a href="http://www.didattica-cps.unito.it/do/home.pl/View?doc=corsi_di_studio/CPP_comunicazione_pubblica/presentazione.html">Corso di laurea magistrale in Comunicazione pubblica e politica</a>), that helps students to get familiar and acquire knowledge and skills about the use of communication  and ICT tools in the development sector.</span>
+The workshop is one of the activity included in the University Course in Public and Political Communication (<a href="http://www.didattica-cps.unito.it/do/home.pl/View?doc=corsi_di_studio/CPP_comunicazione_pubblica/presentazione.html">Corso di laurea magistrale in Comunicazione pubblica e politica</a>), that helps students to get familiar and acquire knowledge and skills about the use of communication  and ICT tools in the development sector.
 
-<span style="font-weight: 400;"><img class="size-large wp-image-3732 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/05/unito0-1-1024x491.jpg" alt="" width="1024" height="491" /></span>
+<img class="size-large wp-image-3732 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/05/unito0-1-1024x491.jpg" alt="" width="1024" height="491" />
 
-<span style="font-weight: 400;">The workshop included 6 sessions and  Gnucoop was invited to participate as a lecturer to one of the lessons, focusing on the use of ICT for development.</span>
+The workshop included 6 sessions and  Gnucoop was invited to participate as a lecturer to one of the lessons, focusing on the use of ICT for development.
 
-<span style="font-weight: 400;">Gnucoop discussed about the use of ICT in the development sector and particularly on how free software and technology can be useful tools to improve the impact of developing projects in international cooperation. Also, Gnucoop provided an </span><span style="font-weight: 400;">overview and examples of ICT4D applications, such as mobile data collection tools, web GIS applications and blockchain solutions.</span>
+Gnucoop discussed about the use of ICT in the development sector and particularly on how free software and technology can be useful tools to improve the impact of developing projects in international cooperation. Also, Gnucoop provided an overview and examples of ICT4D applications, such as mobile data collection tools, web GIS applications and blockchain solutions.
 
-<span style="font-weight: 400;">All the mentioned tools have the double role of gathering/disseminating information as well as helping responders to take actions. </span>
+All the mentioned tools have the double role of gathering/disseminating information as well as helping responders to take actions. 
 
-<span style="font-weight: 400;">Furthermore key challenges and best practices in ICT4D have been presented and discussed such as:</span>
+Furthermore key challenges and best practices in ICT4D have been presented and discussed such as:
 <ol>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;"><strong>Sustainability</strong>: ensuring project longevity →  crucial involvement of government or local ownership;</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;"><strong>Scalability</strong>: from pilot to large scale project: → ability to propose a solution that can impact large population</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;"><strong>Evaluation</strong>: impact analysis → keep monitoring the application year after year</span></li>
+ 	<li style="font-weight: 400;"><strong>Sustainability</strong>: ensuring project longevity →  crucial involvement of government or local ownership;</li>
+ 	<li style="font-weight: 400;"><strong>Scalability</strong>: from pilot to large scale project: → ability to propose a solution that can impact large population</li>
+ 	<li style="font-weight: 400;"><strong>Evaluation</strong>: impact analysis → keep monitoring the application year after year</li>
 </ol>
-<span style="font-weight: 400;">The class involved students from the university of Turin enrolled specifically  in communication and development studies, who were very interested and actively participated to the session. </span>
+The class involved students from the university of Turin enrolled specifically  in communication and development studies, who were very interested and actively participated to the session. 
 
-<span style="font-weight: 400;">At the end of the workshop, students have been asked to run a practical exercise and design a communication plan related to the cooperation and development sector. </span>`,
+At the end of the workshop, students have been asked to run a practical exercise and design a communication plan related to the cooperation and development sector. `,
 	},
 	{
 		Title:   "What Gnucoop means to me",
@@ -2022,11 +2022,11 @@ She completed her stage few days ago, and here what he left to us....
 
 Thank you Zoe! And than you for your enthusiasm!
 
-<span style="font-weight: 400;">For the past two and a half months, I have spent my summer abroad living in Milan, Italy, working for the internationally acclaimed IT non-profit Gnucoop. Gnucoop provides free, secure, and reliable data platforms for information collection services in developing countries, making possible the digitization of information from the start (whether it be resource distribution or identification statistics). In working with this company, I have learned much more than I ever anticipated, developing hard and soft skills that will stick with me for the rest of my life. I worked with colleagues to compose, review, and revise Brief Summaries, Business Informational Reports, and Grant Proposals/ Applications. Throughout this process, I had to analyze data platforms, geo-level map indicators, and block chain solutions. Understanding the steps necessary to collect, aggregate, monitor, and report &amp; share data. When dealing with clients, such as the UNHCR, UN Refugee Agency, and UNICEF, it is crucial to be consistent and clear: presenting the features and implementations of hash maps and customizable indicators is not always accomplished in the most concise manner. This internship has taught me how to analyze extended reports and reproduce them in simplified versions without taking away from the original meaning. The Gnucoop team does a phenomenal job of marketing and advertising their complex company message in a clean and clear light. Additionally, I designed and created the Gnucoop sector based logos, infographics, flyers, and social-media posts. To do so, I had to participate in many conference calls and gain a basic understanding of data-science engineering to remain consistent with the company concept design. Leading the graphic design initiative for Gnucoop was both an honor and a horror story, because of the acknowledgement to my skill and my initial fear of failure. Like any new intern, I was nervous and scared of rejection. By the end of my internship, though, it was learning how to accept myself as a creator and have confidence in my work that imposed in me notions of self-worth and pride that I will cherish forever. Without Gnucoop and the roles to which they assigned me, I do not know if I ever would have truly valued myself as an artist. In performing such tasks, I am now more confident in my Writing in Business skills as well as mastery of both Adobe Photoshop and Illustrator.</span>
+For the past two and a half months, I have spent my summer abroad living in Milan, Italy, working for the internationally acclaimed IT non-profit Gnucoop. Gnucoop provides free, secure, and reliable data platforms for information collection services in developing countries, making possible the digitization of information from the start (whether it be resource distribution or identification statistics). In working with this company, I have learned much more than I ever anticipated, developing hard and soft skills that will stick with me for the rest of my life. I worked with colleagues to compose, review, and revise Brief Summaries, Business Informational Reports, and Grant Proposals/ Applications. Throughout this process, I had to analyze data platforms, geo-level map indicators, and block chain solutions. Understanding the steps necessary to collect, aggregate, monitor, and report &amp; share data. When dealing with clients, such as the UNHCR, UN Refugee Agency, and UNICEF, it is crucial to be consistent and clear: presenting the features and implementations of hash maps and customizable indicators is not always accomplished in the most concise manner. This internship has taught me how to analyze extended reports and reproduce them in simplified versions without taking away from the original meaning. The Gnucoop team does a phenomenal job of marketing and advertising their complex company message in a clean and clear light. Additionally, I designed and created the Gnucoop sector based logos, infographics, flyers, and social-media posts. To do so, I had to participate in many conference calls and gain a basic understanding of data-science engineering to remain consistent with the company concept design. Leading the graphic design initiative for Gnucoop was both an honor and a horror story, because of the acknowledgement to my skill and my initial fear of failure. Like any new intern, I was nervous and scared of rejection. By the end of my internship, though, it was learning how to accept myself as a creator and have confidence in my work that imposed in me notions of self-worth and pride that I will cherish forever. Without Gnucoop and the roles to which they assigned me, I do not know if I ever would have truly valued myself as an artist. In performing such tasks, I am now more confident in my Writing in Business skills as well as mastery of both Adobe Photoshop and Illustrator.
 
 <img class="wp-image-3744 size-large" src="https://www.gnucoop.com/wp-content/uploads/2018/07/zoe-1024x634.jpg" alt="" width="1024" height="634" /> Zoe with the brochure she created during the stage
 
-<span style="font-weight: 400;">A characteristic of this company that cannot be left unsaid is its welcoming nature. Not a single day did I feel uncomfortable or overwhelmed with my role in the company. I was certainly kept busy, but never to an extent where I felt I could not manage the tasks at hand. I attribute this optimism to my enjoyment and excitement for working with Gnucoop. Being a part of this team was as amusing and entertaining as it was challenging, constantly being pushed as well as non-stop laughing with my co-workers—making me feel right at home. Gnucoop embodies a perfect balance of intense software engineering with playful, open-minded collaboration. Every aspect of my internship taught me something new, and I will use this exposure and knowledge as a vehicle to further my pursuits in international business and networking. I am thankful for these lessons, some of which arrived from relationships built with colleagues, involvement in international business, and a growing understanding of Italian NGO and co-op working culture. All of the respect my fellow colleagues gave to me motivated me to give just the same in return. I will carry with me this attitude, as I prepare for my return to the United States to embark on my next business journey, curious to see where these incomparable skills will take me.</span>
+A characteristic of this company that cannot be left unsaid is its welcoming nature. Not a single day did I feel uncomfortable or overwhelmed with my role in the company. I was certainly kept busy, but never to an extent where I felt I could not manage the tasks at hand. I attribute this optimism to my enjoyment and excitement for working with Gnucoop. Being a part of this team was as amusing and entertaining as it was challenging, constantly being pushed as well as non-stop laughing with my co-workers—making me feel right at home. Gnucoop embodies a perfect balance of intense software engineering with playful, open-minded collaboration. Every aspect of my internship taught me something new, and I will use this exposure and knowledge as a vehicle to further my pursuits in international business and networking. I am thankful for these lessons, some of which arrived from relationships built with colleagues, involvement in international business, and a growing understanding of Italian NGO and co-op working culture. All of the respect my fellow colleagues gave to me motivated me to give just the same in return. I will carry with me this attitude, as I prepare for my return to the United States to embark on my next business journey, curious to see where these incomparable skills will take me.
 
 `,
 	},
@@ -2035,14 +2035,14 @@ Thank you Zoe! And than you for your enthusiasm!
 		Slug:    "next-steps-when-you-got-data-its-time-to-gain-knowledge",
 		Excerpt: "",
 		Content: `
-<h2><span style="font-weight: 400;">What does the ancient astronomer <em>Taqi ad-Din</em>, the well known scientific communicator <em>Neil deGrasse Tyson</em>, and the father of modern statistics, <em>Sir Francis Galton</em>, have in common? Their life is tightly bound with data analysis, as almost everything in our "data explosion" times, should be. The era of guessing is rapidly declining, when the data-driven paradigms are more and more on the rise. Gnucoop, being a data oriented software company from the very beginning, stays true to it's origins. During the last Gnumeeting, an entire day was dedicated to an extended overview of the <strong>Data Science</strong> discipline, for all our team. I was delighted to introduce my colleagues to all the bolts and nuts of this fascinating, almost magic, activity called <strong>Machine Learning</strong>. </span></h2>
-<h2><span style="font-weight: 400;">Starting with some historical anecdotes on how a wrong data interpretation could, and in fact did lead to some disastrous outcomes, we moved on experiencing how fascinating the data visualization could be. I always suggest to make a peek at <em>David McCandless</em> marvelous project called "<a href="http://informationisbeautiful.net">informationisbeautiful.net</a>". It's the best place to quickly understand how much information could be delivered to us, with simple visualization techniques, instead of using pure language.</span></h2>
+<h2>What does the ancient astronomer <em>Taqi ad-Din</em>, the well known scientific communicator <em>Neil deGrasse Tyson</em>, and the father of modern statistics, <em>Sir Francis Galton</em>, have in common? Their life is tightly bound with data analysis, as almost everything in our "data explosion" times, should be. The era of guessing is rapidly declining, when the data-driven paradigms are more and more on the rise. Gnucoop, being a data oriented software company from the very beginning, stays true to it's origins. During the last Gnumeeting, an entire day was dedicated to an extended overview of the <strong>Data Science</strong> discipline, for all our team. I was delighted to introduce my colleagues to all the bolts and nuts of this fascinating, almost magic, activity called <strong>Machine Learning</strong>. </h2>
+<h2>Starting with some historical anecdotes on how a wrong data interpretation could, and in fact did lead to some disastrous outcomes, we moved on experiencing how fascinating the data visualization could be. I always suggest to make a peek at <em>David McCandless</em> marvelous project called "<a href="http://informationisbeautiful.net">informationisbeautiful.net</a>". It's the best place to quickly understand how much information could be delivered to us, with simple visualization techniques, instead of using pure language.</h2>
 <img class="size-large wp-image-3750 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/07/one-1024x708.jpg" alt="" width="1024" height="708" />
-<h2><span style="font-weight: 400;">Next we moved to the real core of the data analysis, taking a look at the data cleaning activity and some basic models like <strong>Linear Regression</strong>, applied on some standard datasets from Kaggle. <a href="https://www.kaggle.com/">Kaggle</a> is de facto the place to go for every data enthusiast, being the main platform both for education and competitions in data science, setting all the reference benchmarks for the best models around. </span></h2>
-<h2><span style="font-weight: 400;">Our data-garden was next enriched by Decision Trees, creating a Random Forest (pun intended). All our products and projects will expand on existing decision support systems, leveraging all our data gathering tools, and Machine Learning techniques going forward with all this r</span><span style="font-weight: 400;">apid developing field.</span></h2>
+<h2>Next we moved to the real core of the data analysis, taking a look at the data cleaning activity and some basic models like <strong>Linear Regression</strong>, applied on some standard datasets from Kaggle. <a href="https://www.kaggle.com/">Kaggle</a> is de facto the place to go for every data enthusiast, being the main platform both for education and competitions in data science, setting all the reference benchmarks for the best models around. </h2>
+<h2>Our data-garden was next enriched by Decision Trees, creating a Random Forest (pun intended). All our products and projects will expand on existing decision support systems, leveraging all our data gathering tools, and Machine Learning techniques going forward with all this rapid developing field.</h2>
 <h2><img class="size-full wp-image-3751 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/07/two.jpg" alt="" width="715" height="402" /></h2>
 <h2></h2>
-<h2><span style="font-weight: 400;"><strong>Data analysis</strong> made some huge leaps in the last years, allowing software not only to see, but also to understand what is looking at. We analyzed some data sets for Classification problems, making our model actually distinguish between entities, being it some lexical notions, as in <strong>Natural Language Processing</strong>  techniques, or plain pictures containing subjects. There are several tools at our disposition for the task, from some simple Probability Models to some more advanced Convolutional Neural Networks. In conclusion we did test some other techniques regarding Time Series analysis for pattern recognition. As usual one can only predict efficiently an event which is generated from some discovered strong patterns, otherwise we go back to guessing.</span><span style="font-weight: 400;"><strong><img class="size-full wp-image-3879 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/07/Post-Niko-1.png" alt="" width="955" height="522" />Artificial intelligence</strong> should and will enhance all those social interventions already done by thousands of people in the most critical areas of the globe, and I believe actually it is the best field where <strong>AI</strong> should be deployed. Using learning networks in video games is fun. Selling the right burger to the right person is nice. But what about those situations where time is not an option, nor errors are allowed. Situations where life itself depends on fast and precise reaction of those who can help. Here at <strong>Gnucoop</strong> our daily effort is committed towards deploying every useful technology, from <strong>computer vision</strong> to <strong>neural networks</strong>, from <strong>language processing</strong> to <strong>block-chain</strong>, in order to help <strong>equality, collaboration and justice</strong>. </span></h2>
+<h2><strong>Data analysis</strong> made some huge leaps in the last years, allowing software not only to see, but also to understand what is looking at. We analyzed some data sets for Classification problems, making our model actually distinguish between entities, being it some lexical notions, as in <strong>Natural Language Processing</strong>  techniques, or plain pictures containing subjects. There are several tools at our disposition for the task, from some simple Probability Models to some more advanced Convolutional Neural Networks. In conclusion we did test some other techniques regarding Time Series analysis for pattern recognition. As usual one can only predict efficiently an event which is generated from some discovered strong patterns, otherwise we go back to guessing.<strong><img class="size-full wp-image-3879 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/07/Post-Niko-1.png" alt="" width="955" height="522" />Artificial intelligence</strong> should and will enhance all those social interventions already done by thousands of people in the most critical areas of the globe, and I believe actually it is the best field where <strong>AI</strong> should be deployed. Using learning networks in video games is fun. Selling the right burger to the right person is nice. But what about those situations where time is not an option, nor errors are allowed. Situations where life itself depends on fast and precise reaction of those who can help. Here at <strong>Gnucoop</strong> our daily effort is committed towards deploying every useful technology, from <strong>computer vision</strong> to <strong>neural networks</strong>, from <strong>language processing</strong> to <strong>block-chain</strong>, in order to help <strong>equality, collaboration and justice</strong>. </h2>
 `,
 	},
 	{
@@ -2050,29 +2050,29 @@ Thank you Zoe! And than you for your enthusiasm!
 		Slug:    "irhis-rolling-out-to-new-countries",
 		Excerpt: "",
 		Content: `
-<h2><span style="font-weight: 400;">Here we are with some updates on the Integrated Refugee Health Information System (IRHIS) project that aims at monitoring UNHCR’s public health activities in Refugee Camps worldwide.
-<a href="https://his.unhcr.org/home"><span style="font-weight: 400;">https://his.unhcr.org/</span></a></span></h2>
+<h2>Here we are with some updates on the Integrated Refugee Health Information System (IRHIS) project that aims at monitoring UNHCR’s public health activities in Refugee Camps worldwide.
+<a href="https://his.unhcr.org/home">https://his.unhcr.org/</a></h2>
 <img class="size-large wp-image-3762" src="https://www.gnucoop.com/wp-content/uploads/2018/08/Fig1-1024x499.png" alt="" width="1024" height="499" /> Fig.1 iRHIS Landing page
 
 &nbsp;
-<h2><span style="font-weight: 400;">The mobile and web application designed to collect and report refugees medical records is up and running with a renovated look and it’s currently being used in 4 countries: Tanzania, Rwanda, Zambia and Ethiopia, involving over 1300 users and serving over 355.700 refugees.</span></h2>
-<h2><span style="font-weight: 400;">While Tanzania, Rwanda and Zambia have also participated to the pilot phase, the system has been introduced to Ethiopia only in the last month, where over 500 new users have started to collect data.</span></h2>
-<h2><span style="font-weight: 400;">While Data is collected daily and mostly offline on tablets by health staff, data synchronization and aggregation is performed weekly to update indicators on dashboard, reports and landing page. In some locations, such as in 2 Refugee camps in Zambia and one camp in Kenya, individual data collection has not been possible due to internal constraints. In order to overcome the challenge, the system provides the possibility to also enter already aggregated data directly into the application using a specific online form at health facility level. </span></h2>
-<h2><span style="font-weight: 400;">Once information has been entered into the system, dashboard, reports and landing page allow easily monitoring of mortality, morbidity, reproductive health, diseases surveillance, Epi and nutritional indicators. </span></h2>
-<h2><span style="font-weight: 400;">The landing page, that is publicly available,  displays indicator values at country and camp levels. The picture below shows pie charts (Fig.2) about the top five causes of morbidity in 6 Rwandese Refugee camps, grouped by disease type ( Acute Health Conditions, Chronic Diseases, Injuries, Mental Health Disease)</span></h2>
+<h2>The mobile and web application designed to collect and report refugees medical records is up and running with a renovated look and it’s currently being used in 4 countries: Tanzania, Rwanda, Zambia and Ethiopia, involving over 1300 users and serving over 355.700 refugees.</h2>
+<h2>While Tanzania, Rwanda and Zambia have also participated to the pilot phase, the system has been introduced to Ethiopia only in the last month, where over 500 new users have started to collect data.</h2>
+<h2>While Data is collected daily and mostly offline on tablets by health staff, data synchronization and aggregation is performed weekly to update indicators on dashboard, reports and landing page. In some locations, such as in 2 Refugee camps in Zambia and one camp in Kenya, individual data collection has not been possible due to internal constraints. In order to overcome the challenge, the system provides the possibility to also enter already aggregated data directly into the application using a specific online form at health facility level. </h2>
+<h2>Once information has been entered into the system, dashboard, reports and landing page allow easily monitoring of mortality, morbidity, reproductive health, diseases surveillance, Epi and nutritional indicators. </h2>
+<h2>The landing page, that is publicly available,  displays indicator values at country and camp levels. The picture below shows pie charts (Fig.2) about the top five causes of morbidity in 6 Rwandese Refugee camps, grouped by disease type ( Acute Health Conditions, Chronic Diseases, Injuries, Mental Health Disease)</h2>
 <img class="size-large wp-image-3764" src="https://www.gnucoop.com/wp-content/uploads/2018/08/Fig2-1024x344.png" alt="" width="1024" height="344" /> Fig. 2: Total consultations, Rwanda-June 2018
 
 &nbsp;
-<h2><span style="font-weight: 400;">The following image instead shows the breakdown of ‘Skilled Birth Attendance’ indicator in Rwandese camps (Fig.3)</span></h2>
+<h2>The following image instead shows the breakdown of ‘Skilled Birth Attendance’ indicator in Rwandese camps (Fig.3)</h2>
 <img class="size-large wp-image-3765" src="https://www.gnucoop.com/wp-content/uploads/2018/08/Fig3-1024x427.png" alt="" width="1024" height="427" /> Fig. 3: Skilled Birth attendance breakdown, Rwanda-June 2018
 
 &nbsp;
-<h2><span style="font-weight: 400;">The dashboard is also a key element of the iRHIS system. Displayed data is based on users’ permissions and Figure 4 shows some dashboard indicators (population, morbidity and mortality) related to Kiziba Refugee camp in Rwanda.</span></h2>
+<h2>The dashboard is also a key element of the iRHIS system. Displayed data is based on users’ permissions and Figure 4 shows some dashboard indicators (population, morbidity and mortality) related to Kiziba Refugee camp in Rwanda.</h2>
 <img class="size-large wp-image-3766" src="https://www.gnucoop.com/wp-content/uploads/2018/08/Fig4-1024x252.png" alt="" width="1024" height="252" /> Fig. 4: Dashboard for Kiziba camp- week 30 2018
 
 &nbsp;
-<h2><span style="font-weight: 400;">A great advantage of the system is that not only camp, country or regional supervisors but also clinicians at health center level can view updated indicators directly on their dashboard on their tablets. This helps them to always have a clear picture of the current status of the Health Facility or Camp where they work in. Furthermore, they can see their data collection efforts being used to generate valuable information.</span></h2>
-<h2><span style="font-weight: 400;">Also reports are automatically generated weekly. They provide a comprehensive overview of public health and wash indicators at refugee camp level. Figure 5 and 6 show some examples of iRHIS reports.</span></h2>
+<h2>A great advantage of the system is that not only camp, country or regional supervisors but also clinicians at health center level can view updated indicators directly on their dashboard on their tablets. This helps them to always have a clear picture of the current status of the Health Facility or Camp where they work in. Furthermore, they can see their data collection efforts being used to generate valuable information.</h2>
+<h2>Also reports are automatically generated weekly. They provide a comprehensive overview of public health and wash indicators at refugee camp level. Figure 5 and 6 show some examples of iRHIS reports.</h2>
 <img class="size-large wp-image-3767" src="https://www.gnucoop.com/wp-content/uploads/2018/08/Fig5-1024x604.png" alt="" width="1024" height="604" /> Fig. 5: Example of HIS Indicator Report for Nyarugusu Camp (Tanzania, June 2018)
 
 &nbsp;
@@ -2080,8 +2080,8 @@ Thank you Zoe! And than you for your enthusiasm!
 <img class="size-large wp-image-3768" src="https://www.gnucoop.com/wp-content/uploads/2018/08/Fig6-1024x424.png" alt="" width="1024" height="424" /> Fig. 6: Example of Disease Surveillance Report for Mugombwa Camp (Rwanda, week 30)
 
 &nbsp;
-<h2><span style="font-weight: 400;">In the coming months, the system will be constantly monitored to improve its performance and facilitate the roll out in other countries. In August, Sudan will be added to the list of implementing countries. Particularly, next week health staff from 7 camps in Easter Sudan will be trained on the use of the new system.</span></h2>
-<h2><span style="font-weight: 400;">We’ll continue keeping you posted on future updates of the project! Stay tuned!</span></h2>
+<h2>In the coming months, the system will be constantly monitored to improve its performance and facilitate the roll out in other countries. In August, Sudan will be added to the list of implementing countries. Particularly, next week health staff from 7 camps in Easter Sudan will be trained on the use of the new system.</h2>
+<h2>We’ll continue keeping you posted on future updates of the project! Stay tuned!</h2>
 `,
 	},
 	{
@@ -2109,7 +2109,7 @@ Il servizio SMS sarà presentato alle istituzioni locali e proposto alle compagn
 <h2><strong>Sviluppo di una piattaforma di raccolta e analisi dei dati relativi al progetto e per monitoraggio delle attività.</strong></h2>
 <h2>Gli aspetti presi in considerazione saranno di carattere quantitativo e qualitativo. La raccolta dei dati sarà garantita da una risorsa dedicata all’interno dello staff locale (M&amp;E Officer) che si occuperà, col coordinatore del progetto e il consulente incaricato della valutazione, della baseline survey per poi proseguire alla verifica dell’andamento delle attività attraverso la raccolta trimestrale dei dati.</h2>
 <!--more-->
-<h2><span style="color: #008000;">Nella <strong><a style="color: #008000;" href="https://www.manitese.it/progetto/quelimane-agricola-produce-cresce-consuma-sostenibile/">pagina dedicata al progetto</a> </strong>potete trovare maggiori dettagli e la possibilità di supportarlo!</span></h2>
+<h2>Nella <strong><a style="color: #008000;" href="https://www.manitese.it/progetto/quelimane-agricola-produce-cresce-consuma-sostenibile/">pagina dedicata al progetto</a> </strong>potete trovare maggiori dettagli e la possibilità di supportarlo!</h2>
 <img class="size-full wp-image-3781 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/08/QUELIMANE_FOOTER_ita.jpg" alt="" width="794" height="284" />
 
 Qui la lista dei partners di progetto:
@@ -2128,42 +2128,42 @@ Qui la lista dei partners di progetto:
 		Slug:    "merkurio-fieldready-and-secure-payment-network",
 		Excerpt: "",
 		Content: `
-<h2><span style="font-weight: 400;">At the beginning of 2018, Gnucoop and</span><a href="http://merkur.io/"> <span style="font-weight: 400;">Merkur.io</span></a><span style="font-weight: 400;"> started a collaboration for providing a cash and voucher platform to NGOs and Humanitarian Agencies.</span></h2>
-<h2><span style="font-weight: 400;">Merkur.io is a secure digital payment platform capable of turning humanitarian voucher fairs into a fraud free, rapid and effective experience to NGOs, merchants and humanitarian assistance right holders (beneficiaries).</span></h2>
-<h2><span style="font-weight: 400;">Merkur.io handles Humanitarian Voucher Fairs through crypto-currencies, using  safe and efficient payment methods. Our network extends to remote and offline areas to deploy the system with solar power and paper QR codes, allowing for  reinforced security measures.</span></h2>
-<h2><span style="font-weight: 400;">Cash based assistance in particular humanitarian voucher fairs have made humanitarian assistance faster and more efficient.</span></h2>
+<h2>At the beginning of 2018, Gnucoop and<a href="http://merkur.io/"> Merkur.io</a> started a collaboration for providing a cash and voucher platform to NGOs and Humanitarian Agencies.</h2>
+<h2>Merkur.io is a secure digital payment platform capable of turning humanitarian voucher fairs into a fraud free, rapid and effective experience to NGOs, merchants and humanitarian assistance right holders (beneficiaries).</h2>
+<h2>Merkur.io handles Humanitarian Voucher Fairs through crypto-currencies, using  safe and efficient payment methods. Our network extends to remote and offline areas to deploy the system with solar power and paper QR codes, allowing for  reinforced security measures.</h2>
+<h2>Cash based assistance in particular humanitarian voucher fairs have made humanitarian assistance faster and more efficient.</h2>
 <!--more-->
 <h1><b>Case Study: Cash Distribution in Libya </b></h1>
-<h2><span style="font-weight: 400;">In certain remote and marginalized areas in countries, such as Libya, international staff are prohibited entry.</span></h2>
-<h2><span style="font-weight: 400;">E-vouchers are the only possible method to provide salaries and reimbursements to the local staff, who are responsible for both implementing the activities and monitoring the cash distribution in these areas.</span></h2>
+<h2>In certain remote and marginalized areas in countries, such as Libya, international staff are prohibited entry.</h2>
+<h2>E-vouchers are the only possible method to provide salaries and reimbursements to the local staff, who are responsible for both implementing the activities and monitoring the cash distribution in these areas.</h2>
 <h2><strong>Project description</strong></h2>
-<h2><span style="font-weight: 400;">Libya is notorious for its political instability that restricts, and under some circumstances, denies the civilian population access to fundamental rights, such as healthcare and education. Thousands of people do not have access to health care and medication is scarce. The Ministry of Health recently reported that only 60% of Libyan hospitals are partially or completely in operation; the majority of the country’s medical personnel have fled the country, and the few remaining doctors lack the tools and resources to work safely. A recent analysis of the capacity of the Libyan health sector, promoted by the World Health Organization, shows that out of a total of 1656 health facilities, 17% of hospitals and 20.1% of first aid centers are not functioning.</span></h2>
-<h2><a href="http://helpcode.org"><i><span style="font-weight: 400;">Helpcode</span></i></a><span style="font-weight: 400;"> intervention promotes an emergency intervention service in the Fezzan region, in the province of Ubari, within 4 health centers. The </span><i><span style="font-weight: 400;">Helpcode</span></i><span style="font-weight: 400;"> objective is to improve health services for vulnerable groups, including both residents and migrants. Since long ago, Libyan authorities have neglected the Region of Fezzan: even today, the site remains largely marginalized within the national territory.</span></h2>
-<h2><span style="font-weight: 400;">In the province of Ubari alone there are about 20,000 individuals in need of humanitarian assistance. The most vulnerable groups are those comprised of internally displaced people: wherein Al-Aweinat, Ghat, Murzu, Sabah and Tuyuri 4,000 can be found. The additional 8,000 people that have returned to their homes are also identified as vulnerable.</span></h2>
-<h2><i><span style="font-weight: 400;">Helpcode</span></i><span style="font-weight: 400;"> collaborates with </span><i><span style="font-weight: 400;">Terre des Hommes</span></i><span style="font-weight: 400;"> and </span><i><span style="font-weight: 400;">STACO</span></i><span style="font-weight: 400;">, one of the most important and structured Libyan NGOs, to rehabilitate health centers, distribute medicines and medical material, and train specialized health personnel.</span></h2>
-<h2><span style="font-weight: 400;">This intervention is part of an initiative in Libya that is led by </span><i><span style="font-weight: 400;">Italian Cooperation</span></i><span style="font-weight: 400;">. In October of 2016, </span><i><span style="font-weight: 400;">Italian Cooperation</span></i><span style="font-weight: 400;"> concluded an agreement with the area representatives to allow for the sending of emergency aid to hospitals located in all five provinces of the Fezzan.</span></h2>
+<h2>Libya is notorious for its political instability that restricts, and under some circumstances, denies the civilian population access to fundamental rights, such as healthcare and education. Thousands of people do not have access to health care and medication is scarce. The Ministry of Health recently reported that only 60% of Libyan hospitals are partially or completely in operation; the majority of the country’s medical personnel have fled the country, and the few remaining doctors lack the tools and resources to work safely. A recent analysis of the capacity of the Libyan health sector, promoted by the World Health Organization, shows that out of a total of 1656 health facilities, 17% of hospitals and 20.1% of first aid centers are not functioning.</h2>
+<h2><a href="http://helpcode.org"><i>Helpcode</i></a> intervention promotes an emergency intervention service in the Fezzan region, in the province of Ubari, within 4 health centers. The <i>Helpcode</i> objective is to improve health services for vulnerable groups, including both residents and migrants. Since long ago, Libyan authorities have neglected the Region of Fezzan: even today, the site remains largely marginalized within the national territory.</h2>
+<h2>In the province of Ubari alone there are about 20,000 individuals in need of humanitarian assistance. The most vulnerable groups are those comprised of internally displaced people: wherein Al-Aweinat, Ghat, Murzu, Sabah and Tuyuri 4,000 can be found. The additional 8,000 people that have returned to their homes are also identified as vulnerable.</h2>
+<h2><i>Helpcode</i> collaborates with <i>Terre des Hommes</i> and <i>STACO</i>, one of the most important and structured Libyan NGOs, to rehabilitate health centers, distribute medicines and medical material, and train specialized health personnel.</h2>
+<h2>This intervention is part of an initiative in Libya that is led by <i>Italian Cooperation</i>. In October of 2016, <i>Italian Cooperation</i> concluded an agreement with the area representatives to allow for the sending of emergency aid to hospitals located in all five provinces of the Fezzan.</h2>
 <h2><em><strong>Blockchain solution</strong></em></h2>
-<h2><span style="font-weight: 400;">As we have said, health facilities have been severely damaged or destroyed, and medicine and drugs are in short supply. Only 60% of hospitals are in operation and rely entirely on WHO for the procurement of essential drugs. Most of the medical personnel have fled the country, and the doctors who have remained have no diagnostic tools or resources to work safely. There are no nurses, midwives, nor technicians.</span></h2>
-<h2><span style="font-weight: 400;">In total, the remote areas in Al-Aweinat, Ghat, Murzu, Sabah, and Tuyuri encompass 90,000 people in need of help, of whom 40,000 are internally displaced. At least one-third of these are children.</span></h2>
-<h2><span style="font-weight: 400;">The longer this crisis continues, the greater the number of people in need of care, thereby increasing the demand for medical services and drugs.</span></h2>
-<h2><span style="font-weight: 400;">Blockchain technology is used for sending money. Money to support medical and nursing staff. Since traditional money transfers are impossible in Libya, we use Blockchain technology.</span></h2>
-<h2><span style="font-weight: 400;">The mechanism for sending funds is relatively simple. Though, the behind-the-scenes work uses innovative technology.</span></h2>
-<h2><span style="font-weight: 400;">Beneficiaries are identified (e.g. medical and nursing staff)</span></h2>
-<h2><span style="font-weight: 400;">An individual manages and distributes the funds to the beneficiaries (by receiving "merkur", the cryptocurrency used for this transfer, and converting the sum into dinars)</span></h2>
-<h2><span style="font-weight: 400;">Merchants use mobile phones for SMS data recording, and print receipts when connected to WIFI.</span></h2>
+<h2>As we have said, health facilities have been severely damaged or destroyed, and medicine and drugs are in short supply. Only 60% of hospitals are in operation and rely entirely on WHO for the procurement of essential drugs. Most of the medical personnel have fled the country, and the doctors who have remained have no diagnostic tools or resources to work safely. There are no nurses, midwives, nor technicians.</h2>
+<h2>In total, the remote areas in Al-Aweinat, Ghat, Murzu, Sabah, and Tuyuri encompass 90,000 people in need of help, of whom 40,000 are internally displaced. At least one-third of these are children.</h2>
+<h2>The longer this crisis continues, the greater the number of people in need of care, thereby increasing the demand for medical services and drugs.</h2>
+<h2>Blockchain technology is used for sending money. Money to support medical and nursing staff. Since traditional money transfers are impossible in Libya, we use Blockchain technology.</h2>
+<h2>The mechanism for sending funds is relatively simple. Though, the behind-the-scenes work uses innovative technology.</h2>
+<h2>Beneficiaries are identified (e.g. medical and nursing staff)</h2>
+<h2>An individual manages and distributes the funds to the beneficiaries (by receiving "merkur", the cryptocurrency used for this transfer, and converting the sum into dinars)</h2>
+<h2>Merchants use mobile phones for SMS data recording, and print receipts when connected to WIFI.</h2>
 <h2><strong><i>How does it work?</i></strong></h2>
-<h2><span style="font-weight: 400;">The beneficiary (doctor, nurse, obstetrician, etc.) is entered into our system. He/she sends an SMS to request funds.</span></h2>
-<h2><span style="font-weight: 400;">The request is checked with a security procedure and is approved.</span></h2>
-<h2><span style="font-weight: 400;">The distribution manager and the beneficiaries are notified of its approval.</span></h2>
-<h2><span style="font-weight: 400;">The final beneficiaries collect their money from the person in charge of distribution.</span></h2>
-<h2><span style="font-weight: 400;">Guaranteed monitoring and transparency:</span></h2>
-<h2><span style="font-weight: 400;">Double data control</span></h2>
-<h2><span style="font-weight: 400;">Real-time monitoring of financial exposure</span></h2>
-<h2><span style="font-weight: 400;">Each transaction and its data are cryptographically stored</span></h2>
-<h2><span style="font-weight: 400;">Everything is monitored by the </span><i><span style="font-weight: 400;">Helpcode</span></i><span style="font-weight: 400;"> staff through the http://merkur.io/ platform.</span></h2>
-<h2><span style="font-weight: 400;">Merkur.io has a cloud platform where the Helpcode staff can check all the data in real time:</span></h2>
-<h2><span style="font-weight: 400;">purchases, average expenses, products, quantities, every expense a beneficiary makes, every transaction carried out by the person in charge of the distribution of the dinars, etc. </span></h2>
-<h2><span style="font-weight: 400;">The platform also assists in creating graphic representations of the data, making for more thorough analyses.</span></h2>
+<h2>The beneficiary (doctor, nurse, obstetrician, etc.) is entered into our system. He/she sends an SMS to request funds.</h2>
+<h2>The request is checked with a security procedure and is approved.</h2>
+<h2>The distribution manager and the beneficiaries are notified of its approval.</h2>
+<h2>The final beneficiaries collect their money from the person in charge of distribution.</h2>
+<h2>Guaranteed monitoring and transparency:</h2>
+<h2>Double data control</h2>
+<h2>Real-time monitoring of financial exposure</h2>
+<h2>Each transaction and its data are cryptographically stored</h2>
+<h2>Everything is monitored by the <i>Helpcode</i> staff through the http://merkur.io/ platform.</h2>
+<h2>Merkur.io has a cloud platform where the Helpcode staff can check all the data in real time:</h2>
+<h2>purchases, average expenses, products, quantities, every expense a beneficiary makes, every transaction carried out by the person in charge of the distribution of the dinars, etc. </h2>
+<h2>The platform also assists in creating graphic representations of the data, making for more thorough analyses.</h2>
 Picture: Food distribution South Sudan - Maban County`,
 	},
 	{
@@ -2171,20 +2171,20 @@ Picture: Food distribution South Sudan - Maban County`,
 		Slug:    "technology-refugees-techfugees-summit-2018",
 		Excerpt: "",
 		Content: `
-<h6><span style="font-weight: 400;">We participated to the <strong><a href="https://techfugees.com/tag/techfugees-global-summit-2018/">Techfugees Global Summit 2018</a></strong>, which took place in Paris on 25th and 26th of October.</span></h6>
-<h6><span style="font-weight: 400;">I remembered the first time I found the first Facebook post of this community, and it immediately caught my attention, in few days this community became very big!</span></h6>
-<h6><span style="font-weight: 400;">It was September 2015, few days before Europe has met the young </span><b>Alan Kurdi</b><span style="font-weight: 400;"> (Kurdish: Alan Kurdî‎), initially reported as </span><b>Aylan Kurdi</b><span style="font-weight: 400;">, a three-year-old Syrian boy of Kurdish ethnic background, whose image made global headlines after he drowned on 2 September 2015 in the Mediterranean Sea. He and his family were </span><a href="https://en.wikipedia.org/wiki/Refugees_of_the_Syrian_Civil_War"><span style="font-weight: 400;">Syrian refugees</span></a><span style="font-weight: 400;"> trying to reach Europe amid the </span><a href="https://en.wikipedia.org/wiki/European_refugee_crisis"><span style="font-weight: 400;">European refugee crisis</span></a><span style="font-weight: 400;">. Photographs of his body were taken by </span><a href="https://en.wikipedia.org/wiki/Turkish_people"><span style="font-weight: 400;">Turkish</span></a> <a href="https://en.wikipedia.org/wiki/Journalist"><span style="font-weight: 400;">journalist</span></a> <a href="https://en.wikipedia.org/wiki/Nil%C3%BCfer_Demir"><span style="font-weight: 400;">Nilüfer Demir</span></a><span style="font-weight: 400;"> and quickly spread around the world, prompting international responses.</span></h6>
-<h6><span style="font-weight: 400;">Thanks to <a href="http://techfugees.com">Techfugees</a> everybody discovered how big was the tech community who was doing something to face the Refugee “crisis” but, first of all, was trying to support the Refugees who are arriving in Europe.</span></h6>
-<h6><span style="font-weight: 400;"><img class="size-large wp-image-3846 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/11/IMG_20181025_134811-1024x768.jpg" alt="" width="1024" height="768" /></span></h6>
+<h6>We participated to the <strong><a href="https://techfugees.com/tag/techfugees-global-summit-2018/">Techfugees Global Summit 2018</a></strong>, which took place in Paris on 25th and 26th of October.</h6>
+<h6>I remembered the first time I found the first Facebook post of this community, and it immediately caught my attention, in few days this community became very big!</h6>
+<h6>It was September 2015, few days before Europe has met the young <b>Alan Kurdi</b> (Kurdish: Alan Kurdî‎), initially reported as <b>Aylan Kurdi</b>, a three-year-old Syrian boy of Kurdish ethnic background, whose image made global headlines after he drowned on 2 September 2015 in the Mediterranean Sea. He and his family were <a href="https://en.wikipedia.org/wiki/Refugees_of_the_Syrian_Civil_War">Syrian refugees</a> trying to reach Europe amid the <a href="https://en.wikipedia.org/wiki/European_refugee_crisis">European refugee crisis</a>. Photographs of his body were taken by <a href="https://en.wikipedia.org/wiki/Turkish_people">Turkish</a> <a href="https://en.wikipedia.org/wiki/Journalist">journalist</a> <a href="https://en.wikipedia.org/wiki/Nil%C3%BCfer_Demir">Nilüfer Demir</a> and quickly spread around the world, prompting international responses.</h6>
+<h6>Thanks to <a href="http://techfugees.com">Techfugees</a> everybody discovered how big was the tech community who was doing something to face the Refugee “crisis” but, first of all, was trying to support the Refugees who are arriving in Europe.</h6>
+<h6><img class="size-large wp-image-3846 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/11/IMG_20181025_134811-1024x768.jpg" alt="" width="1024" height="768" /></h6>
 <!--more-->
-<h6><span style="font-weight: 400;">After three years now the Community is very active, composed by a very big variety of actors, from volunteers working in small projects in support of groups of Refugees, like </span><a href="https://www.kabubu.fr"><span style="font-weight: 400;">Kabubu</span></a><span style="font-weight: 400;"> to </span><a href="https://startup.google.com/"><span style="font-weight: 400;">Google for Startups </span></a><span style="font-weight: 400;">, who funded the 2018 Techfugees Summit.</span></h6>
-<h6><span style="font-weight: 400;">This second edition of Global Summit focused on the challenges newcomers face as they settle into their new host societies, and what role technology can take in breaking down barriers and building bridges to enable inclusion. </span></h6>
-<h6><span style="font-weight: 400;">Many have been the panels in program, from Access to Rights and Information to Data Ethics and Social Inclusion.</span></h6>
+<h6>After three years now the Community is very active, composed by a very big variety of actors, from volunteers working in small projects in support of groups of Refugees, like <a href="https://www.kabubu.fr">Kabubu</a> to <a href="https://startup.google.com/">Google for Startups </a>, who funded the 2018 Techfugees Summit.</h6>
+<h6>This second edition of Global Summit focused on the challenges newcomers face as they settle into their new host societies, and what role technology can take in breaking down barriers and building bridges to enable inclusion. </h6>
+<h6>Many have been the panels in program, from Access to Rights and Information to Data Ethics and Social Inclusion.</h6>
 <img class="alignleft size-large wp-image-3853" src="https://www.gnucoop.com/wp-content/uploads/2018/11/IMG_20181025_170142-2-1024x511.jpg" alt="" width="1024" height="511" /><!--more-->
-<h6><span style="font-weight: 400;">It was so interesting to listen to the witnesses of Refugees who came in Europe and founded a company and now they are funding new ideas on the newcomers.</span></h6>
-<h6><span style="font-weight: 400;">Many projects, many people, and few words in common: </span><b>inclusion, data, identity….and blockchain</b><span style="font-weight: 400;">.</span></h6>
-<h6><span style="font-weight: 400;">Someone said Refugees are people who want to re-born, to start a new life and they can highlight the efficiency of our society and should be considered an opportunity.</span></h6>
-<h6><span style="font-weight: 400;">Thanks to </span><b>Technology </b><span style="font-weight: 400;">that can support them and facilitate their integration, we can try to create a better life for them, and the collaboration between actors, like the participants of the summit, could be the right way to succeed.</span></h6>
+<h6>It was so interesting to listen to the witnesses of Refugees who came in Europe and founded a company and now they are funding new ideas on the newcomers.</h6>
+<h6>Many projects, many people, and few words in common: <b>inclusion, data, identity….and blockchain</b>.</h6>
+<h6>Someone said Refugees are people who want to re-born, to start a new life and they can highlight the efficiency of our society and should be considered an opportunity.</h6>
+<h6>Thanks to <b>Technology </b>that can support them and facilitate their integration, we can try to create a better life for them, and the collaboration between actors, like the participants of the summit, could be the right way to succeed.</h6>
 <h6>Thank you again to Techfugees for this great opportunity!</h6>
 &nbsp;
 <h6>We're looking for European organizations who are working with migrants and refugees for applying to a H2020 programme "Addressing the challenge of migrant integration through ICT-enabled solutions", if you're interested please contact us!</h6>
@@ -2195,10 +2195,10 @@ Picture: Food distribution South Sudan - Maban County`,
 		Slug:    "open-days-innovazione-2019-coprogettare-partecipare-ed-innovare",
 		Excerpt: "",
 		Content: `
-<h6><span style="font-weight: 400;">Due giorni di incontri, discussioni, presentazioni e networking. Due giorni di idee per cercare di far incontrare innovatori, organizzazioni di cooperazione internazionale ed enti privati. </span></h6>
-<h6><span style="font-weight: 400;">Abbiamo iniziato parlando di <strong>innovazione</strong> non come un risultato o un prodotto ma come un <strong>processo partecipativo di cui l’utente finale è il protagonista</strong>. </span></h6>
-<h6><span style="font-weight: 400;">E così sono stati riportati esempi di innovazione come <strong><a href="https://www.brck.com/">BRCK</a></strong></span><span style="font-weight: 400;">, che garantisce connettività in luoghi comunitari, come su 1000 autobus a Nairobi e 500 a Kigali, o in 1200 Wifi hotspots, oppure di imprese sociali nell’ambito dell’energia solare come la storia di <strong><a href="http://www.m-kopa.com/">M-KOPA</a> </strong></span><span style="font-weight: 400;">. </span></h6>
-<h6><span style="font-weight: 400;">Ma spesso basta poco per innovare, come un </span><span style="font-weight: 400;">paio di tablet connessi che permette ad un gruppo di donne masai di imparare a leggere e scrivere e trasmettere all’intera comunità quanto appreso.</span></h6>
+<h6>Due giorni di incontri, discussioni, presentazioni e networking. Due giorni di idee per cercare di far incontrare innovatori, organizzazioni di cooperazione internazionale ed enti privati. </h6>
+<h6>Abbiamo iniziato parlando di <strong>innovazione</strong> non come un risultato o un prodotto ma come un <strong>processo partecipativo di cui l’utente finale è il protagonista</strong>. </h6>
+<h6>E così sono stati riportati esempi di innovazione come <strong><a href="https://www.brck.com/">BRCK</a></strong>, che garantisce connettività in luoghi comunitari, come su 1000 autobus a Nairobi e 500 a Kigali, o in 1200 Wifi hotspots, oppure di imprese sociali nell’ambito dell’energia solare come la storia di <strong><a href="http://www.m-kopa.com/">M-KOPA</a> </strong>. </h6>
+<h6>Ma spesso basta poco per innovare, come un paio di tablet connessi che permette ad un gruppo di donne masai di imparare a leggere e scrivere e trasmettere all’intera comunità quanto appreso.</h6>
 
 <hr />
 
@@ -2207,18 +2207,18 @@ Picture: Food distribution South Sudan - Maban County`,
 
 <hr />
 
-<h6><span style="font-weight: 400;">O ancora come il progetto Click4All (</span><a href="https://www.click4all.com/en/"><span style="font-weight: 400;">https://www.click4all.com/en/</span></a><span style="font-weight: 400;"> ) per costruire piccoli strumenti di supporto alla disabilità (come mouse o tastiere), utilizzati per esempio in un centro di riabilitazione su base comunitaria in Siria. </span></h6>
-<h6><span style="font-weight: 400;">E tanti altri ancora…</span></h6>
-<h6><span style="font-weight: 400;">E poi è arrivata la volta dei tavoli di co-design in tema di Educazione, Agricoltura e Salute. </span></h6>
-<h6><span style="font-weight: 400;">Gnucoop ha avuto il piacere di moderare il tavolo Health&amp;Tech. Quattro storie di innovazione sanitaria hanno aperto il dibattito: </span></h6>
-<h6><span style="font-weight: 400;">1. il software di raccolta dati del progetto <a href="https://his.unhcr.org/home"><strong>iRHIS - Gnucoop</strong></a></span><span style="font-weight: 400;">; </span></h6>
-<h6><span style="font-weight: 400;">2. la piattaforma Open Hospital - <strong><a href="https://www.open-hospital.org/en/">CUAMM/ISF</a></strong></span><span style="font-weight: 400;">; </span></h6>
-<h6><span style="font-weight: 400;">3. la <strong><a href="https://medium.com/we-are-sheldon/participatory-data-physicalization-a-new-space-to-design-health-care-informative-experiences-3912484f8e34">participatory data physicalization</a></strong> con l’Università di Bolzano;</span></h6>
-<h6><span style="font-weight: 400;">4. i sistemi di mappatura che facilitano l’accesso a centri sanitari di riferimento di <strong><a href="http://www.ccm-italia.org/ita/africa/etiopia/progetti-conclusi/salute-materna-e-infantile-bale-regione-oromia/">CCM</a></strong>. </span></h6>
-<h6><span style="font-weight: 400;">Storie che hanno permesso di individuare gli ingredienti di successo e criticità dei progetti di innovazione come: partecipazione, formazione, raccolta ed umanizzazione dei dati ed, ancora, monitoraggio e replicabilità degli strumenti, etc…</span></h6>
+<h6>O ancora come il progetto Click4All (<a href="https://www.click4all.com/en/">https://www.click4all.com/en/</a> ) per costruire piccoli strumenti di supporto alla disabilità (come mouse o tastiere), utilizzati per esempio in un centro di riabilitazione su base comunitaria in Siria. </h6>
+<h6>E tanti altri ancora…</h6>
+<h6>E poi è arrivata la volta dei tavoli di co-design in tema di Educazione, Agricoltura e Salute. </h6>
+<h6>Gnucoop ha avuto il piacere di moderare il tavolo Health&amp;Tech. Quattro storie di innovazione sanitaria hanno aperto il dibattito: </h6>
+<h6>1. il software di raccolta dati del progetto <a href="https://his.unhcr.org/home"><strong>iRHIS - Gnucoop</strong></a>; </h6>
+<h6>2. la piattaforma Open Hospital - <strong><a href="https://www.open-hospital.org/en/">CUAMM/ISF</a></strong>; </h6>
+<h6>3. la <strong><a href="https://medium.com/we-are-sheldon/participatory-data-physicalization-a-new-space-to-design-health-care-informative-experiences-3912484f8e34">participatory data physicalization</a></strong> con l’Università di Bolzano;</h6>
+<h6>4. i sistemi di mappatura che facilitano l’accesso a centri sanitari di riferimento di <strong><a href="http://www.ccm-italia.org/ita/africa/etiopia/progetti-conclusi/salute-materna-e-infantile-bale-regione-oromia/">CCM</a></strong>. </h6>
+<h6>Storie che hanno permesso di individuare gli ingredienti di successo e criticità dei progetti di innovazione come: partecipazione, formazione, raccolta ed umanizzazione dei dati ed, ancora, monitoraggio e replicabilità degli strumenti, etc…</h6>
 <h6><em><strong>Un momento concreto di scambio ed incontro tra le tre comunità cardine degli open days innovazione: operatori umanitari, innovatori ed imprese. </strong></em></h6>
-<h6><span style="font-weight: 400;">Il secondo giorno ci ha visto invece partecipare a diversi workshops: dai Big Data e tecniche di data visualization ad esperienze pratiche sulle Internet of Things, tecnologie hardware open che danno spazio alla creatività ed innovazione. </span></h6>
-<h6><span style="font-weight: 400;">E poi si è parlato di project management e strumenti agile, di Kanban e di Scrum, di effetto Panopticon, sprint planning, retrospettiva, stand up meetings e dei tre ruoli chiavi dell’agile methodology (product owner, scrum master e  team members). Strumenti di progettazione e pianificazione che meglio si adattano a progetti innovativi, permettendo di tenere sotto controllo il progetto ed, allo stesso tempo, garantendo l’efficienza dei team di lavoro e minimizzando i rischi.</span></h6>
+<h6>Il secondo giorno ci ha visto invece partecipare a diversi workshops: dai Big Data e tecniche di data visualization ad esperienze pratiche sulle Internet of Things, tecnologie hardware open che danno spazio alla creatività ed innovazione. </h6>
+<h6>E poi si è parlato di project management e strumenti agile, di Kanban e di Scrum, di effetto Panopticon, sprint planning, retrospettiva, stand up meetings e dei tre ruoli chiavi dell’agile methodology (product owner, scrum master e  team members). Strumenti di progettazione e pianificazione che meglio si adattano a progetti innovativi, permettendo di tenere sotto controllo il progetto ed, allo stesso tempo, garantendo l’efficienza dei team di lavoro e minimizzando i rischi.</h6>
 
 <hr />
 
@@ -2229,7 +2229,7 @@ Picture: Food distribution South Sudan - Maban County`,
 
 <hr />
 
-<h6><span style="font-weight: 400;">Grazie a <a href="http://www.fondazionecariplo.it/it/index.html"><strong>Fondazione Cariplo</strong></a> e <a href="https://www.compagniadisanpaolo.it/"><strong>Compagnia di San Paolo</strong></a> che hanno organizzato questo evento!</span></h6>
+<h6>Grazie a <a href="http://www.fondazionecariplo.it/it/index.html"><strong>Fondazione Cariplo</strong></a> e <a href="https://www.compagniadisanpaolo.it/"><strong>Compagnia di San Paolo</strong></a> che hanno organizzato questo evento!</h6>
 `,
 	},
 	{
@@ -2237,15 +2237,15 @@ Picture: Food distribution South Sudan - Maban County`,
 		Slug:    "ict-for-health-our-contribution-to-the-master-in-ict-for-development-and-social-good",
 		Excerpt: "",
 		Content: `
-<h6><span style="font-weight: 400;">It’s always a great experience to exchange ideas, facts, data, information and knowledge with people from different background, culture and environment. That’s what happened last month when we took part to the first edition of the Master programme in ICT for Development and Social Good as lecturer of the ICT for Health module.</span></h6>
-<h6><span style="font-weight: 400;">The Master course in <a href="https://www.ictforsocialgoodmaster.eu/">ICT for Development and Social Good</a></span><span style="font-weight: 400;">,  organized by <a href="http://www.ong2zero.org/en/">ONG2.0</a> and the <a href="https://en.unito.it/">University of Turin</a> and co-funded by the <a href="https://www.aics.gov.it/language/en/">Italian Agency for Cooperation and Development (AICS)</a>, allows students to acquire knowledge on managing projects in the cooperation and development sector with a special focus on the use of technology (ICT4D) to achieve project objectives.</span></h6>
+<h6>It’s always a great experience to exchange ideas, facts, data, information and knowledge with people from different background, culture and environment. That’s what happened last month when we took part to the first edition of the Master programme in ICT for Development and Social Good as lecturer of the ICT for Health module.</h6>
+<h6>The Master course in <a href="https://www.ictforsocialgoodmaster.eu/">ICT for Development and Social Good</a>,  organized by <a href="http://www.ong2zero.org/en/">ONG2.0</a> and the <a href="https://en.unito.it/">University of Turin</a> and co-funded by the <a href="https://www.aics.gov.it/language/en/">Italian Agency for Cooperation and Development (AICS)</a>, allows students to acquire knowledge on managing projects in the cooperation and development sector with a special focus on the use of technology (ICT4D) to achieve project objectives.</h6>
 <img class="aligncenter wp-image-3995 size-full" src="https://www.gnucoop.com/wp-content/uploads/2019/05/ictforsocialgoodmaster.png" alt="" width="1878" height="891" />
-<h6><span style="font-weight: 400;">In our ICT for Health module, we explored many topics, starting from a general overview of healthcare systems and health information systems, describing the processes and steps required to run a successful mhealth project. </span></h6>
-<h6><span style="font-weight: 400;">We discussed about many examples of mhealth applications: from remote monitoring, to point of care, stock management, treatment adherence, education/awareness and crowdsourcing. </span></h6>
-<h6><span style="font-weight: 400;">Each type of application has been analysed through practical case studies, allowing us to explore projects like </span><i><span style="font-weight: 400;">c-stock</span></i><span style="font-weight: 400;"> for the management of drugs supply; to talk about the </span><a href="https://himore-medical.com/"><i><span style="font-weight: 400;">CardioPad</span></i></a><span style="font-weight: 400;"> app from Cameroon for remote monitoring of cardiac diseases. We then presented applications like </span><a href="http://www.health.gov.za/index.php/mom-connect"><i><span style="font-weight: 400;">Momconnect</span></i></a><span style="font-weight: 400;"> in SouthAfrica to support women during pregnancy and the very interesting </span><a href="https://www.youtube.com/watch?v=e_Q_McVe2uk&amp;feature=youtu.be"><i><span style="font-weight: 400;">Mobile Academy</span></i></a><span style="font-weight: 400;"> app where co-design with users really shows its full potential. And, again, we spoke about monitoring and tracking diseases using mobile application as well as crowdsourcing tools.</span></h6>
-<h6><span style="font-weight: 400;">Students also had a chance to gain practical experience on some of the most common tools specifically used for mhealth projects such as CommCare, Magpi or TextIt. We also presented our Dewco data collection tool, developed by Gnucoop, that has been used, among others, for the development of the <a href="https://his.unhcr.org">Integrated Refugees Health Information System (iRHIS)</a> used by UNHCR to monitor health activities in refugee camps at worldwide level.</span></h6>
+<h6>In our ICT for Health module, we explored many topics, starting from a general overview of healthcare systems and health information systems, describing the processes and steps required to run a successful mhealth project. </h6>
+<h6>We discussed about many examples of mhealth applications: from remote monitoring, to point of care, stock management, treatment adherence, education/awareness and crowdsourcing. </h6>
+<h6>Each type of application has been analysed through practical case studies, allowing us to explore projects like <i>c-stock</i> for the management of drugs supply; to talk about the <a href="https://himore-medical.com/"><i>CardioPad</i></a> app from Cameroon for remote monitoring of cardiac diseases. We then presented applications like <a href="http://www.health.gov.za/index.php/mom-connect"><i>Momconnect</i></a> in SouthAfrica to support women during pregnancy and the very interesting <a href="https://www.youtube.com/watch?v=e_Q_McVe2uk&amp;feature=youtu.be"><i>Mobile Academy</i></a> app where co-design with users really shows its full potential. And, again, we spoke about monitoring and tracking diseases using mobile application as well as crowdsourcing tools.</h6>
+<h6>Students also had a chance to gain practical experience on some of the most common tools specifically used for mhealth projects such as CommCare, Magpi or TextIt. We also presented our Dewco data collection tool, developed by Gnucoop, that has been used, among others, for the development of the <a href="https://his.unhcr.org">Integrated Refugees Health Information System (iRHIS)</a> used by UNHCR to monitor health activities in refugee camps at worldwide level.</h6>
 <img class="aligncenter size-full wp-image-3996" src="https://www.gnucoop.com/wp-content/uploads/2019/05/kakuma_2.jpg" alt="" width="5760" height="3840" />
-<h6><span style="font-weight: 400;">So, talking about applications and mhealth tools implies a discussion about data and the common challenges of scalability, interoperability and data security. In our last lecture, we explored those challenges and possible solutions to overcome them. Furthermore, we walked through some basic concepts of data analysis like linear regression and decision tree with the overall objective of seeking good relations between our collected data.  </span></h6>
+<h6>So, talking about applications and mhealth tools implies a discussion about data and the common challenges of scalability, interoperability and data security. In our last lecture, we explored those challenges and possible solutions to overcome them. Furthermore, we walked through some basic concepts of data analysis like linear regression and decision tree with the overall objective of seeking good relations between our collected data.  </h6>
 `,
 	},
 	{
@@ -2253,36 +2253,36 @@ Picture: Food distribution South Sudan - Maban County`,
 		Slug:    "a-chi-serve-la-valutazione-il-valore-dei-dati-fra-nuove-tecnologie-questioni-etiche-e-innovazione-sociale",
 		Excerpt: "",
 		Content: `
-<h3 style="text-align: center;"><span style="font-weight: 400;">Tavola Rotonda</span></h3>
-<h3 style="text-align: center;"><span style="font-weight: 400;">Nell’ambito del corso “From Paper to Tablet”</span></h3>
+<h3 style="text-align: center;">Tavola Rotonda</h3>
+<h3 style="text-align: center;">Nell’ambito del corso “From Paper to Tablet”</h3>
 <h3 style="text-align: center;"><b>19 Settembre 2019 - H11-13</b></h3>
-<h3 style="text-align: center;"><span style="font-weight: 400;">presso l’Istituto Beata Vergine Addolorata (</span><a href="http://www.ibva.it"><span style="font-weight: 400;">http://www.ibva.it</span></a><span style="font-weight: 400;">), Via Calatafimi 10 Milano</span></h3>
-<h1><span style="font-weight: 400;">L’evento</span></h1>
-<span style="font-weight: 400;">La valutazione di impatto è ormai entrata a pieno titolo nella prassi ordinaria del lavoro nell’ambito della cooperazione allo sviluppo. Pur essendo sempre stata una componente essenziale del ciclo di vita del progetto, la valutazione riceve una rinnovata attenzione da parte di studiosi, donatori e ONG a partire da questo decennio. Inizialmente promossa come “buona pratica”, la valutazione è poi sostenuta dalle procedure stesse dei donatori. Ormai le parole “impatto” e “valutazione” veicolano la narrativa dello sviluppo un po’ come “sostenibilità” o “ownership” nei decenni scorsi. </span>
+<h3 style="text-align: center;">presso l’Istituto Beata Vergine Addolorata (<a href="http://www.ibva.it">http://www.ibva.it</a>), Via Calatafimi 10 Milano</h3>
+<h1>L’evento</h1>
+La valutazione di impatto è ormai entrata a pieno titolo nella prassi ordinaria del lavoro nell’ambito della cooperazione allo sviluppo. Pur essendo sempre stata una componente essenziale del ciclo di vita del progetto, la valutazione riceve una rinnovata attenzione da parte di studiosi, donatori e ONG a partire da questo decennio. Inizialmente promossa come “buona pratica”, la valutazione è poi sostenuta dalle procedure stesse dei donatori. Ormai le parole “impatto” e “valutazione” veicolano la narrativa dello sviluppo un po’ come “sostenibilità” o “ownership” nei decenni scorsi. 
 
-<span style="font-weight: 400;">Un ruolo importante è certamente stato giocato dallo sviluppo tecnologico che ha reso possibile nel giro di pochi anni la raccolta di ingenti quantità di dati anche in contesti strutturalmente low-tech. Non è un caso che negli ultimi anni si sia assistito ad un fiorire di strumenti software per la raccolta, la gestione e l’elaborazione di dati in situazioni di connettività intermittente e con verticalizzazioni su tematiche specifiche, come salute o educazione. </span>
+Un ruolo importante è certamente stato giocato dallo sviluppo tecnologico che ha reso possibile nel giro di pochi anni la raccolta di ingenti quantità di dati anche in contesti strutturalmente low-tech. Non è un caso che negli ultimi anni si sia assistito ad un fiorire di strumenti software per la raccolta, la gestione e l’elaborazione di dati in situazioni di connettività intermittente e con verticalizzazioni su tematiche specifiche, come salute o educazione. 
 
-<span style="font-weight: 400;">In questo nuovo rinascimento della valutazione restano però delle zone grigie che interrogano il mondo dello sviluppo e sembrano mettere in discussione la reale efficacia di questi esercizi che, in assenza di risposte, rischiano di essere relegati a mere prestazioni di stile. Come valutare l’impatto di lungo periodo con strumenti di finanziamento di breve termine? Come uscire dal circolo del progetto e valutare un programma o l’intera organizzazione? Come capitalizzare le valutazioni negative? Come scambiare la conoscenza acquisita tra diverse organizzazioni? Come coinvolgere tutti gli attori, compresi i beneficiari, in una valutazione?</span>
+In questo nuovo rinascimento della valutazione restano però delle zone grigie che interrogano il mondo dello sviluppo e sembrano mettere in discussione la reale efficacia di questi esercizi che, in assenza di risposte, rischiano di essere relegati a mere prestazioni di stile. Come valutare l’impatto di lungo periodo con strumenti di finanziamento di breve termine? Come uscire dal circolo del progetto e valutare un programma o l’intera organizzazione? Come capitalizzare le valutazioni negative? Come scambiare la conoscenza acquisita tra diverse organizzazioni? Come coinvolgere tutti gli attori, compresi i beneficiari, in una valutazione?
 
-<span style="font-weight: 400;">Queste sono solo alcune delle domande alle quali cercheremo di iniziare a rispondere in un evento organizzato nell’ambito del corso di formazione “From paper to tablet”. L’evento sarà un seminario di confronto nel quale alcuni esperti di valutazione e data analysis porteranno il proprio punto di vista. Il dibattito sarà aperto a tutti gli attori della cooperazione internazionale. </span>
-<h1><span style="font-weight: 400;">Relatori</span></h1>
+Queste sono solo alcune delle domande alle quali cercheremo di iniziare a rispondere in un evento organizzato nell’ambito del corso di formazione “From paper to tablet”. L’evento sarà un seminario di confronto nel quale alcuni esperti di valutazione e data analysis porteranno il proprio punto di vista. Il dibattito sarà aperto a tutti gli attori della cooperazione internazionale. 
+<h1>Relatori</h1>
 <ul>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Federico Mento, Social Value Italia</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Enrico Testi, ARCO </span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Federico Bastia, Fondazione punto.sud</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Margherita Romanelli, Link2007</span></li>
+ 	<li style="font-weight: 400;">Federico Mento, Social Value Italia</li>
+ 	<li style="font-weight: 400;">Enrico Testi, ARCO </li>
+ 	<li style="font-weight: 400;">Federico Bastia, Fondazione punto.sud</li>
+ 	<li style="font-weight: 400;">Margherita Romanelli, Link2007</li>
 </ul>
-<span style="font-weight: 400;">Modera: Christian Elevati, Changelab</span>
-<h1><span style="font-weight: 400;">Programma</span></h1>
-<span style="font-weight: 400;">11:00 - 11:05 Benvenuto ai partecipanti (Francesca Silva - CIAI)</span>
-<span style="font-weight: 400;">11:05 - 11:30 Saluti istituzionale delle Fondazioni promotrici (Compagnia di San Paolo, Fondazione Cariplo)</span>
-<span style="font-weight: 400;">11.30 - 12.30 Tavola rotonda esperti</span>
-<span style="font-weight: 400;">12.30 - 13.15 Discussione con partecipanti</span>
-<span style="font-weight: 400;">13.15 - 13.30 Conclusioni (Gnucoop)</span>
-<span style="font-weight: 400;">13.30 - 14.30 Networking (light) lunch</span>
+Modera: Christian Elevati, Changelab
+<h1>Programma</h1>
+11:00 - 11:05 Benvenuto ai partecipanti (Francesca Silva - CIAI)
+11:05 - 11:30 Saluti istituzionale delle Fondazioni promotrici (Compagnia di San Paolo, Fondazione Cariplo)
+11.30 - 12.30 Tavola rotonda esperti
+12.30 - 13.15 Discussione con partecipanti
+13.15 - 13.30 Conclusioni (Gnucoop)
+13.30 - 14.30 Networking (light) lunch
 
 La partecipazione all'evento è gratuita perchè inserita all'interno dell'iniziativa Innovazione per lo sviluppo promossa da Fondazione Cariplo e Compagnia di San Paolo.
-<h3><span style="color: #0000ff;">Per iscriversi cliccare <a style="color: #0000ff;" href="https://docs.google.com/forms/d/e/1FAIpQLSd-UXvnH5G-04DEAuWQbHg8ml6NGACe6tla-4w38IWN0ShEiA/viewform">qui </a></span></h3>
+<h3>Per iscriversi cliccare <a style="color: #0000ff;" href="https://docs.google.com/forms/d/e/1FAIpQLSd-UXvnH5G-04DEAuWQbHg8ml6NGACe6tla-4w38IWN0ShEiA/viewform">qui </a></h3>
 &nbsp;
 <h3>Su questi temi, la centralità dei dati ed alcuni aspetti della valutazione, abbiamo pensato di proporvi inoltre <a href="https://www.info-cooperazione.it/2019/09/data-revolution-nella-cooperazione-a-che-punto-siamo/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.info-cooperazione.it/2019/09/data-revolution-nella-cooperazione-a-che-punto-siamo/&amp;source=gmail&amp;ust=1568270267495000&amp;usg=AFQjCNGKkJ6RS_1cuc1OafQw-OwzMd-szw">alcuni spunti di riflessione ed un breve questionario online </a>che ci possa aiutare a mettere insieme una fotografia dello stato dell'arte nel mondo della cooperazione in Italia.</h3>
 `,
@@ -2292,21 +2292,21 @@ La partecipazione all'evento è gratuita perchè inserita all'interno dell'inizi
 		Slug:    "a-chi-serve-la-valutazione-il-valore-dei-dati-fra-nuove-tecnologie-questioni-etiche-e-innovazione-sociale",
 		Excerpt: "",
 		Content: `
-<h6><span style="font-weight: 400;">A pochi giorni dalla pubblicazione in gazzetta ufficiale delle linee guida per la valutazione di impatto degli ETS, si è tenuta a milano la tavola rotonda “A chi serve la valutazione? Il valore dei dati fra nuove tecnologie, questioni etiche e innovazione sociale” organizzata da CIAI, Changelab e Gnucoop all’interno dell’iniziativa <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://innovazionesviluppo.org/">“Innovazione per lo sviluppo”</a> </span></span><span style="font-weight: 400;"><span style="color: #0000ff;"> </span>di Fondazione Cariplo e Compagnia di S. Paolo.</span></h6>
+<h6>A pochi giorni dalla pubblicazione in gazzetta ufficiale delle linee guida per la valutazione di impatto degli ETS, si è tenuta a milano la tavola rotonda “A chi serve la valutazione? Il valore dei dati fra nuove tecnologie, questioni etiche e innovazione sociale” organizzata da CIAI, Changelab e Gnucoop all’interno dell’iniziativa <a style="color: #0000ff;" href="https://innovazionesviluppo.org/">“Innovazione per lo sviluppo”</a>  di Fondazione Cariplo e Compagnia di S. Paolo.</h6>
 &nbsp;
-<h6><span style="font-weight: 400;">Circa 40 persone hanno partecipato ad una mattinata di dibattito e approfondimento su temi che in questo momento si trovano al centro della discussione sulla cooperazione allo sviluppo. Sono intervenuti Federico Mento (<a href="http://www.socialvalueitalia.it/">Social Value Italia</a>) Federico Bastia (<a href="https://www.puntosud.org/">Fondazione Punto.sud</a>), Margherita Romanelli (<a href="https://www.weworld-gvc.it/it">GVC-Weworld</a>) e Enrico Testi (<a href="http://www.arcolab.org">ARCOLab</a>), moderati da Christian Elevati. </span></h6>
+<h6>Circa 40 persone hanno partecipato ad una mattinata di dibattito e approfondimento su temi che in questo momento si trovano al centro della discussione sulla cooperazione allo sviluppo. Sono intervenuti Federico Mento (<a href="http://www.socialvalueitalia.it/">Social Value Italia</a>) Federico Bastia (<a href="https://www.puntosud.org/">Fondazione Punto.sud</a>), Margherita Romanelli (<a href="https://www.weworld-gvc.it/it">GVC-Weworld</a>) e Enrico Testi (<a href="http://www.arcolab.org">ARCOLab</a>), moderati da Christian Elevati. </h6>
 &nbsp;
-<h6><span style="font-weight: 400;">La discussione si è aperta con la presentazione del questionario che era stato rivolto alle ONG nei giorni precedenti allo scopo di fotografare lo stato dell’arte sul tema valutazione e nuove tecnologie. Da questa indagine è emerso chiaramente come il lavoro da fare sia ancora molto, nonostante il tema della valutazione non sia certamente nuovo per le ONG. Tra i numerosi attori del terzo settore, infatti, le ONG sono fra quelli che da più tempo realizzano valutazioni spesso anche molto approfondite, sui propri interventi incoraggiante anche dai donatori stessi che nelle loro procedure le prevedono ormai in modo quasi sistematico.</span></h6>
+<h6>La discussione si è aperta con la presentazione del questionario che era stato rivolto alle ONG nei giorni precedenti allo scopo di fotografare lo stato dell’arte sul tema valutazione e nuove tecnologie. Da questa indagine è emerso chiaramente come il lavoro da fare sia ancora molto, nonostante il tema della valutazione non sia certamente nuovo per le ONG. Tra i numerosi attori del terzo settore, infatti, le ONG sono fra quelli che da più tempo realizzano valutazioni spesso anche molto approfondite, sui propri interventi incoraggiante anche dai donatori stessi che nelle loro procedure le prevedono ormai in modo quasi sistematico.</h6>
 &nbsp;
-<h6><span style="font-weight: 400;">Nonostante questo, la discussione ha permesso di mettere in evidenza alcune problematiche che ancora interrogano il mondo della cooperazione internazionale. Più precisamente: come è possibile passare dalla valutazione di un singolo progetto alla valutazione di un’organizzazione? E ancora, come passare dalla “misurazione” alla “gestione” dell’impatto? ovvero, come trasformare un esercizio valutativo in un vero momento di apprendimento? E poi, come possono, le tecnologie dell’informazione, facilitare questi processi, o addirittura renderli possibili?</span></h6>
+<h6>Nonostante questo, la discussione ha permesso di mettere in evidenza alcune problematiche che ancora interrogano il mondo della cooperazione internazionale. Più precisamente: come è possibile passare dalla valutazione di un singolo progetto alla valutazione di un’organizzazione? E ancora, come passare dalla “misurazione” alla “gestione” dell’impatto? ovvero, come trasformare un esercizio valutativo in un vero momento di apprendimento? E poi, come possono, le tecnologie dell’informazione, facilitare questi processi, o addirittura renderli possibili?</h6>
 &nbsp;
-<h6><span style="font-weight: 400;">E’ chiaro che tali questioni riguardano l’intero ecosistema della cooperazione, dai donatori, ai beneficiari, passando per l’opinione pubblica e i media. L’impressione è che nella risposta a tali questioni si nasconda non poco del futuro della cooperazione internazionale ed è prevedibile che delle risposte potranno essere identificate soltanto all’interno di un percorso di almeno medio periodo. Un elemento importante in questo percorso sarà la capacità delle ONG di proporre loro stesse dei modelli innovativi di valutazione che siano efficienti, economici e tecnologicamente al passo con i tempi, andando oltre un approccio di mera compliance.</span></h6>
+<h6>E’ chiaro che tali questioni riguardano l’intero ecosistema della cooperazione, dai donatori, ai beneficiari, passando per l’opinione pubblica e i media. L’impressione è che nella risposta a tali questioni si nasconda non poco del futuro della cooperazione internazionale ed è prevedibile che delle risposte potranno essere identificate soltanto all’interno di un percorso di almeno medio periodo. Un elemento importante in questo percorso sarà la capacità delle ONG di proporre loro stesse dei modelli innovativi di valutazione che siano efficienti, economici e tecnologicamente al passo con i tempi, andando oltre un approccio di mera compliance.</h6>
 &nbsp;
-<h6><span style="font-weight: 400;">E’ proprio questa impostazione che il corso <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://academy.gnucoop.com/course/view.php?id=2">“From Paper to Tablet”</a></span> cerca di proporre, fornendo gli strumenti concreti per affrontare la valutazione con spirito rinnovato.</span></h6>
+<h6>E’ proprio questa impostazione che il corso <a style="color: #0000ff;" href="https://academy.gnucoop.com/course/view.php?id=2">“From Paper to Tablet”</a> cerca di proporre, fornendo gli strumenti concreti per affrontare la valutazione con spirito rinnovato.</h6>
 &nbsp;
-<h6><span style="color: #0000ff;"><strong>E’ ancora possibile iscriversi al corso cliccando <a style="color: #0000ff;" href="https://docs.google.com/forms/d/e/1FAIpQLSexE-fB6rY6Q7YI0V5hSvg3Gw0yTdLTEmviEq3szPTvQW8m3g/viewform">qui</a>.</strong></span></h6>
+<h6><strong>E’ ancora possibile iscriversi al corso cliccando <a style="color: #0000ff;" href="https://docs.google.com/forms/d/e/1FAIpQLSexE-fB6rY6Q7YI0V5hSvg3Gw0yTdLTEmviEq3szPTvQW8m3g/viewform">qui</a>.</strong></h6>
 <h6></h6>
-<h6><strong><span style="color: #0000ff;">La registrazione integrale dell’evento è <a style="color: #0000ff;" href="https://vimeo.com/362997069">qui</a>.</span></strong></h6>
+<h6><strong>La registrazione integrale dell’evento è <a style="color: #0000ff;" href="https://vimeo.com/362997069">qui</a>.</strong></h6>
 `,
 	},
 	{
@@ -2314,36 +2314,36 @@ La partecipazione all'evento è gratuita perchè inserita all'interno dell'inizi
 		Slug:    "ai-per-contrastare-le-cause-dello-sfruttamento-del-lavoro-minorile",
 		Excerpt: "",
 		Content: `
-<h2>Martedì 1 ottobre dalle 11 alle 12, nell'ambito del <span style="color: #808080;"><a style="color: #808080;" href="http://www.csreinnovazionesociale.it">Salone della CSR e dell'Innovazione Sociale</a></span>, in programma a Milano presso l'Univers<span class="text_exposed_show">ità Bocconi,</span> il direttore di <span style="color: #808080;"><a style="color: #808080;" href="https://www.ciai.it">CIAI </a></span>Francesca Silva, interverrà nell'incontro <span style="color: #808080;"><a style="color: #808080;" href="http://www.csreinnovazionesociale.it/evento/tecnologia-innovazione-sostenibilita/">“Tecnologia, innovazione, sostenibilità”</a> </span>illustrando l'esperienza di CIAI in Burkina Faso con il progetto <span style="color: #808080;"><a style="color: #808080;" href="https://www.ciai.it/saro-bambino/picaps/">PICAPS.</a></span></h2>
-<h3><span style="font-weight: 400;">Intro</span></h3>
-<h2><span style="font-weight: 400;">Per questo progetto la sfida è stata quella di identificare correttamente il genere maschile o femminile dei bambini fotografati all’interno di un’aula scolastica. La scelta è stata di usare le reti neurali artificiali, attingendo al ricco strumentario open-source in materia di Deep Learning.</span></h2>
-<h2><span style="font-weight: 400;">L’attività descritta è un problema di “classificazione”, in quanto abbiamo due classi (maschi e femmine) alle quali è possibile associare una data immagine.</span></h2>
-<h3><span style="font-weight: 400;">Ricerca del modello</span></h3>
-<h2><span style="font-weight: 400;">Nella tecnica Deep Learning, la classificazione di un’immagine non è altro che l’applicazione di un filtro multistrato ad essa. Il campo di ricerca su questo argomento è molto attivo, e vi sono vari modelli in circolazione, rilasciati sia dalle società commerciali come Google o Microsoft, sia dal settore universitario come Visual Geometry Group della università di Oxford. Come molti dei nostri progetti, anche il progetto in questione si svolge in un contesto con delle costrizioni sia di potenza dei dispositivi, sia di una scarsa connettività, quindi la scelta del modello da adottare è ricaduta naturalmente sul MobileNet proposto da Google. E’ un modello particolarmente efficiente ed al tempo stesso leggero, solo 17Mb rispetto ai modelli standard che si aggirano sulle centinaia di Mb.</span></h2>
-<h2><span style="font-weight: 400;">Il modello, detto a  Reti Neurali Convolute, o ConvNet (CNN) sono uno degli algoritmi di Deep Learning più utilizzati oggi nella computer vision, e trovano applicazione in tantissimi campi, dalle automobili autonome ai droni, dalle diagnosi mediche al supporto e trattamento per gli ipovedenti.</span></h2>
+<h2>Martedì 1 ottobre dalle 11 alle 12, nell'ambito del <a style="color: #808080;" href="http://www.csreinnovazionesociale.it">Salone della CSR e dell'Innovazione Sociale</a>, in programma a Milano presso l'Università Bocconi, il direttore di <a style="color: #808080;" href="https://www.ciai.it">CIAI </a>Francesca Silva, interverrà nell'incontro <a style="color: #808080;" href="http://www.csreinnovazionesociale.it/evento/tecnologia-innovazione-sostenibilita/">“Tecnologia, innovazione, sostenibilità”</a> illustrando l'esperienza di CIAI in Burkina Faso con il progetto <a style="color: #808080;" href="https://www.ciai.it/saro-bambino/picaps/">PICAPS.</a></h2>
+<h3>Intro</h3>
+<h2>Per questo progetto la sfida è stata quella di identificare correttamente il genere maschile o femminile dei bambini fotografati all’interno di un’aula scolastica. La scelta è stata di usare le reti neurali artificiali, attingendo al ricco strumentario open-source in materia di Deep Learning.</h2>
+<h2>L’attività descritta è un problema di “classificazione”, in quanto abbiamo due classi (maschi e femmine) alle quali è possibile associare una data immagine.</h2>
+<h3>Ricerca del modello</h3>
+<h2>Nella tecnica Deep Learning, la classificazione di un’immagine non è altro che l’applicazione di un filtro multistrato ad essa. Il campo di ricerca su questo argomento è molto attivo, e vi sono vari modelli in circolazione, rilasciati sia dalle società commerciali come Google o Microsoft, sia dal settore universitario come Visual Geometry Group della università di Oxford. Come molti dei nostri progetti, anche il progetto in questione si svolge in un contesto con delle costrizioni sia di potenza dei dispositivi, sia di una scarsa connettività, quindi la scelta del modello da adottare è ricaduta naturalmente sul MobileNet proposto da Google. E’ un modello particolarmente efficiente ed al tempo stesso leggero, solo 17Mb rispetto ai modelli standard che si aggirano sulle centinaia di Mb.</h2>
+<h2>Il modello, detto a  Reti Neurali Convolute, o ConvNet (CNN) sono uno degli algoritmi di Deep Learning più utilizzati oggi nella computer vision, e trovano applicazione in tantissimi campi, dalle automobili autonome ai droni, dalle diagnosi mediche al supporto e trattamento per gli ipovedenti.</h2>
 <img class="aligncenter size-full wp-image-4033" src="https://www.gnucoop.com/wp-content/uploads/2019/10/image11.jpg" alt="" width="1140" height="385" />
-<h2><span style="font-weight: 400;">Come per ogni problema di machine learning, per allenare una rete vi è il bisogno di fornire molti dati. Questi dati verranno utilizzati dal modello stesso, per parametrizzare i propri nodi interni, arrivando a capire quali caratteristiche sono determinanti per una classe e quali invece non lo sono. Ad esempio per distinguere un maschio da una femmina potrebbe essere utile considerare la grandezza relativa degli occhi, mentre invece sarebbe inutile considerare il colore della pelle. Queste astrazioni vengono scoperte in automatico dalla rete neurale, in un processo detto </span><i><span style="font-weight: 400;">allenamento. </span></i><span style="font-weight: 400;">Per raccogliere i dati necessari siamo andati a direttamente sul campo.</span></h2>
-<h3><span style="font-weight: 400;">Raccolta delle immagini</span></h3>
+<h2>Come per ogni problema di machine learning, per allenare una rete vi è il bisogno di fornire molti dati. Questi dati verranno utilizzati dal modello stesso, per parametrizzare i propri nodi interni, arrivando a capire quali caratteristiche sono determinanti per una classe e quali invece non lo sono. Ad esempio per distinguere un maschio da una femmina potrebbe essere utile considerare la grandezza relativa degli occhi, mentre invece sarebbe inutile considerare il colore della pelle. Queste astrazioni vengono scoperte in automatico dalla rete neurale, in un processo detto <i>allenamento. </i>Per raccogliere i dati necessari siamo andati a direttamente sul campo.</h2>
+<h3>Raccolta delle immagini</h3>
 <img class="aligncenter size-full wp-image-4035" src="https://www.gnucoop.com/wp-content/uploads/2019/10/image3.jpg" alt="" width="1999" height="1500" />
-<h2><span style="font-weight: 400;">Sono state raccolte circa 2000 fotografie, tramite due macchine fotografiche digitali: una per le femmine, ed una per i maschi. In questo modo siamo stati sicuri di effettuare una classificazione già all’origine, cosa non banale da fare a posteriori con un operatore umano.</span></h2>
-<h3><span style="font-weight: 400;">Modifica della rete</span></h3>
-<h2><span style="font-weight: 400;">2000 fotografie non sono assolutamente sufficienti per allenare una rete neurale robusta, ma per nostra fortuna esiste una tecnica chiamata Transfer Learning che permette un ulteriore allenamento di un modello già allenato in precedenza.   </span></h2>
-<h2><span style="font-weight: 400;">Il modello MobileNet è stato allenato con il database di immagini classificate ImageNet, composto da più di 14 milioni di immagini con le relative classi, cosa che ha permesso al modello di apprendere quali sono quelle caratteristiche di base che fanno distinguere un entità da un altra. Caratteristiche come le forme geometriche ad esempio. Al termine del caricamento avevamo un modello con 89 strati sequenziali.</span></h2>
+<h2>Sono state raccolte circa 2000 fotografie, tramite due macchine fotografiche digitali: una per le femmine, ed una per i maschi. In questo modo siamo stati sicuri di effettuare una classificazione già all’origine, cosa non banale da fare a posteriori con un operatore umano.</h2>
+<h3>Modifica della rete</h3>
+<h2>2000 fotografie non sono assolutamente sufficienti per allenare una rete neurale robusta, ma per nostra fortuna esiste una tecnica chiamata Transfer Learning che permette un ulteriore allenamento di un modello già allenato in precedenza.   </h2>
+<h2>Il modello MobileNet è stato allenato con il database di immagini classificate ImageNet, composto da più di 14 milioni di immagini con le relative classi, cosa che ha permesso al modello di apprendere quali sono quelle caratteristiche di base che fanno distinguere un entità da un altra. Caratteristiche come le forme geometriche ad esempio. Al termine del caricamento avevamo un modello con 89 strati sequenziali.</h2>
 <img class="aligncenter size-full wp-image-4036" src="https://www.gnucoop.com/wp-content/uploads/2019/10/image7.jpg" alt="" width="1199" height="526" />
-<h3><span style="font-weight: 400;">Allenamento</span></h3>
-<h2><span style="font-weight: 400;">A questo punto abbiamo effettuato un ulteriore allenamento sugli ultimi 20 strati del modello, per aggiustarlo al nostro contesto ed alle nostre immagini.</span></h2>
-<h2><span style="font-weight: 400;">Le immagini raccolte sul campo attraversano in sequenza tutti 89 filtri, diventando sempre più astratte, perdendo senso per noi umani, ma acquistando senso per la rete neurale.</span></h2>
+<h3>Allenamento</h3>
+<h2>A questo punto abbiamo effettuato un ulteriore allenamento sugli ultimi 20 strati del modello, per aggiustarlo al nostro contesto ed alle nostre immagini.</h2>
+<h2>Le immagini raccolte sul campo attraversano in sequenza tutti 89 filtri, diventando sempre più astratte, perdendo senso per noi umani, ma acquistando senso per la rete neurale.</h2>
 <img class="aligncenter size-full wp-image-4048" src="https://www.gnucoop.com/wp-content/uploads/2019/10/Image-2019-10-01-at-9.00.30-AM.png" alt="" width="868" height="189" />
-<h3><span style="font-weight: 400;">Risultati</span></h3>
-<h2><span style="font-weight: 400;">I nostri risultati si aggirano su un’accuratezza del 94%. Ci aspettiamo comunque di migliorare questo risultato raccogliendo più dati in fase di esecuzione del progetto. Di seguito il risultato su un insieme di 183 immagini mai viste dal modello in fase di allenamento.</span></h2>
+<h3>Risultati</h3>
+<h2>I nostri risultati si aggirano su un’accuratezza del 94%. Ci aspettiamo comunque di migliorare questo risultato raccogliendo più dati in fase di esecuzione del progetto. Di seguito il risultato su un insieme di 183 immagini mai viste dal modello in fase di allenamento.</h2>
 <img class="aligncenter size-full wp-image-4041" src="https://www.gnucoop.com/wp-content/uploads/2019/10/image12.png" alt="" width="535" height="469" />
-<h2><span style="font-weight: 400;">Di seguito alcuni esempi:</span></h2>
-<h2><span style="font-weight: 400;">I numeri sopra le immagini indicano il grado di confidenza del modello, che passa dallo 0 (confidenza minima) all’1 (confidenza massima)</span></h2>
-<h2><span style="font-weight: 400;">Femmine con la massima confidenza</span></h2>
+<h2>Di seguito alcuni esempi:</h2>
+<h2>I numeri sopra le immagini indicano il grado di confidenza del modello, che passa dallo 0 (confidenza minima) all’1 (confidenza massima)</h2>
+<h2>Femmine con la massima confidenza</h2>
 &nbsp;
-<h2><span style="font-weight: 400;"><img class="aligncenter size-full wp-image-4044" src="https://www.gnucoop.com/wp-content/uploads/2019/10/image5.png" alt="" width="1183" height="298" />Maschi con la massima confidenza</span></h2>
+<h2><img class="aligncenter size-full wp-image-4044" src="https://www.gnucoop.com/wp-content/uploads/2019/10/image5.png" alt="" width="1183" height="298" />Maschi con la massima confidenza</h2>
 <img class="aligncenter size-full wp-image-4043" src="https://www.gnucoop.com/wp-content/uploads/2019/10/image1.png" alt="" width="1084" height="298" />
-<h2><span style="font-weight: 400;">Soggetti dove il modello si è confuso maggiormente</span></h2>
+<h2>Soggetti dove il modello si è confuso maggiormente</h2>
 <img class="aligncenter size-full wp-image-4045" src="https://www.gnucoop.com/wp-content/uploads/2019/10/image4-1.png" alt="" width="1099" height="315" />`,
 	},
 	{
@@ -2351,36 +2351,36 @@ La partecipazione all'evento è gratuita perchè inserita all'interno dell'inizi
 		Slug:    "from-paper-to-tablet-all-the-steps-you-need-to-know",
 		Excerpt: "",
 		Content: `
-<h2><span style="font-weight: 400;">Con la terza edizione di Milano si chiude il corso <a href="https://academy.gnucoop.com/course/view.php?id=2">“From Paper to Tablet”</a>, promosso da Gnucoop, <a href="https://www.info-cooperazione.it/home-changelab/">ChangeLab</a> e <a href="http://www.ciai.it">CIAI</a> e finanziato da <a href="http://fondazionecariplo.it/it/index.html">Fondazione Cariplo</a> e <a href="https://compagniadisanpaolo.it/">Compagnia di S. Paolo</a> all’interno del programma <a href="https://innovazionesviluppo.org/">Innovazione per lo Sviluppo</a>. Alle tre edizioni, due a Milano e una a Bologna, hanno partecipato quasi 60 persone di 50 organizzazioni. Principalmente ONG e altri soggetti della cooperazione internazionale, ma anche persone attive nel terzo settore in Italia. Partecipazione molto buona, quindi, considerando anche che il corso era piuttosto impegnativo, 24 ore di aula su 3 giorni. </span></h2>
-<h2><span style="font-weight: 400;"><img class="alignnone wp-image-4066" src="https://www.gnucoop.com/wp-content/uploads/2019/10/Iscrizioni.png" alt="" width="350" height="216" /><img class="alignnone wp-image-4067" src="https://www.gnucoop.com/wp-content/uploads/2019/10/Organizzazione-di-provenienza.png" alt="" width="400" height="247" /></span></h2>
+<h2>Con la terza edizione di Milano si chiude il corso <a href="https://academy.gnucoop.com/course/view.php?id=2">“From Paper to Tablet”</a>, promosso da Gnucoop, <a href="https://www.info-cooperazione.it/home-changelab/">ChangeLab</a> e <a href="http://www.ciai.it">CIAI</a> e finanziato da <a href="http://fondazionecariplo.it/it/index.html">Fondazione Cariplo</a> e <a href="https://compagniadisanpaolo.it/">Compagnia di S. Paolo</a> all’interno del programma <a href="https://innovazionesviluppo.org/">Innovazione per lo Sviluppo</a>. Alle tre edizioni, due a Milano e una a Bologna, hanno partecipato quasi 60 persone di 50 organizzazioni. Principalmente ONG e altri soggetti della cooperazione internazionale, ma anche persone attive nel terzo settore in Italia. Partecipazione molto buona, quindi, considerando anche che il corso era piuttosto impegnativo, 24 ore di aula su 3 giorni. </h2>
+<h2><img class="alignnone wp-image-4066" src="https://www.gnucoop.com/wp-content/uploads/2019/10/Iscrizioni.png" alt="" width="350" height="216" /><img class="alignnone wp-image-4067" src="https://www.gnucoop.com/wp-content/uploads/2019/10/Organizzazione-di-provenienza.png" alt="" width="400" height="247" /></h2>
 <h2></h2>
 <h2></h2>
 <h2></h2>
 <h2></h2>
-<h2><span style="font-weight: 400;">Il tema era certamente di interesse. Parlare di trasformazione digitale nella cooperazione internazionale è ormai una necessità dalla quale è sempre più difficile prescindere. E questo non soltanto perché i donatori istituzionali cercano sempre più spesso di orientare i propri contributi ad azioni che siano caratterizzate dall’essere innovative, ma perché ormai emerge in modo chiaro come in un mondo che cambia rapidamente i propri meccanismi di funzionamento e i propri equilibri, anche le ONG devono adeguarsi e rinnovarsi. </span></h2>
-<h2><span style="font-weight: 400;">Durante il corso è emerso chiaramente come il tema dell’innovazione non possa essere ridotto all’apprendimento di questo o quel software e, meno ancora, possa essere delegato all’ennesimo consulente esterno. Si tratta di un processo che non riguarda il singolo progetto ma coinvolge tutta l’organizzazione e può compiersi soltanto tramite una profonda messa in discussione del proprio funzionamento. Per questo il corso ha proposto due temi non immediatamente vicini come le tecnologie dell’informazione e della comunicazione (TIC) e la Theory of Change (TOC). </span></h2>
+<h2>Il tema era certamente di interesse. Parlare di trasformazione digitale nella cooperazione internazionale è ormai una necessità dalla quale è sempre più difficile prescindere. E questo non soltanto perché i donatori istituzionali cercano sempre più spesso di orientare i propri contributi ad azioni che siano caratterizzate dall’essere innovative, ma perché ormai emerge in modo chiaro come in un mondo che cambia rapidamente i propri meccanismi di funzionamento e i propri equilibri, anche le ONG devono adeguarsi e rinnovarsi. </h2>
+<h2>Durante il corso è emerso chiaramente come il tema dell’innovazione non possa essere ridotto all’apprendimento di questo o quel software e, meno ancora, possa essere delegato all’ennesimo consulente esterno. Si tratta di un processo che non riguarda il singolo progetto ma coinvolge tutta l’organizzazione e può compiersi soltanto tramite una profonda messa in discussione del proprio funzionamento. Per questo il corso ha proposto due temi non immediatamente vicini come le tecnologie dell’informazione e della comunicazione (TIC) e la Theory of Change (TOC). </h2>
 
 <hr />
 
-<h2><span style="font-weight: 400;"><img class="aligncenter size-full wp-image-4058" src="https://www.gnucoop.com/wp-content/uploads/2019/10/fptt-1.jpg" alt="" width="3999" height="2001" /></span></h2>
+<h2><img class="aligncenter size-full wp-image-4058" src="https://www.gnucoop.com/wp-content/uploads/2019/10/fptt-1.jpg" alt="" width="3999" height="2001" /></h2>
 
 <hr />
 
-<h2><span style="font-weight: 400;">Alla fine del corso sono stati somministrati dei questionari di valutazione. Le domande principali erano finalizzate a valutare l’efficacia dell’intervento formativo, sia per quanto riguarda i contenuti proposti, che le modalità di erogazione del corso. Nella seguente tabella riportiamo i valori medi delle domande principali:</span></h2>
+<h2>Alla fine del corso sono stati somministrati dei questionari di valutazione. Le domande principali erano finalizzate a valutare l’efficacia dell’intervento formativo, sia per quanto riguarda i contenuti proposti, che le modalità di erogazione del corso. Nella seguente tabella riportiamo i valori medi delle domande principali:</h2>
 <h2></h2>
-<h2><span style="font-weight: 400;"><img class="aligncenter size-full wp-image-4078" src="https://www.gnucoop.com/wp-content/uploads/2019/10/domande.png" alt="" width="602" height="510" /></span></h2>
+<h2><img class="aligncenter size-full wp-image-4078" src="https://www.gnucoop.com/wp-content/uploads/2019/10/domande.png" alt="" width="602" height="510" /></h2>
 
 <hr />
 
-<h2><span style="font-weight: 400;">Per avere un’idea anche della distribuzione delle risposte, si riportano i dati relativi alle prime 2 domande, su quanto siano stati raggiunti gli obiettivi del corso e del complessivo livello di soddisfazione.</span></h2>
+<h2>Per avere un’idea anche della distribuzione delle risposte, si riportano i dati relativi alle prime 2 domande, su quanto siano stati raggiunti gli obiettivi del corso e del complessivo livello di soddisfazione.</h2>
 
 <hr />
 
-<h2><span style="font-weight: 400;"><img class="alignnone wp-image-4075" src="https://www.gnucoop.com/wp-content/uploads/2019/10/Acquisire-un-quadro-di-riferimento-sulla-ToC-applicato-al-ME-primo-giorno.png" alt="" width="250" height="155" /><img class="alignnone wp-image-4077" src="https://www.gnucoop.com/wp-content/uploads/2019/10/Sperimentare-l’utilizzo-di-strumenti-innovativi-di-raccolta-e-analisi-di-dati-secondo-e-terzo-giorno.png" alt="" width="250" height="155" /><img class="alignnone wp-image-4071" src="https://www.gnucoop.com/wp-content/uploads/2019/10/Rispetto-alle-tue-aspettative-ti-ritieni_.png" alt="" width="249" height="153" /></span></h2>
+<h2><img class="alignnone wp-image-4075" src="https://www.gnucoop.com/wp-content/uploads/2019/10/Acquisire-un-quadro-di-riferimento-sulla-ToC-applicato-al-ME-primo-giorno.png" alt="" width="250" height="155" /><img class="alignnone wp-image-4077" src="https://www.gnucoop.com/wp-content/uploads/2019/10/Sperimentare-l’utilizzo-di-strumenti-innovativi-di-raccolta-e-analisi-di-dati-secondo-e-terzo-giorno.png" alt="" width="250" height="155" /><img class="alignnone wp-image-4071" src="https://www.gnucoop.com/wp-content/uploads/2019/10/Rispetto-alle-tue-aspettative-ti-ritieni_.png" alt="" width="249" height="153" /></h2>
 
 <hr />
 
-<h2><span style="font-weight: 400;">E’ chiaro che un corso con questa ambizione non potesse essere un corso tradizionale, dove un docente insegna una materia ad una classe. I tre giorni sono stati invece un continuo scambio di esperienze tra tocenti/facilitatori e partecipanti, scambio che ha permesso al corso stesso di evolvere durante le tre sessioni, per arrivare ad una proposta formativa avanzata nelle modalità e nei contenuti. </span></h2>
+<h2>E’ chiaro che un corso con questa ambizione non potesse essere un corso tradizionale, dove un docente insegna una materia ad una classe. I tre giorni sono stati invece un continuo scambio di esperienze tra tocenti/facilitatori e partecipanti, scambio che ha permesso al corso stesso di evolvere durante le tre sessioni, per arrivare ad una proposta formativa avanzata nelle modalità e nei contenuti. </h2>
 <h2><strong>Ringraziamo quindi tutti quelli che hanno partecipato e che hanno contribuito alla crescita di un pensiero nuovo sul tema dell’innovazione nella cooperazione internazionale.</strong></h2>
 `,
 	},
