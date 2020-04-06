@@ -41,9 +41,34 @@ func main() {
 	flag.Parse()
 	log.SetFlags(0)
 
-	/* read blog from gnucoop_blog.json
-	var blog []Article
-	f, err := os.Open(blogFile)
+	dumpBlog()
+}
+
+func dumpBlog() {
+	f, err := os.Create("gnucoop_blog.go")
+	if err != nil {
+		log.Fatal(err)
+	}
+	_, err = f.WriteString("package main\n\n")
+	if err != nil {
+		log.Fatal(err)
+	}
+	f.WriteString("var blog = []Article{\n")
+	for _, article := range blog {
+		f.WriteString("\t{\n")
+		fmt.Fprintf(f, "\t\tTitle:   %q,\n", article.Title)
+		fmt.Fprintf(f, "\t\tSlug:    %q,\n", article.Slug)
+		fmt.Fprintf(f, "\t\tExcerpt: %q,\n", article.Excerpt)
+		f.WriteString("\t\tContent: `")
+		f.WriteString(article.Content)
+		f.WriteString("`,\n")
+		f.WriteString("\t},\n")
+	}
+	f.WriteString("}\n")
+}
+
+func readBlogJson() {
+	f, err := os.Open("gnucoop_blog.json")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -53,29 +78,6 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	for i := range blog {
-		article := &blog[i]
-		article.Slug = slugOf(article.Title)
-		//postArticle(article)
-	}*/
-
-	f, err := os.Create("gnucoop_blog.go")
-	if err != nil {
-		log.Fatal(err)
-	}
-	f.WriteString("package main\n\n")
-	f.WriteString("var blog = []Article{\n")
-	for _, article := range blog {
-		f.WriteString("{\n")
-		fmt.Fprintf(f, "Title: %q,\n", article.Title)
-		fmt.Fprintf(f, "Slug: %q,\n", article.Slug)
-		fmt.Fprintf(f, "Excerpt: %q,\n", article.Excerpt)
-		f.WriteString("Content: `")
-		f.WriteString(article.Content)
-		f.WriteString("`,\n")
-		f.WriteString("},\n")
-	}
-	f.WriteString("}\n")
 }
 
 func postArticle(article *Article) {
