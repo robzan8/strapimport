@@ -59,7 +59,7 @@ https://www.gnucoop.com/mobile-health-technology-key-practices-for-drr-implement
 		Title:   "Tratti di china: a Chinese audio blog!",
 		Slug:    "tratti-di-china-a-chinese-audio-blog",
 		Excerpt: "",
-		Content: `Teaching culture is essential to language teaching and learning.  Teacher's should have been taught culture as well when they were learning the language themselves. Therefore it should not be a problem to them. And what if his formation was not ideal? This teacher has many resources today to acquire more knowledge about that culture or of some culture of countries that uses that language he is teaching. When teaching international students Mandarin, teachers should not just teach the language, grammar, but the Chinese cultural dissemination needs to be included as well, which is extremely important because the language reflects the cultural exchange. Culture is a necessary condition for language learning, which can help students better understand Chinese.
+		Content: `Teaching culture is essential to language teaching and learning. Teacher's should have been taught culture as well when they were learning the language themselves. Therefore it should not be a problem to them. And what if his formation was not ideal? This teacher has many resources today to acquire more knowledge about that culture or of some culture of countries that uses that language he is teaching. When teaching international students Mandarin, teachers should not just teach the language, grammar, but the Chinese cultural dissemination needs to be included as well, which is extremely important because the language reflects the cultural exchange. Culture is a necessary condition for language learning, which can help students better understand Chinese.
 
 <i>Tratti di China</i> is the answer to this necessity. It’s an audio Chinese lessons course, it focuses on listening and reading skill, but it also includes many activities that help learners prepare for speaking and writing. Registering on <a href="http://www.trattidichina.it/chi-siamo/">our website</a>, users can obtain free access to news, audio course and grammar lessons and a book with the whole content of the audio course will be delivered  immediately for free. 
 Chapter 1: The Chinese language
@@ -160,7 +160,7 @@ During the three days, after a plenary session, Gnuoop took part to different wo
 <!-- /wp:paragraph -->
 
 <!-- wp:file {"id":4130,"href":"https://www.gnucoop.com/wp-content/uploads/2019/11/Facial-Recognition.mp4"} -->
-<div class="wp-block-file"><a href="https://www.gnucoop.com/wp-content/uploads/2019/11/Facial-Recognition.mp4">Facial-Recognition</a><a href="https://www.gnucoop.com/wp-content/uploads/2019/11/Facial-Recognition.mp4" class="wp-block-file__button" download>Download</a></div>
+<a href="https://www.gnucoop.com/wp-content/uploads/2019/11/Facial-Recognition.mp4">Facial-Recognition</a><a href="https://www.gnucoop.com/wp-content/uploads/2019/11/Facial-Recognition.mp4" class="wp-block-file__button" download>Download</a>
 <!-- /wp:file -->
 
 <!-- wp:paragraph -->
@@ -183,7 +183,7 @@ During the three days, after a plenary session, Gnuoop took part to different wo
 		Title:   "When Innovation Leads to a Low-Tech Solution",
 		Slug:    "when-innovation-leads-to-a-lowtech-solution",
 		Excerpt: "",
-		Content: `Now is a very exciting time <div style="display:none"><a href="http://bulkingleanmuscles.online/build-lean-muscles/jump-rope-cardio-workouts.html">Jump Rope Cardio Workouts</a></div> for technology and global health delivery.
+		Content: `Now is a very exciting time for technology and global health delivery.
 
 See more at:
 
@@ -630,7 +630,7 @@ More informations here <a href="http://sirv.tabarre.ht/static/reports/VOLUME_5_S
 		Title:   "HARNESSING THE DATAREVOLUTION: THREE GOALS TO BETTER IMPROVE DEVELOPMENT OUTCOMES",
 		Slug:    "harnessing-the-datarevolution-three-goals-to-better-improve-development-outcomes",
 		Excerpt: "",
-		Content: `First, data at the project- and activity- level must be publicly accessible in a <div style="display:none"><a href="http://body-health-news.world/health-news/most-effective-back-exercises.html">Most Effective Back Exercises</a></div> format that people can understand, use and compare.
+		Content: `First, data at the project- and activity- level must be publicly accessible in a format that people can understand, use and compare.
 
 Second, donors and governments must systematically tag projects and activities with geographic information and make these data public.
 
@@ -910,7 +910,7 @@ Unquestionably, ICT has the potential to transform the efficiency and usefulness
 		Excerpt: "",
 		Content: `The current refugees crisis spreading through Europe and all over the World gave us the idea of the importance to open a dedicated session on our blog.
 When this tragedy reached our borders and, above all arrived on our media, many initiatives were born to involve the tech community on these issues.
-The first one was <a href="https://twitter.com/mikebutcher">Mike Butcher</a>’s <a href="http://techfugees.com/">Techfugees</a> a conference and a hackathon where the London tech community showed their support for refugees. In a few days a <a href="https://www.facebook.com/groups/Techfugees/">Facebook group</a> and <a href="https://twitter.com/Techfugees">Twitter</a> accounts exploded, showing the huge interest of the tech community <div style="display:none"><a href="http://fitness-mental-health.biz/fitness-and-health/online-cardio-workout.html">Online Cardio Workout</a></div> to be involved in this issue.
+The first one was <a href="https://twitter.com/mikebutcher">Mike Butcher</a>’s <a href="http://techfugees.com/">Techfugees</a> a conference and a hackathon where the London tech community showed their support for refugees. In a few days a <a href="https://www.facebook.com/groups/Techfugees/">Facebook group</a> and <a href="https://twitter.com/Techfugees">Twitter</a> accounts exploded, showing the huge interest of the tech community to be involved in this issue.
 Many other conferences, events, hackathons have been organized all over Europe, one in Italy hosted by <a href="http://www.h-farmventures.com/en/">H-Farm</a> where we’ve been present (you can read about it <a href="https://www.gnucoop.com/gnucoop-at-techfugees-italy/">here</a>).
 During these months, following all these groups and initiatives we have collected some of the ideas and the applications developed in support of refugees.
 
@@ -938,7 +938,7 @@ If you have created an app for refugees or if you know of some successful projec
 
 <strong><a href="http://www.myrefuge.world/">MyRefuge</a></strong> is a platform to connect refugees with home owners who are happy to offer refugees shelter and food throughly there journey &amp; advice them with charities &amp; Ngo's support how refugees can integrate with the community where they are staying.
 It’s an AirBnB for refugees with no money involved - people can open up their homes to refugees who can find them easily, based on city and availability.
-It was <div style="display:none"><a href="http://trainer-health-tips.biz/health-tips/high-intense-cardio.html">High Intense Cardio</a></div> at Techfugees conference and hackathon, as well as code to the kingdom hackathon where the got awarded best improved solution for refugee crisis.
+It was at Techfugees conference and hackathon, as well as code to the kingdom hackathon where the got awarded best improved solution for refugee crisis.
 
 <strong><a href="http://www.refugees-welcome.net/">Refugees Welcome</a></strong> (german: Flüchtlinge Willkommen) began as a project idea last November continuously garners active support.
 We will put you in touch with a refugee who fits you and your flat. When you register your flat we ask for some details about your living situation, such as the number of flatmates, the languages you speak, your city and surroundings etc.. This information will help us match hosts with refugees.
@@ -1401,25 +1401,25 @@ Up to now a very collaborative working atmosphere between Gnucoop staff and UNHC
 		Slug:    "webinar-on-the-use-of-digital-tools-and-geoinformation-for-development",
 		Excerpt: "",
 		Content: `
-<div class="ember-view dh-page-text"><strong>When:</strong> <strong>Friday, 16 December 2016, 2 p.m. (CET)</strong></div>
-<div id="ember1464" class="ember-view dh-page-text"><strong>Where:</strong> <a href="http://alumniportal-deutschland.de/agep-webinar">http://alumniportal-deutschland.de/agep-webinar</a></div>
-<div id="ember1466" class="ember-view dh-page-text">Over the past 15 years the <strong>Information and Communications Technologies (ICT)</strong> revolution has driven global development in an unprecedented way. Technological progress, infrastructure deployment and falling prices have brought unexpected growth in ICT access and connectivity to billions of people around the world. The last decade has seen a proliferation of technological initiatives aimed to tackle development issues.</div>
-<div id="ember1476" class="ember-view dh-page-text">Through the use of ICTs, humanitarian operators can achieve a wider reach, even in most fragile contexts. The use of information technology to support data collection, analysis and elaboration has brought significant changes in the way information is managed and shared.</div>
-<div id="ember1482" class="ember-view dh-page-text">In this webinar, Paola Fava, Co-Founder of Gnucoop Società Cooperativa, will provide you with a general understanding of the role and impact of ICTs in the development process.</div>
-<div id="ember1486" class="ember-view dh-page-text">Examples on how the use of technologies has eased the work of the operators and improved lives around the world may include mobile technologies to improve timely data collection regarding basic supplies (i.e.: medicine, food, etc..) and access to primary services (i.e.:healthcare, food security, disaster preparedness, etc.) for populations facing scarcity of these goods/services as well as digital maps (GIS and WebGIS platforms) to prevent and to respond to humanitarian crisis.</div>
-<div id="ember1498" class="ember-view dh-page-text">The webinar will be held in English and streamed live from the HFT Stuttgart to the community group <a href="http://agep-info.de/"><em>The AGEP-Network</em></a></div>
-<div id="ember1504" class="ember-view dh-page-text">in the Alumniportal Deutschland <a href="http://alumniportal-deutsch-land.de/group-agep-alumni">http://alumniportal-deutsch-land.de/group-agep-alumni</a>.</div>
-<div id="ember1510" class="ember-view dh-page-text"></div>
-<div id="ember1512" class="ember-view dh-page-text">Attending the webinar is easy! Just register or login to the Alumniportal Deutschland and join the group The AGEP–Network. Becoming a member is free of charge.</div>
-<div id="ember1516" class="ember-view dh-page-text"></div>
-<div id="ember1518" class="ember-view dh-page-text">You will not be able to participate in the live session? Now worries! You can attend the recorded webinar soon afterwards.</div>
-<div id="ember1522" class="ember-view dh-page-text"></div>
-<div id="ember1524" class="ember-view dh-page-text" style="text-align: center;"><strong>We are looking forward to seeing you online soon!</strong></div>
-<div class="ember-view dh-page-text" style="text-align: center;"><strong><a href="http://www.alumniportal-deutschland.org">www.alumniportal-deutschland.org</a></strong></div>
-<div class="ember-view dh-page-text" style="text-align: center;"></div>
-<div class="ember-view dh-page-text" style="text-align: center;"><img class=" wp-image-2947 alignleft" src="https://www.gnucoop.com/wp-content/uploads/2016/12/AGEP.jpg" alt="agep" width="76" height="90" /><img class=" wp-image-2109 alignnone" src="https://www.gnucoop.com/wp-content/uploads/2016/04/gnulogo-it2.png" alt="gnulogo-it2" width="151" height="90" /><img class=" wp-image-2948 alignright" src="https://www.gnucoop.com/wp-content/uploads/2016/12/Alumni-portal.png" alt="alumni-portal" width="404" height="90" /></div>
-<div class="ember-view dh-page-text" style="text-align: center;"></div>
-<div class="ember-view dh-page-text" style="text-align: center;"></div>
+<strong>When:</strong> <strong>Friday, 16 December 2016, 2 p.m. (CET)</strong>
+<strong>Where:</strong> <a href="http://alumniportal-deutschland.de/agep-webinar">http://alumniportal-deutschland.de/agep-webinar</a>
+Over the past 15 years the <strong>Information and Communications Technologies (ICT)</strong> revolution has driven global development in an unprecedented way. Technological progress, infrastructure deployment and falling prices have brought unexpected growth in ICT access and connectivity to billions of people around the world. The last decade has seen a proliferation of technological initiatives aimed to tackle development issues.
+Through the use of ICTs, humanitarian operators can achieve a wider reach, even in most fragile contexts. The use of information technology to support data collection, analysis and elaboration has brought significant changes in the way information is managed and shared.
+In this webinar, Paola Fava, Co-Founder of Gnucoop Società Cooperativa, will provide you with a general understanding of the role and impact of ICTs in the development process.
+Examples on how the use of technologies has eased the work of the operators and improved lives around the world may include mobile technologies to improve timely data collection regarding basic supplies (i.e.: medicine, food, etc..) and access to primary services (i.e.:healthcare, food security, disaster preparedness, etc.) for populations facing scarcity of these goods/services as well as digital maps (GIS and WebGIS platforms) to prevent and to respond to humanitarian crisis.
+The webinar will be held in English and streamed live from the HFT Stuttgart to the community group <a href="http://agep-info.de/"><em>The AGEP-Network</em></a>
+in the Alumniportal Deutschland <a href="http://alumniportal-deutsch-land.de/group-agep-alumni">http://alumniportal-deutsch-land.de/group-agep-alumni</a>.
+
+Attending the webinar is easy! Just register or login to the Alumniportal Deutschland and join the group The AGEP–Network. Becoming a member is free of charge.
+
+You will not be able to participate in the live session? Now worries! You can attend the recorded webinar soon afterwards.
+
+<strong>We are looking forward to seeing you online soon!</strong>
+<strong><a href="http://www.alumniportal-deutschland.org">www.alumniportal-deutschland.org</a></strong>
+
+<img class=" wp-image-2947 alignleft" src="https://www.gnucoop.com/wp-content/uploads/2016/12/AGEP.jpg" alt="agep" width="76" height="90" /><img class=" wp-image-2109 alignnone" src="https://www.gnucoop.com/wp-content/uploads/2016/04/gnulogo-it2.png" alt="gnulogo-it2" width="151" height="90" /><img class=" wp-image-2948 alignright" src="https://www.gnucoop.com/wp-content/uploads/2016/12/Alumni-portal.png" alt="alumni-portal" width="404" height="90" />
+
+
 `,
 	},
 	{
@@ -1475,13 +1475,13 @@ We suggest to spend more time to explain better to the users how it will change 
 <h4 style="text-align: center;"><strong><i>Technology itself does not mean progress,</i></strong></h4>
 <h4 style="text-align: center;"><strong><i>progress is our ability to use technology to make a difference</i></strong></h4>
 <h4 style="text-align: center;">(Luca De Biase)</h4>
-<div class="ember-view dh-page-text"><strong>When:</strong>  Wednesday, 12 April 2017, 9 a.m. (CET)</div>
-<div id="ember1464" class="ember-view dh-page-text"><strong>Where: </strong>Piazza della Scienza, 4, Università degli Studi di MIlano - Bicocca</div>
-<div class="ember-view dh-page-text">              Edificio U4, aula 2034</div>
-<div class="ember-view dh-page-text"></div>
-<div class="ember-view dh-page-text"></div>
-<div class="ember-view dh-page-text">Gnucoop Soc. Coop. and <a href="http://www.standbytaskforce.org/">Stand by Task Force</a> (SBTF) are organizing an event about the use of digital tools to support information management during natural disasters and humanitarian crisis.</div>
-<div class="ember-view dh-page-text">
+<strong>When:</strong>  Wednesday, 12 April 2017, 9 a.m. (CET)
+<strong>Where: </strong>Piazza della Scienza, 4, Università degli Studi di MIlano - Bicocca
+              Edificio U4, aula 2034
+
+
+Gnucoop Soc. Coop. and <a href="http://www.standbytaskforce.org/">Stand by Task Force</a> (SBTF) are organizing an event about the use of digital tools to support information management during natural disasters and humanitarian crisis.
+
 
 When a disaster or humanitarian emergency strikes, many organisations (public agencies, humanitarian responders, governmental and non governmental organisations) activate and try to provide their support. In these contexts, it’s very important to have access to and rely on trustworthy information. If used sensibly, social networks and digital tools have the potential to provide important pieces of information that were not accessible only up to few years ago. 
 
@@ -1502,7 +1502,7 @@ For more information <a href="http://www.geo.unimib.it/master">http://masterwash
 
 To confirm your participation <a href="mailto:info@gnucoop.com">info@gnucoop.com</a>
 
-</div>
+
 `,
 	},
 	{
@@ -1667,7 +1667,7 @@ Exhibitors at the tech fair, among others, included: Aptivate, Akvo Foundation, 
 For more info, check out the <a href="https://www.ifad.org/evaluation/event/tags/ict_for_dev/y2017/36103920">website</a> of the Conference.
 
 A brief storify fo these two very inspiring days!
-<div class="storify"><iframe src="//storify.com/gnucoop/ict4evaluation-conference-at-ifad-6-7-june-2017/embed?border=false" width="100%" height="750" frameborder="no"></iframe><a href="//storify.com/gnucoop/ict4evaluation-conference-at-ifad-6-7-june-2017" target="_blank">View the story "#ICT4Evaluation conference at IFAD, 6-7 June 2017" on Storify</a></div>
+<iframe src="//storify.com/gnucoop/ict4evaluation-conference-at-ifad-6-7-june-2017/embed?border=false" width="100%" height="750" frameborder="no"></iframe><a href="//storify.com/gnucoop/ict4evaluation-conference-at-ifad-6-7-june-2017" target="_blank">View the story "#ICT4Evaluation conference at IFAD, 6-7 June 2017" on Storify</a>
 `,
 	},
 	{
@@ -1694,7 +1694,7 @@ After this phase, Gnucoop was granted the commission to re-design the current Tw
 &nbsp;
 
 &nbsp;
-<h6>It’s possible to navigate through a dashboard and repository <div style="display:none"><a href="http://healthmagblog.online/health-blog/back-excerises.html">Back Excerises</a></div> section at<strong> multiple geographical level: &nbsp;from refugee camps worldwide to country offices up to regional and HQ level.&nbsp;</strong></h6>
+<h6>It’s possible to navigate through a dashboard and repository section at<strong> multiple geographical level: &nbsp;from refugee camps worldwide to country offices up to regional and HQ level.&nbsp;</strong></h6>
 
 <h6 align="justify"><img class="size-full wp-image-3204 alignleft" src="https://www.gnucoop.com/wp-content/uploads/2017/06/homepage.png" alt="" width="416" height="294"></h6>
 <h6 align="justify"></h6>
@@ -1971,7 +1971,7 @@ Milano</h2>
 <img class="aligncenter wp-image-3419" src="https://www.gnucoop.com/wp-content/uploads/2017/11/IMG_20171110_095529-758x1024.jpg" alt="" width="500" height="675" />
 <h4>Furthermore, during her visits to the centers, she had the chance to observe and appreciate the wonderful work of those people who face everyday enormous difficulties in order to provide assistance in a hard context like the one in Rwanda, but always with enthusiasm and smiling.</h4>
 &nbsp;
-<div class="grammarly-disable-indicator"></div>`,
+`,
 	},
 	{
 		Title:   "Mission Report Maban County, South Sudan",
@@ -2113,14 +2113,14 @@ Il servizio SMS sarà presentato alle istituzioni locali e proposto alle compagn
 <img class="size-full wp-image-3781 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/08/QUELIMANE_FOOTER_ita.jpg" alt="" width="794" height="284" />
 
 Qui la lista dei partners di progetto:
-<div>UPCZ (UNIONE PROVINCIALE DEI CONTADINI DI ZAMBEZIA)</div>
-<div><a href="http://www.apolitecnica.ac.mz/" target="_blank" rel="noopener">UNIVERSITÀ POLITECNICA DI QUELIMANE</a></div>
-<div>COMUNE DI QUELIMANE</div>
-<div><a href="http://www.icei.it/icei/" target="_blank" rel="noopener">ICEI (ISTITUTO COOPERAZIONE ECONOMICA INTERNAZIONALE)</a></div>
-<div><a href="https://www.unifi.it/changelang-it.html" target="_blank" rel="noopener">UNIVERSITÀ DEGLI STUDI DI FIRENZE</a></div>
-<div><a href="https://www.comune.milano.it/wps/portal/ist/it" target="_blank" rel="noopener">COMUNE DI MILANO</a></div>
-<div><a href="https://www.comune.re.it/" target="_blank" rel="noopener">COMUNE DI REGGIO NELL’EMILIA</a></div>
-<div><a href="https://e-35.it/it/home/" target="_blank" rel="noopener">FONDAZIONE E35</a></div>
+UPCZ (UNIONE PROVINCIALE DEI CONTADINI DI ZAMBEZIA)
+<a href="http://www.apolitecnica.ac.mz/" target="_blank" rel="noopener">UNIVERSITÀ POLITECNICA DI QUELIMANE</a>
+COMUNE DI QUELIMANE
+<a href="http://www.icei.it/icei/" target="_blank" rel="noopener">ICEI (ISTITUTO COOPERAZIONE ECONOMICA INTERNAZIONALE)</a>
+<a href="https://www.unifi.it/changelang-it.html" target="_blank" rel="noopener">UNIVERSITÀ DEGLI STUDI DI FIRENZE</a>
+<a href="https://www.comune.milano.it/wps/portal/ist/it" target="_blank" rel="noopener">COMUNE DI MILANO</a>
+<a href="https://www.comune.re.it/" target="_blank" rel="noopener">COMUNE DI REGGIO NELL’EMILIA</a>
+<a href="https://e-35.it/it/home/" target="_blank" rel="noopener">FONDAZIONE E35</a>
 `,
 	},
 	{
