@@ -204,9 +204,7 @@ opportunities.
 		Title:   "Mobile Health Technology: Key Practices for DRR Implementers #ict4d",
 		Slug:    "mobile-health-technology-key-practices-for-drr-implementers-ict4d",
 		Excerpt: "",
-		Content: `<img class="alignnone" src="http://www.fao.org/3/a-as937e/as937e.jpg" alt="" width="200" height="140" />
-
-<em>The Mobile Health Technology: Key Practices for DRR Implementers</em> resource toolkit presented here provides support to DRR practitioners in the development and management of mobile-health projects in the context of DRR. Particularly, the tool is based on the lesson-learnt from COOPI’s five years of experience in the use of mobile technology applied to the health sector in rural context in the southern Africa region with the support of <strong>Gnucoop</strong>.
+		Content: `<em>The Mobile Health Technology: Key Practices for DRR Implementers</em> resource toolkit presented here provides support to DRR practitioners in the development and management of mobile-health projects in the context of DRR. Particularly, the tool is based on the lesson-learnt from COOPI’s five years of experience in the use of mobile technology applied to the health sector in rural context in the southern Africa region with the support of <strong>Gnucoop</strong>.
 
 <a href="http://bit.ly/1FHds0r">http://bit.ly/1FHds0r</a>`,
 	},
@@ -226,9 +224,7 @@ opportunities.
 		Excerpt: "",
 		Content: `Aid workers in Liberia tried out a new tool this week to contain the world’s worst Ebola outbreak: <strong>the text message</strong>. #ict4d
 
-<a href="http://bloom.bg/1xgGo9D">http://bloom.bg/1xgGo9D</a>
-
-<img class="aligncenter" src="http://www.bloomberg.com/image/iJvWYlk0iUZY.jpg" alt="" width="416" height="234" />`,
+<a href="http://bloom.bg/1xgGo9D">http://bloom.bg/1xgGo9D</a>`,
 	},
 	{
 		Title:   "The Digital Development Opportunity",
@@ -260,8 +256,6 @@ opportunities.
 		Excerpt: "",
 		Content: `New information and communication technologies in humanitarian response create opportunities for improved humanitarian response as well as risks to the privacy and security of affected communities
 
-<img class="alignnone" src="http://img.static.reliefweb.int/sites/reliefweb.int/files/styles/attachment-small/public/resources-pdf-previews/207318-Humanitarianism%20in%20the%20Cyberwarfare%20Age%20-%20OCHA%20Policy%20Paper%2011.png?itok=B2wHMIG0" alt="" width="200" height="259" />
-
 <a href="http://bit.ly/1DoLRNJ">http://bit.ly/1DoLRNJ</a>`,
 	},
 	{
@@ -270,7 +264,7 @@ opportunities.
 		Excerpt: "",
 		Content: `Jointly organized by UN Women and the International Telecommunication Union (ITU), the GEM-Tech Awards recognize the outstanding achievements of organizations and individuals in the area of gender equality and mainstreaming through.
 
-TCW’s successful transformation from a simple Digital Literacy Campaign for Women launched in 2011 into a full-fledged major program of TCF, the engagement and mobilization of a large network of partners in different parts of the world, the attainment of its goal of training 1 million women worldwide and equipping them with the necessary ICT skills, along with the many inspiring stories of women who have been trained and whose lives were changed through ICT – all these contributed to TCW’s win at the GEM-Tech Awards.<img class="alignnone" src="http://api.ning.com/files/zdyFMqJvbXJ5coTu45Pv2vd9DIZDHJMD4bntrclw3UA--4Ujbn9m0Ucx2Pm*wdU7j3-YigvuLJhdtUd5HUDMY61ZeeEgvrTr/GEMTech_WINNER_LOGOsmall.jpg" alt="" width="491" height="154" />
+TCW’s successful transformation from a simple Digital Literacy Campaign for Women launched in 2011 into a full-fledged major program of TCF, the engagement and mobilization of a large network of partners in different parts of the world, the attainment of its goal of training 1 million women worldwide and equipping them with the necessary ICT skills, along with the many inspiring stories of women who have been trained and whose lives were changed through ICT – all these contributed to TCW’s win at the GEM-Tech Awards.
 
 <a href="http://bit.ly/1syfm9q">http://bit.ly/1syfm9q</a>`,
 	},
@@ -309,10 +303,6 @@ Within a specific project, such as the DIPECHO Regional one, each partner may be
 <strong><em>WHERE: Where is the activity taking place?</em></strong>
 
 Project activities are implemented in several locations. If geographical coordinates of villages or towns where activities are implemented are known, it is possible to add them to basemaps such as GoogleMap or OpenstreetMap and integrating them on a web application using basic GIS or webGIS tools. Answering to the question ‘Where are activities taking place?’ helps to have a clear picture of where partners are working and if other organisations are carrying out activities in the same area or, on the contrary, if some areas are uncovered and need to be assisted.
-
-<a href="https://www.gnucoop.com/wp-content/uploads/2014/10/screenshot1bis.jpg"><img class="wp-image-1305 size-medium" src="https://www.gnucoop.com/wp-content/uploads/2014/10/screenshot1bis-300x138.jpg" alt="" width="300" height="138" /></a> Who and Where in the DIPECHO Regional platform
-
-<a href="https://www.gnucoop.com/wp-content/uploads/2014/10/screenshot2bis.jpg"><img class="wp-image-1306 size-medium" src="https://www.gnucoop.com/wp-content/uploads/2014/10/screenshot2bis-300x155.jpg" alt="" width="300" height="155" /></a> What and Where in the DIPECHO Regional platform
 
 <strong><em>FROM 3W  TO 4W AND 5W PLATFORMS</em></strong>
 
@@ -358,8 +348,6 @@ Typical production-related uses of ICTs touch 5% of people but make a 95% differ
 
 Some countries are already recognizing the opportunity presented by these technologies, and have put in place subsidies to make them more widely available to underserved rural residents. Their goal has not only been to improve access but also to make sure that rural populations do not pay more for them than their urban counterparts.
 
-<img class="alignnone" src="http://forumblog.org/wp-content/uploads/RTR2CAP2-628x330.jpg" alt="" width="472" height="248" />
-
 <a href="http://bit.ly/1zrQBEO">http://bit.ly/1zrQBEO</a>`,
 	},
 	{
@@ -386,8 +374,6 @@ Electricity supply in Kenya is unreliable and regular electricity is mostly avai
 
 The MAMMA app allows CHWs to quickly collect, register and instantaneously transmit data on malaria indicators to a web-enabled database.
 
-<img class="alignnone" src="http://www.iicd.org/articles/world-bank-recognise-muso-ladamunen-for-their-innovation-in-reducing-child-deaths-from-malaria/image_large" alt="" width="443" height="295" />
-
 <a href="http://bit.ly/1ztTh4K">http://bit.ly/1ztTh4K</a>`,
 	},
 	{
@@ -396,7 +382,6 @@ The MAMMA app allows CHWs to quickly collect, register and instantaneously trans
 		Excerpt: "",
 		Content: `CSI realises the urgency of mainstreaming climate smart information in Ethiopia to cultivate resilience to climatic shocks and to strengthen and diversify livelihoods.
 <p class="p1">It aims to improve the flow of information, availability and access, and local decision-making. The initiative will use innovative and cost-effective approaches for sharing weather warnings and market information to enhance food programme decision-making process.</p>
-<p class="p1"><img class="alignnone" src="http://www.iicd.org/articles/climate-smart-initiative-mainstreams-climate-change-issues-and-ict-solutions-into-ethiopian-food-security-programmes/image_large" alt="" width="479" height="319" /></p>
 <a href="http://bit.ly/1tghl2D">http://bit.ly/1tghl2D</a>`,
 	},
 	{
@@ -451,8 +436,6 @@ To quote the World Bank: "Mobile applications not only empower individual users,
 		Excerpt: "",
 		Content: `PeaceGeeks - in partnership with Affinity Bridge and GNU Co-op - has developed an app to support the 620,000+ Syrian refugees living in Jordan so they can get better access to information on critical services provided by over 60 humanitarian organizations who collectively have locations (both fixed and mobile) in over 420 areas across Jordan.
 
-<img class="alignnone" src="http://digitalhumanitarians.com/sites/default/files/styles/medium/public/Screen%20Shot%202014-11-08%20at%2010.47.42%20PM.png?itok=YV4zMstB" alt="" width="220" height="165" />
-
 <a href="https://www.gnucoop.com/portfolio-item/unhcr-jordan-service-advisor/">Go to our portfolio</a>
 
 <a href="http://digitalhumanitarians.com/content/unhcr-app-syrian-refugees">DHN post</a>`,
@@ -504,8 +487,6 @@ This report capitalizes on a DIPECHO programme led by Médecins du Monde in Mada
 		Excerpt: "",
 		Content: `The GEM-TECH Awards recognize the outstanding achievements of organizations and individuals in the area of women’s empowerment, through ICT
 
-<img class="alignnone" src="http://www.htxt.co.za/wp-content/uploads/2014/10/15624871016_4527a97352_k-658x372.jpg" alt="" width="432" height="244" />
-
 <a href="http://bit.ly/1A7puiB">http://bit.ly/1A7puiB</a>`,
 	},
 	{
@@ -526,8 +507,6 @@ This new open platform tool could allow malaria control programs to map the loca
 		Excerpt: "",
 		Content: `The Moabi Project is a powerful online tool for tracking information spatially and a collaborative mapping system that builds a community of users to share, edit, and discuss issues affecting the environment.
 
-<img class="alignnone" src="http://d2qce1f1y0zwhh.cloudfront.net/media/images/stories/_thumbs/moabi_jpg_410x270_upscale_q85.jpg" alt="" width="371" height="270" />
-
 <a href="http://bit.ly/1BMxqrl">http://bit.ly/1BMxqrl</a>`,
 	},
 	{
@@ -542,8 +521,6 @@ Key issues charities face when developing digital technology include: staying fo
 
 To help overcome these issues, we need to share more examples of best-practice and create guidance to demystify digital; as well as creating new and complementary funding sources dedicated to charities developing such technology.
 
-<img class="alignnone" src="http://www.nesta.org.uk/sites/default/files/styles/publication_large/public/going-digital-report-cover.jpg?itok=XZ2fz8xM" alt="" width="160" height="220" />
-
 <a href="http://bit.ly/1xFXCkI">http://bit.ly/1xFXCkI</a>`,
 	},
 	{
@@ -556,9 +533,7 @@ To help overcome these issues, we need to share more examples of best-practice a
 2. How do I build ICT4D capacity within my organization?
 3. What are the practical approaches and best practices I can implement to improve success?
 
-<a href="http://bit.ly/1z2lxb5">http://bit.ly/1z2lxb5</a>
-
-<img class="alignnone" src="http://solutionscenter.nethope.org/assets/i.php?src=/images/site_images/ict4d-toolkit.jpg&amp;w=300" alt="" width="300" height="98" />`,
+<a href="http://bit.ly/1z2lxb5">http://bit.ly/1z2lxb5</a>`,
 	},
 	{
 		Title:   "Is There a Role for Mobiles to Support Sustainable Agriculture in Africa?",
@@ -566,9 +541,7 @@ To help overcome these issues, we need to share more examples of best-practice a
 		Excerpt: "",
 		Content: `The rapid growth in mobile phone penetration in developing countries offers a significant opportunity to support a transformation in agricultural development and food systems, but without a co-operative and focused effort across different stakeholder groups - local practitioners, private sector partners, donors, expert institutions, and national governments - the potential for mobiles to empower sustainable agricultural development is unlikely to be maximized.
 
-<a href="http://bit.ly/1HEbezT">http://bit.ly/1HEbezT</a>
-
-<img class="alignnone" src="http://policy-practice.oxfam.org.uk/~/media/Images/Policy%20and%20Practice/Our%20Work/Food%20and%20Livelihoods/DRC-farmer.ashx?mw=420" alt="" width="420" height="161" />`,
+<a href="http://bit.ly/1HEbezT">http://bit.ly/1HEbezT</a>`,
 	},
 	{
 		Title:   "AID WORKER DESCRIBES LIFE OFF THE MAP",
@@ -576,9 +549,7 @@ To help overcome these issues, we need to share more examples of best-practice a
 		Excerpt: "",
 		Content: `The Missing Maps project is urging volunteers to go online and help map some of the world’s most vulnerable countries. This work will make sure communities are better placed to withstand and recover from disaster.
 
-<a href="http://bit.ly/121SVop">http://bit.ly/121SVop</a>
-
-<img class="alignnone" src="http://www.missingmaps.org/img/map.jpg" alt="" width="244" height="244" />`,
+<a href="http://bit.ly/121SVop">http://bit.ly/121SVop</a>`,
 	},
 	{
 		Title:   "GIS support for the MSF Ebola response in Guinea in 2014",
@@ -590,7 +561,7 @@ furthering the strategic goals defined in the GIS Strategy.
 
 <a href="http://bit.ly/1z1RPmP">http://bit.ly/1z1RPmP</a>
 
-<img class="alignnone" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXYIon7QoITTBEUVfVIoZiB5pSK8czK0b9CsuSln5xtlUtE_mkmg" alt="" width="283" height="178" />
+<img class="alignnone" src="ANd9GcQXYIon7QoITTBEUVfVIoZiB5pSK8czK0b9CsuSln5xtlUtE_mkmg.jpg" alt="" width="283" height="178" />
 
 &nbsp;`,
 	},
@@ -713,7 +684,7 @@ For more tips on mhealth projects, read the toolkit:
 Much of this adaptation will occur outside traditional humanitarian assistance forums.
 The most efficient ways to use technology to support communities will be found in their use of technology. If aid organizations are willing to listen, learn and encourage innovation on the front lines, they can play a critical role in building a more inclusive and more effective humanitarian system.
 <a href="http://bit.ly/1wZyNLV">OCHA study full text available in pdf</a>
-<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8Vq6iDVDpgXbNh9407yGNrnykb75X6eBQyS0A7_bdclNTieiGpw" width="240" height="160" class="alignnone" />
+<img src="ANd9GcQ8Vq6iDVDpgXbNh9407yGNrnykb75X6eBQyS0A7_bdclNTieiGpw.jpg" width="240" height="160" class="alignnone" />
 The document is well summarized by Patrick Meier <a href="http://bit.ly/1zbAbRl">on this blog post</a>`,
 	},
 	{
@@ -724,7 +695,7 @@ The document is well summarized by Patrick Meier <a href="http://bit.ly/1zbAbRl"
 
 <strong>Crowdfunding</strong> is a collective effort of a group of individuals networking and pooling their resources for a specific project initiated by other people. This is usually done via or with the help of the Internet. Single projects are usually financed through small contributions from a large number of individuals. This is a more casual, yet powerful, approach based on crowd participation as well as an alternative method to specialised grant applications or more formal and traditional fundraising techniques.
 
-<img class="alignnone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnu1R9o1JD-nwcqHv4GD0xlyDdRGxegJvYKKe2UYGNYyEOeq49" width="259" height="194" />
+<img class="alignnone" src="ANd9GcSnu1R9o1JD-nwcqHv4GD0xlyDdRGxegJvYKKe2UYGNYyEOeq49.jpg" width="259" height="194" />
 
 <strong>Do NGOs use crowdfunding to fund their developing projects?</strong>
 
@@ -750,8 +721,6 @@ DISCOVER works in the most vulnerable GVHs in 5 Districts: Karonga, Salima, Dedz
 This website aims at providing information about project activities. Data is collected by android smartphone,transmitted and visualized on the activity tab of this platform.
 This platform is a tool that helps to share data between partners of the project and provides information about the progress of the activities.
 
-<img src="https://www.evernote.com/shard/s368/res/51c5364e-0b39-43b1-b6d3-285f98aef72a/activities.jpg?resizeSmall&width=786" width="600" height="300" class="alignnone" />
-
 
 
 
@@ -766,7 +735,6 @@ This platform is a tool that helps to share data between partners of the project
 The ubiquity of technology in general and phones in particular creates a fantastic opportunity for improvements in data collection.
 Field assessments can be conducted via mobile phone and the data relayed to servers for quicker analysis and faster response. Data becomes much more easily retrievable, and not dependent on manual labor. This ensures the data is as current as possible but also less prone to errors from human intervention.
 
-<img src="https://www.gnucoop.com/splash/ACF.jpg" width="539" height="287" class="alignnone" />
 <a href="http://bit.ly/1IQWiAK">Here some examples of Gnucoop mobile-web applications</a>
 
 It is, after all, not about having and storing information but about <strong>using it to better deliver much needed support and assistance</strong> to communities in crisis. 
@@ -783,7 +751,7 @@ The rapid expansion of mobile phones and internet access in poor countries offer
 “The digital agenda is becoming a ‘must do’, rather than a ‘nice to do’. We’re being asked to do more with less or the same and the only way to do this is to do things differently – including through digital” 
 Tim Robinson, DFID NED
 
-<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ6JcP9NqCY4vZHU5xf8U8cnZCEI-GcUjNjXjAgw9EghgDu9EtdQ" width="266" height="190" class="alignnone" />
+<img src="ANd9GcRQ6JcP9NqCY4vZHU5xf8U8cnZCEI-GcUjNjXjAgw9EghgDu9EtdQ.jpg" width="266" height="190" class="alignnone" />
 
 The basic attributes of <strong>digital technologies</strong> (also refered to in international development
 circles as Information and Communication Technologies for Development (<strong>ICT4D</strong>)) are:
@@ -803,8 +771,6 @@ Our emphasis is on how we use the more recent, and fast-growing digital communic
 		Slug:    "connected-agriculture",
 		Excerpt: "",
 		Content: `India is one of the world’s largest food producers with more than 200 million people currently estimated to work in agriculture, around 100 million of them farmers and the remainder working as agricultural labourers. In India, around 62% of farmers own less than one hectare of land, significantly increasing their exposure to the effects of crop failure, pests, disease and volatile market pricing.
-
-<img src="http://cdn2.yourstory.com/wp-content/uploads/2015/05/yourstory_kisan_mitra.jpg" width="500" height="260" class="alignleft" />
 
 Vodafone and Accenture Strategy have identified six mobile services with the potential to transform Indian farmers’ lives and livelihoods.
 <strong>Agricultural information services</strong> providing early warning of weather events, information on the best times to harvest and advice on crop techniques to enhance yields. These services could increase an estimated 60 million Indian farmers’ annual incomes by an average of US$89 a year in 2020.
