@@ -41,6 +41,8 @@ func main() {
 	flag.StringVar(&token, "token", "", "auth token")
 	flag.Parse()
 	log.SetFlags(0)
+
+	postImages()
 }
 
 func downloadImages() {
@@ -147,4 +149,8 @@ func postArticle(article *Article) {
 	if resp.StatusCode != http.StatusOK && resp.StatusCode != http.StatusCreated {
 		log.Fatalf("Unexpected response with code %d:\n%s", resp.StatusCode, body)
 	}
+}
+
+func postImages() {
+
 }

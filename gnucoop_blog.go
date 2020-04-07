@@ -103,7 +103,7 @@ Each chapter includes texts differentiated by <a href="http://www.hsk-english.ch
 <h6><strong>3</strong> The system provides pre-set analysis and flexibility for the user to define what to visualize. The visualized data are downloadable and usable in office;</h6>
 <h6><strong>4</strong> The application is highly user-friendly, without specific skills required by users;</h6>
 <h6><strong>5</strong> The system provides tools for exporting data in CSV files and download PDF files uploaded in the repository section of the platform.</h6>
-<h6><!--more--></h6>
+<h6></h6>
 <h6>The Livelihood platform is available here <a style="color: #0000ff;" href="https://lis.unhcr.org/home">https://lis.unhcr.org/home</a>. </h6>
 <h6>The Energy platform is available here <a style="color: #0000ff;" href="https://eis.unhcr.org/data">https://eis.unhcr.org/data</a>. </h6>
 `,
@@ -127,57 +127,33 @@ During the three days, after a plenary session, Gnuoop took part to different wo
 		Title:   "30 anni di convenzione sui diritti dell’infanzia - anche la tecnologia può aiutare",
 		Slug:    "30-anni-di-convenzione-sui-diritti-dellinfanzia-anche-la-tecnologia-pu-aiutare",
 		Excerpt: "",
-		Content: `<!-- wp:heading -->
+		Content: `
 <h2>Anche a Gnucoop festeggiamo l’anniversario della convenzione sui diritti dell’infanzia, raccontando la nostra piccola esperienza in ambito educativo. Nell’ultimo anno abbiamo avuto il piacere di collaborare con <a href="http://www.ciai.it/">CIAI (Centro Italiano Aiuti all’Infanzia)</a> su due importanti progetti finalizzati a sostenere l’inserimento scolastico di bambini particolarmente vulnerabili in Africa, in particolare in Burkina Faso e in Etiopia. </h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading -->
 <h2>In entrambi i casi, il problema che CIAI vuole risolvere - i progetti sono ancora in corso - è quello di trovare un modo accurato, sostenibile e relativamente facile, per monitorare la frequenza scolastica. Stiamo parlando di contesti particolarmente fragili, dove per i bambini il rischio di lasciare la scuola è molto alto e le istituzioni scolastiche non sempre hanno la possibilità di intervenire tempestivamente ed efficacemente nei confronti di chi, spesso in silenzio, si allontana dalla scuola. Classi sovraffollate, impegno dei bambini in lavori stagionali, dati approssimativi e difficilmente disponibili a chi prende decisioni, questi sono solo alcune delle cause principali della mancanza di interventi. </h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading -->
 <h2>Per cercare di rispondere a questi problemi, Gnucoop ha sviluppato due strumenti con caratteristiche molto diverse che però puntano allo stesso obiettivo: monitorare la frequenza scolastica.  </h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading -->
 <h2>In Burkina Faso abbiamo realizzato un’app per smartphone che permette, scattando una semplice foto alla classe, di effettuare l’appello, contando quanti bambini sono presenti. Tramite un algoritmo di face recognition, l’app è in grado di contare quanti bambini sono presenti nell’immagine dividendoli in maschi e femmine. L’algoritmo è basato su una rete neurale che è stata allenata a riconoscere bambini burkinabé tramite un <em>training set</em> di 2500 immagini, costruito ad-hoc dai nostri tecnici. I dati sulle presenze scolastiche vengono raccolti e, in tempo reale, trasmessi al dipartimento del ministero dell’educazione che in questo modo può avere informazioni tempestive ed affidabili sulla frequenza nelle proprie scuole, e orientare interventi specifici in modo puntuale e capillare.</h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph -->
 
 <!-- wp:file {"id":4130,"href":"https://www.gnucoop.com/wp-content/uploads/2019/11/Facial-Recognition.mp4"} -->
 <a href="https://www.gnucoop.com/wp-content/uploads/2019/11/Facial-Recognition.mp4">Facial-Recognition</a><a href="https://www.gnucoop.com/wp-content/uploads/2019/11/Facial-Recognition.mp4" class="wp-block-file__button" download>Download</a>
-<!-- /wp:file -->
 
-<!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading -->
 <h2> In Etiopia invece, dove il progetto realizzato da CIAI punta a reinserire nel percorso formativo ragazze che hanno abbandonato la scuola, abbiamo creato una piattaforma di raccolta dati che, tramite il lavoro di 40 operatori di terreno, viene alimentata con i dati sulla frequenza di ciascuna ragazza. I dati vengono raccolti tramite dispositivi mobili - telefoni o tablet - anche in assenza di connessione ad internet. Una volta che i device mobili sono stati sincronizzati, è possibile avere in tempo reale una rappresentazione precisa dell’andamento della frequenza scolastica delle 10.000 ragazze assistite in 4 regioni diverse del paese. La piattaforma si basa su DEWCO, uno strumento di raccolta dati realizzato da noi di Gnucoop che permette di progettare e realizzare una qualunque attività di raccolta dati in modo flessibile e molto personalizzabile.  </h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2> Un’app per le scuole del Burkina Faso e una piattaforma per il recupero delle ragazze in Etiopia. Questo è l’impegno che Gnucoop ha potuto mettere in atto, grazie alla collaborazione con CIAI, perché tutti bambini del mondo possano godere del diritto ad andare a scuola. </h2>
-<!-- /wp:heading -->`,
+<h2> Un’app per le scuole del Burkina Faso e una piattaforma per il recupero delle ragazze in Etiopia. Questo è l’impegno che Gnucoop ha potuto mettere in atto, grazie alla collaborazione con CIAI, perché tutti bambini del mondo possano godere del diritto ad andare a scuola. </h2>`,
 	},
 	{
 		Title:   "When Innovation Leads to a Low-Tech Solution",
@@ -2058,23 +2034,18 @@ A characteristic of this company that cannot be left unsaid is its welcoming nat
 <h2>La legge 125/14, coerentemente con l’Agenda 2030 delle Nazioni Unite per lo sviluppo sostenibile e i suoi 17 Obiettivi (SDGs2), recepisce una novità chiave rispetto alla legge precedente: la partecipazione, al fianco dei Governi, di diversi gruppi di stakeholder, tra cui Imprese e investitori.
 Alla collaborazione tra più soggetti è in particolare dedicato l’Obiettivo 17 degli SDGs <strong>“Partnership for the Goals”</strong>, anche prevista dall’articolo 208 del Trattato di Lisbona3.
 Le Imprese possono contribuire allo sviluppo di progetti di cooperazione internazionale, soprattutto attraverso forme di partenariato con soggetti terzi, tra cui ONG e partner locali, nel pieno rispetto dei principi di CSR e delle linee guida OCSE4.</h2>
-<!--more-->
 <h2>Nel 2017 abbiamo avuto quindi l'opportunità di partecipare al Bando OSC Paesi partner dell'Agenzia Italiana per la Cooperazione allo Sviluppo in partnership con <a href="http://www.manitese.org">Mani Tese</a> per la presentazione di un progetto Agricolo in Mozambico, nella Provincia della Zambezia.</h2>
-<!--more-->
 <h2>La Provincia della Zambezia, area d’intervento del progetto <em>Quelimane agricola</em>, è una delle più povere del Paese: dati della World Bank del 2016 stimano che <strong>il 70% della popolazione zambeziana si trovi sotto la soglia di povertà</strong> e che in tale provincia e in quella di Nampula siano residenti la metà (48%) dei poveri del Paese.
 Il <strong>settore agricolo</strong> è la <strong>base dell’economia del Nord del Mozambico</strong> e dà lavoro all’80% della popolazione attiva. Per questo motivo, la promozione dello sviluppo di un sistema di mercato agricolo rappresenterebbe il principale strumento per ridurre la povertà generando sviluppo sostenibile.
 Il progetto, cofinanziato da <a href="https://www.aics.gov.it/" target="_blank" rel="noopener noreferrer">AICS</a>, si propone di contribuire allo sviluppo rurale sostenibile della provincia della Zambezia attraverso il rafforzamento del sistema agroalimentare locale e dei suoi principali attori: produttori, settore privato e autorità locali.
 Sarà promossa, in particolare, l’adozione di pratiche innovative e sostenibili in materia di produzione, marketing e consumo dei prodotti agricoli.</h2>
-<!--more-->
 <h2>Le attività da noi implementate saranno le seguenti:</h2>
 <h2 id="ember1803" class="dh-page-object text ember-view"><strong>Identificazione e sviluppo di una piattaforma tecnologica opensource che faciliti l’informazione e la comunicazione tra i produttori agricoli su meteo, dinamiche di prezzi, alert system per fiere, eventi e mercati.</strong></h2>
 <h2>I produttori, pur possedendo – nella maggior parte dei casi – un cellulare (anche se spesso non smartphone e quindi senza connessione ad internet) non riescono ad essere al corrente, in tempo reale, di informazioni per loro fondamentali come le condizioni meteo, l’andamento dei prezzi dei prodotti che coltivano e la presenza di eventi/fiere nei mercati di prossimità e/o nei loro distretti.
 Per far fronte a questo limite, l’iniziativa adotta un approccio ad hoc di innovazione sociale digitale che prevede l’uso della tecnologia per risolvere problemi ambientali e sociali promuovendo, allo stesso tempo, nuove collaborazioni tra settore pubblico, settore privato e terzo settore.
 Il servizio SMS sarà presentato alle istituzioni locali e proposto alle compagnie telefoniche funzionanti in loco per l’attivazione di un possibile accordo di  partenariato che ne possa ulteriormente ridurre i costi - in un’ottica di partnership win-win di responsabilità sociale d’impresa.</h2>
-<!--more-->
 <h2><strong>Sviluppo di una piattaforma di raccolta e analisi dei dati relativi al progetto e per monitoraggio delle attività.</strong></h2>
 <h2>Gli aspetti presi in considerazione saranno di carattere quantitativo e qualitativo. La raccolta dei dati sarà garantita da una risorsa dedicata all’interno dello staff locale (M&amp;E Officer) che si occuperà, col coordinatore del progetto e il consulente incaricato della valutazione, della baseline survey per poi proseguire alla verifica dell’andamento delle attività attraverso la raccolta trimestrale dei dati.</h2>
-<!--more-->
 <h2>Nella <strong><a style="color: #008000;" href="https://www.manitese.it/progetto/quelimane-agricola-produce-cresce-consuma-sostenibile/">pagina dedicata al progetto</a> </strong>potete trovare maggiori dettagli e la possibilità di supportarlo!</h2>
 <img class="size-full wp-image-3781 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/08/QUELIMANE_FOOTER_ita.jpg" alt="" width="794" height="284" />
 
@@ -2098,7 +2069,6 @@ COMUNE DI QUELIMANE
 <h2>Merkur.io is a secure digital payment platform capable of turning humanitarian voucher fairs into a fraud free, rapid and effective experience to NGOs, merchants and humanitarian assistance right holders (beneficiaries).</h2>
 <h2>Merkur.io handles Humanitarian Voucher Fairs through crypto-currencies, using  safe and efficient payment methods. Our network extends to remote and offline areas to deploy the system with solar power and paper QR codes, allowing for  reinforced security measures.</h2>
 <h2>Cash based assistance in particular humanitarian voucher fairs have made humanitarian assistance faster and more efficient.</h2>
-<!--more-->
 <h1><b>Case Study: Cash Distribution in Libya </b></h1>
 <h2>In certain remote and marginalized areas in countries, such as Libya, international staff are prohibited entry.</h2>
 <h2>E-vouchers are the only possible method to provide salaries and reimbursements to the local staff, who are responsible for both implementing the activities and monitoring the cash distribution in these areas.</h2>
@@ -2142,11 +2112,10 @@ Picture: Food distribution South Sudan - Maban County`,
 <h6>It was September 2015, few days before Europe has met the young <b>Alan Kurdi</b> (Kurdish: Alan Kurdî‎), initially reported as <b>Aylan Kurdi</b>, a three-year-old Syrian boy of Kurdish ethnic background, whose image made global headlines after he drowned on 2 September 2015 in the Mediterranean Sea. He and his family were <a href="https://en.wikipedia.org/wiki/Refugees_of_the_Syrian_Civil_War">Syrian refugees</a> trying to reach Europe amid the <a href="https://en.wikipedia.org/wiki/European_refugee_crisis">European refugee crisis</a>. Photographs of his body were taken by <a href="https://en.wikipedia.org/wiki/Turkish_people">Turkish</a> <a href="https://en.wikipedia.org/wiki/Journalist">journalist</a> <a href="https://en.wikipedia.org/wiki/Nil%C3%BCfer_Demir">Nilüfer Demir</a> and quickly spread around the world, prompting international responses.</h6>
 <h6>Thanks to <a href="http://techfugees.com">Techfugees</a> everybody discovered how big was the tech community who was doing something to face the Refugee “crisis” but, first of all, was trying to support the Refugees who are arriving in Europe.</h6>
 <h6><img class="size-large wp-image-3846 aligncenter" src="https://www.gnucoop.com/wp-content/uploads/2018/11/IMG_20181025_134811-1024x768.jpg" alt="" width="1024" height="768" /></h6>
-<!--more-->
 <h6>After three years now the Community is very active, composed by a very big variety of actors, from volunteers working in small projects in support of groups of Refugees, like <a href="https://www.kabubu.fr">Kabubu</a> to <a href="https://startup.google.com/">Google for Startups </a>, who funded the 2018 Techfugees Summit.</h6>
 <h6>This second edition of Global Summit focused on the challenges newcomers face as they settle into their new host societies, and what role technology can take in breaking down barriers and building bridges to enable inclusion. </h6>
 <h6>Many have been the panels in program, from Access to Rights and Information to Data Ethics and Social Inclusion.</h6>
-<img class="alignleft size-large wp-image-3853" src="https://www.gnucoop.com/wp-content/uploads/2018/11/IMG_20181025_170142-2-1024x511.jpg" alt="" width="1024" height="511" /><!--more-->
+<img class="alignleft size-large wp-image-3853" src="https://www.gnucoop.com/wp-content/uploads/2018/11/IMG_20181025_170142-2-1024x511.jpg" alt="" width="1024" height="511" />
 <h6>It was so interesting to listen to the witnesses of Refugees who came in Europe and founded a company and now they are funding new ideas on the newcomers.</h6>
 <h6>Many projects, many people, and few words in common: <b>inclusion, data, identity….and blockchain</b>.</h6>
 <h6>Someone said Refugees are people who want to re-born, to start a new life and they can highlight the efficiency of our society and should be considered an opportunity.</h6>
