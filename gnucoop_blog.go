@@ -59,7 +59,7 @@ https://www.gnucoop.com/mobile-health-technology-key-practices-for-drr-implement
 		Excerpt: "",
 		Content: `Teaching culture is essential to language teaching and learning. Teacher's should have been taught culture as well when they were learning the language themselves. Therefore it should not be a problem to them. And what if his formation was not ideal? This teacher has many resources today to acquire more knowledge about that culture or of some culture of countries that uses that language he is teaching. When teaching international students Mandarin, teachers should not just teach the language, grammar, but the Chinese cultural dissemination needs to be included as well, which is extremely important because the language reflects the cultural exchange. Culture is a necessary condition for language learning, which can help students better understand Chinese.
 
-<i>Tratti di China</i> is the answer to this necessity. It’s an audio Chinese lessons course, it focuses on listening and reading skill, but it also includes many activities that help learners prepare for speaking and writing. Registering on <a href="http://www.trattidichina.it/chi-siamo/">our website</a>, users can obtain free access to news, audio course and grammar lessons and a book with the whole content of the audio course will be delivered  immediately for free. 
+*Tratti di China* is the answer to this necessity. It’s an audio Chinese lessons course, it focuses on listening and reading skill, but it also includes many activities that help learners prepare for speaking and writing. Registering on <a href="http://www.trattidichina.it/chi-siamo/">our website</a>, users can obtain free access to news, audio course and grammar lessons and a book with the whole content of the audio course will be delivered  immediately for free. 
 Chapter 1: The Chinese language
 Chapter 2: Everyday life and social behaviour
 Chapter 3: Cultural table manners
@@ -71,9 +71,9 @@ Each chapter includes texts differentiated by <a href="http://www.hsk-english.ch
 Confucio_Huang Shen_din Qing_Shanghai Museum<img src="https://www.gnucoop.com/wp-content/uploads/2017/07/tipico-simbolo-di-fortuna-su-una-porta-cinese-548x1024.jpg" alt="" width="481" height="900" />
 Symbol of good luck on a Chinese doorAuthors.
 
-<i>Zu Xujun</i> graduated in Chinese Language and Literature in China, she has been in Italy since 1997. She has been a cultural mediator since 2002 and a Chinese teacher since 2006. She has always been a translator for companies, associations, institutions and private individuals. She collaborates with: hospitals, public and private institutions, universities, schools, cooperatives and associations, with publishers for the publication of Chinese works in translation and schoolbooks. He attended Chinese language and culture teacher training courses held by the Confucio Institute (Hanban) in Italy and China. 
+*Zu Xujun* graduated in Chinese Language and Literature in China, she has been in Italy since 1997. She has been a cultural mediator since 2002 and a Chinese teacher since 2006. She has always been a translator for companies, associations, institutions and private individuals. She collaborates with: hospitals, public and private institutions, universities, schools, cooperatives and associations, with publishers for the publication of Chinese works in translation and schoolbooks. He attended Chinese language and culture teacher training courses held by the Confucio Institute (Hanban) in Italy and China. 
 
-<i>Claudia Ambrosini</i> graduated in Oriental Languages in 2000 at Cà Foscari (Venice), attended Chinese language courses in China (Kunming and Hangzhou). She obtained in Milan a Master’s degree of <i>Language and Communication For Companies Working With China</i>. She has always taught Chinese language and culture to private people, entrepreneurs and schools. She worked at the Italian Chamber of Commerce of Italy as Project Manager of Chinese language courses and other training activities, and has coordinated <i>Italo Cinese News</i> (news and economy about China). She currently teaches full-time, collaborates with Italian publishing houses for the publication of Chinese literary works in translation and school and textbooks.`,
+*Claudia Ambrosini* graduated in Oriental Languages in 2000 at Cà Foscari (Venice), attended Chinese language courses in China (Kunming and Hangzhou). She obtained in Milan a Master’s degree of *Language and Communication For Companies Working With China*. She has always taught Chinese language and culture to private people, entrepreneurs and schools. She worked at the Italian Chamber of Commerce of Italy as Project Manager of Chinese language courses and other training activities, and has coordinated *Italo Cinese News* (news and economy about China). She currently teaches full-time, collaborates with Italian publishing houses for the publication of Chinese literary works in translation and school and textbooks.`,
 	},
 	{
 		Title:   "UNHCR Livelihoods-Energy Information System",
@@ -1153,7 +1153,7 @@ https://www.youtube.com/embed/62UqW8CW__I`,
 		Slug:    "education-has-the-power-to-empower-and-change-a-persons-entire-life-and-future",
 		Excerpt: "",
 		Content: `
-<i>Education is not just a matter of relevance in displaced populations, but of survival. One of the refugees said “If I am not a student, I am nothing.” </i></blockquote>
+*Education is not just a matter of relevance in displaced populations, but of survival. One of the refugees said “If I am not a student, I am nothing.” *</blockquote>
 <a href="http://www.re-coded.com/">Re:Coded</a> aims to create innovative, socially minded leaders in conflict affected communities using technology and entrepreneurship as a catalyst. We aim to connect the dots between local problems and global opportunities and harness cross cutting solutions to transform local capacity with the aim of building long-term economic development, peace and geopolitical stability.
 The Fellowship is an intensive program designed to train refugees and displaced youth with no prior coding experience to become
 production-ready web developers. The program is adapted from The Flatiron School's Web Development Immersive — a course that has successfully trained students for the workforce and helped them find web development jobs.
@@ -1298,8 +1298,8 @@ We suggest to spend more time to explain better to the users how it will change 
 		Slug:    "information-management-for-emergency-response",
 		Excerpt: "",
 		Content: `
-<h4><i>Technology itself does not mean progress,</i></h4>
-<h4><i>progress is our ability to use technology to make a difference</i></h4>
+<h4>*Technology itself does not mean progress,*</h4>
+<h4>*progress is our ability to use technology to make a difference*</h4>
 <h4>(Luca De Biase)</h4>
 When:  Wednesday, 12 April 2017, 9 a.m. (CET)
 Where: Piazza della Scienza, 4, Università degli Studi di MIlano - Bicocca
@@ -1395,7 +1395,7 @@ Pictures by COOPI-Cooperazione Internazionale Thank you!`,
 		Excerpt: "",
 		Content: `From 19th to 27th of April we have been in Lima. 
 
-This mission is part of the <a href="https://www.gnucoop.com/gis-platform-for-disaster-risk-reduction/">project Yago</a>  (Yet Another GIS Online) we’re developing in support of <a href="http://www.coopi.org">COOPI </a>and its activities in the framework of the project RIMAC DRR (<i>Reinforcing Innovative Mechanisms for Arising Capacities in Disaster Risk Reduction in Rímac</i>). 
+This mission is part of the <a href="https://www.gnucoop.com/gis-platform-for-disaster-risk-reduction/">project Yago</a>  (Yet Another GIS Online) we’re developing in support of <a href="http://www.coopi.org">COOPI </a>and its activities in the framework of the project RIMAC DRR (*Reinforcing Innovative Mechanisms for Arising Capacities in Disaster Risk Reduction in Rímac*). 
 The purpose of the mission was the training on the use of Yago, our GIS platform, to the Municipality of Rímac staff (Area of Civil Defence, Recuperation of the Historic Centre, Environment, Security, among others) and to <a href="http://www.cenepred.gob.pe/web/">CENEPRED</a> staff .
 CENEPRED (Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres) is the institution responsible for the pillars of Disaster Risk evaluation, prevention and reduction. 
 The Municipality of Rímac is one district of Lima Metropolitana and it is an ally of the RIMAC DRR project.  Yago will be an important tool for the Municipality of Rímac to include the spatial component in its decision making process. 
@@ -1423,10 +1423,10 @@ We spent the first 3 days working side by side with COOPI staff.
 From our point of view, getting the chance to be on the field was of great utility. Working directly with end users was key to develop some new features.
 The local staff contributions were very important mainly because this project is part of a framework agreement signed by Gnucoop and COOPI, for the use of YAGO platform in four different projects:
 
-<i>Renforcement des capacités de préparation, mitigation et réponse aux catastrophes de communautés urbaines les plus vulnérables en Haïti;</i>
-<i>RIMAC DRR – Reinforcing Innovative Mechanisms for Arising Capacities in Disaster Risk Reduction in Rímac, Perú;</i>
-<i>Améliorer la résilience face à la sécheresse des acteurs locaux et des familles rurales les plus vulnérables dans la partie orientale du Département du Sud-Est, Haïti;</i>
-<i>Fortalecimiento de las capacidades del sistema CONRED y de la sociedad civil en comunidades de la Mancomunidad del Sur en el Departamento de Guatemala.</i>
+*Renforcement des capacités de préparation, mitigation et réponse aux catastrophes de communautés urbaines les plus vulnérables en Haïti;*
+*RIMAC DRR – Reinforcing Innovative Mechanisms for Arising Capacities in Disaster Risk Reduction in Rímac, Perú;*
+*Améliorer la résilience face à la sécheresse des acteurs locaux et des familles rurales les plus vulnérables dans la partie orientale du Département du Sud-Est, Haïti;*
+*Fortalecimiento de las capacidades del sistema CONRED y de la sociedad civil en comunidades de la Mancomunidad del Sur en el Departamento de Guatemala.*
 
 In the next months different Training sessions will be held in Haiti and Guatemala.
 
@@ -1515,8 +1515,8 @@ Furthermore, there are two voucher distribution models:
 Paper voucher – The beneficiary receives paper coupons and/or a scratch card that has a commodity or monetary value and that can be exchanged at contracted retailers or at specifically organized fairs. Both cash and commodity vouchers can be exchanged for items or services, but not for cash. Paper vouchers are distributed on a monthly basis and have a predefined validity period. 
 Electronic voucher – Electronic vouchers (e-vouchers) carry information on the monetary value of assistance or items and quantities they can be exchanged for on a barcode, a magnetic band or microchip on the card, or by short message service (SMS). Electronic voucher instruments (bank card, cell phone, SCOPECARD, etc.) are issued to beneficiaries only once, whereas their redemption value or quantity is credited remotely at predefined temporal intervals.
 <img src="https://www.gnucoop.com/wp-content/uploads/2017/07/gnucoopcash02-100-1024x858.jpg" alt="" width="1024" height="858" />
-<i>Infographic 2:</i><i> Paper and electronic voucher</i>
-<img src="https://www.gnucoop.com/wp-content/uploads/2017/07/Cash-and-Voucher-3.png" alt="" width="675" height="604" /><i>Infographic 3</i><i>: Summary features of e-transfer mechanisms</i>
+*Infographic 2:** Paper and electronic voucher*
+<img src="https://www.gnucoop.com/wp-content/uploads/2017/07/Cash-and-Voucher-3.png" alt="" width="675" height="604" />*Infographic 3**: Summary features of e-transfer mechanisms*
 `,
 	},
 	{
@@ -1545,8 +1545,8 @@ Find out more on <a href="http://www.odk.missions-acf.org/rca/">ODK website</a>
 		Title:   "Twine platform is growing: from HIS (Health Information System) to Livelihood & Energy sector",
 		Slug:    "twine-platform-is-growing-from-his-health-information-system-to-livelihood-energy-sector",
 		Excerpt: "",
-		Content: `According to UNHCR<i> “</i>After fleeing war or persecution, the opportunity to work and earn a living is one of the most effective ways people can rebuild their lives in dignity and peace<i>”.
-</i><a href="http://www.unhcr.org/">UNHCR</a> helps the displaced to achieve self-reliance by building their skills and knowledge, as well as providing access to the resources, training, assets, inputs, services and markets they need.
+		Content: `According to UNHCR* “*After fleeing war or persecution, the opportunity to work and earn a living is one of the most effective ways people can rebuild their lives in dignity and peace*”.
+*<a href="http://www.unhcr.org/">UNHCR</a> helps the displaced to achieve self-reliance by building their skills and knowledge, as well as providing access to the resources, training, assets, inputs, services and markets they need.
 
 “Access to safe and sustainable energy is a basic human need. Without it, the forcibly displaced – particularly women and children – may be at increased risk and have less time to rebuild their lives”.
 In 2014, UNHCR launched a global strategy for <a href="http://www.unhcr.org/530f11ee6">Safe Access to Fuels and Energy (SAFE)</a>. The SAFE strategy offers crucial guidance and details innovative approaches and technologies, including clean or fuel-efficient cookers, alternative and sustainable fuels, and solar-powered lighting.
@@ -1565,15 +1565,15 @@ As UNHCR DIST mentioned in the Concept Note: “There are several advantages to 
 
 This training is part of the <a href="https://www.gnucoop.com/gis-platform-for-disaster-risk-reduction/">project Yago</a> we’re developing in support of <a href="http://www.coopi.org/">COOPI </a>and its activities are in the framework of two different projects:
 
-<i>Renforcement des capacités de préparation, mitigation et réponse aux catastrophes de communautés urbaines les plus vulnérables en Haïti </i>(ECHO/-CM/BUD/2015/91012),
+*Renforcement des capacités de préparation, mitigation et réponse aux catastrophes de communautés urbaines les plus vulnérables en Haïti *(ECHO/-CM/BUD/2015/91012),
 
-<i>Améliorer la résilience face à la sécheresse des acteurs locaux et des familles rurales les plus vulnérables dans la partie orientale du Département du Sud-Est, Haïti</i> (ECHO/-CR/BUD/2016/91005).
+*Améliorer la résilience face à la sécheresse des acteurs locaux et des familles rurales les plus vulnérables dans la partie orientale du Département du Sud-Est, Haïti* (ECHO/-CR/BUD/2016/91005).
 
 <img src="https://www.gnucoop.com/wp-content/uploads/2017/08/yago-training-in-Haiti3-1024x768.jpg" alt="" width="1024" height="768" /> Photo Credit: COOPI Haiti
 
 The training was addressed to COOPI staff and to <a href="https://www.cnigs.ht/">CNIGS Haiti</a> (Centre National de l'Information Géo-Spatiale), for Administrators and Users.We asked COOPI coordinator in Haiti to give us some feedback about the training: 
 
-“<i>Participants raised very relevant questions, including the possibility of having a super admin who managed all the users permissions, the possibility of sharing their own work sessions with other users (or with the public) and even some criticism. </i><i>The platform was well-received and our intention as COOPI is to upload even more data from other municipalities from the south and the west. CNIGS asked to import all the data from other platforms to YAGO</i>”.
+“*Participants raised very relevant questions, including the possibility of having a super admin who managed all the users permissions, the possibility of sharing their own work sessions with other users (or with the public) and even some criticism. **The platform was well-received and our intention as COOPI is to upload even more data from other municipalities from the south and the west. CNIGS asked to import all the data from other platforms to YAGO*”.
 
 COOPI’s project “Open data and web mapping platform to reduce disaster risk in Haiti”, for which we developed the platform, was among the top ten in the <a href="http://www.risk-award.org/">2017 Risk Award</a>.
 
@@ -1702,7 +1702,7 @@ PER INFORMAZIONI
 		Slug:    "blockchains-fighting-poverty",
 		Excerpt: "",
 		Content: `
-<i>What is a blockchain?</i>
+*What is a blockchain?*
 According to the  <a href="https://opendocs.ids.ac.uk/opendocs/bitstream/handle/123456789/12945/RRB17.pdf?sequence=38">Institute of Development Studies</a>: “the blockchain is a digital ledger of transactions that is distributed, verified and monitored by multiple sources simultaneously. Traditionally, ledgers have enabled and facilitated vital functions, with the help of trusted third parties such as financial institutions and governments. These include: ensuring us of who owns what; validating transactions; or verifying that a given piece of information is true”. 
 As opposed to the ledgers of intermediaries (see Table 1), the blockchain is distributed, public, transparent, encrypted and immutable.
 <img src="https://www.gnucoop.com/wp-content/uploads/2017/11/blochchain-post-3.png" alt="" width="603" height="532" /> Table 1: Comparing traditional ledgers with the blockchain
@@ -1882,10 +1882,10 @@ In certain remote and marginalized areas in countries, such as Libya, internatio
 E-vouchers are the only possible method to provide salaries and reimbursements to the local staff, who are responsible for both implementing the activities and monitoring the cash distribution in these areas.
 Project description
 Libya is notorious for its political instability that restricts, and under some circumstances, denies the civilian population access to fundamental rights, such as healthcare and education. Thousands of people do not have access to health care and medication is scarce. The Ministry of Health recently reported that only 60% of Libyan hospitals are partially or completely in operation; the majority of the country’s medical personnel have fled the country, and the few remaining doctors lack the tools and resources to work safely. A recent analysis of the capacity of the Libyan health sector, promoted by the World Health Organization, shows that out of a total of 1656 health facilities, 17% of hospitals and 20.1% of first aid centers are not functioning.
-<a href="http://helpcode.org"><i>Helpcode</i></a> intervention promotes an emergency intervention service in the Fezzan region, in the province of Ubari, within 4 health centers. The <i>Helpcode</i> objective is to improve health services for vulnerable groups, including both residents and migrants. Since long ago, Libyan authorities have neglected the Region of Fezzan: even today, the site remains largely marginalized within the national territory.
+<a href="http://helpcode.org">*Helpcode*</a> intervention promotes an emergency intervention service in the Fezzan region, in the province of Ubari, within 4 health centers. The *Helpcode* objective is to improve health services for vulnerable groups, including both residents and migrants. Since long ago, Libyan authorities have neglected the Region of Fezzan: even today, the site remains largely marginalized within the national territory.
 In the province of Ubari alone there are about 20,000 individuals in need of humanitarian assistance. The most vulnerable groups are those comprised of internally displaced people: wherein Al-Aweinat, Ghat, Murzu, Sabah and Tuyuri 4,000 can be found. The additional 8,000 people that have returned to their homes are also identified as vulnerable.
-<i>Helpcode</i> collaborates with <i>Terre des Hommes</i> and <i>STACO</i>, one of the most important and structured Libyan NGOs, to rehabilitate health centers, distribute medicines and medical material, and train specialized health personnel.
-This intervention is part of an initiative in Libya that is led by <i>Italian Cooperation</i>. In October of 2016, <i>Italian Cooperation</i> concluded an agreement with the area representatives to allow for the sending of emergency aid to hospitals located in all five provinces of the Fezzan.
+*Helpcode* collaborates with *Terre des Hommes* and *STACO*, one of the most important and structured Libyan NGOs, to rehabilitate health centers, distribute medicines and medical material, and train specialized health personnel.
+This intervention is part of an initiative in Libya that is led by *Italian Cooperation*. In October of 2016, *Italian Cooperation* concluded an agreement with the area representatives to allow for the sending of emergency aid to hospitals located in all five provinces of the Fezzan.
 Blockchain solution
 As we have said, health facilities have been severely damaged or destroyed, and medicine and drugs are in short supply. Only 60% of hospitals are in operation and rely entirely on WHO for the procurement of essential drugs. Most of the medical personnel have fled the country, and the doctors who have remained have no diagnostic tools or resources to work safely. There are no nurses, midwives, nor technicians.
 In total, the remote areas in Al-Aweinat, Ghat, Murzu, Sabah, and Tuyuri encompass 90,000 people in need of help, of whom 40,000 are internally displaced. At least one-third of these are children.
@@ -1895,7 +1895,7 @@ The mechanism for sending funds is relatively simple. Though, the behind-the-sce
 Beneficiaries are identified (e.g. medical and nursing staff)
 An individual manages and distributes the funds to the beneficiaries (by receiving "merkur", the cryptocurrency used for this transfer, and converting the sum into dinars)
 Merchants use mobile phones for SMS data recording, and print receipts when connected to WIFI.
-<i>How does it work?</i>
+*How does it work?*
 The beneficiary (doctor, nurse, obstetrician, etc.) is entered into our system. He/she sends an SMS to request funds.
 The request is checked with a security procedure and is approved.
 The distribution manager and the beneficiaries are notified of its approval.
@@ -1904,7 +1904,7 @@ Guaranteed monitoring and transparency:
 Double data control
 Real-time monitoring of financial exposure
 Each transaction and its data are cryptographically stored
-Everything is monitored by the <i>Helpcode</i> staff through the http://merkur.io/ platform.
+Everything is monitored by the *Helpcode* staff through the http://merkur.io/ platform.
 Merkur.io has a cloud platform where the Helpcode staff can check all the data in real time:
 purchases, average expenses, products, quantities, every expense a beneficiary makes, every transaction carried out by the person in charge of the distribution of the dinars, etc. 
 The platform also assists in creating graphic representations of the data, making for more thorough analyses.
@@ -1976,7 +1976,7 @@ The Master course in <a href="https://www.ictforsocialgoodmaster.eu/">ICT for De
 <img src="https://www.gnucoop.com/wp-content/uploads/2019/05/ictforsocialgoodmaster.png" alt="" width="1878" height="891" />
 In our ICT for Health module, we explored many topics, starting from a general overview of healthcare systems and health information systems, describing the processes and steps required to run a successful mhealth project. 
 We discussed about many examples of mhealth applications: from remote monitoring, to point of care, stock management, treatment adherence, education/awareness and crowdsourcing. 
-Each type of application has been analysed through practical case studies, allowing us to explore projects like <i>c-stock</i> for the management of drugs supply; to talk about the <a href="https://himore-medical.com/"><i>CardioPad</i></a> app from Cameroon for remote monitoring of cardiac diseases. We then presented applications like <a href="http://www.health.gov.za/index.php/mom-connect"><i>Momconnect</i></a> in SouthAfrica to support women during pregnancy and the very interesting <a href="https://www.youtube.com/watch?v=e_Q_McVe2uk&amp;feature=youtu.be"><i>Mobile Academy</i></a> app where co-design with users really shows its full potential. And, again, we spoke about monitoring and tracking diseases using mobile application as well as crowdsourcing tools.
+Each type of application has been analysed through practical case studies, allowing us to explore projects like *c-stock* for the management of drugs supply; to talk about the <a href="https://himore-medical.com/">*CardioPad*</a> app from Cameroon for remote monitoring of cardiac diseases. We then presented applications like <a href="http://www.health.gov.za/index.php/mom-connect">*Momconnect*</a> in SouthAfrica to support women during pregnancy and the very interesting <a href="https://www.youtube.com/watch?v=e_Q_McVe2uk&amp;feature=youtu.be">*Mobile Academy*</a> app where co-design with users really shows its full potential. And, again, we spoke about monitoring and tracking diseases using mobile application as well as crowdsourcing tools.
 Students also had a chance to gain practical experience on some of the most common tools specifically used for mhealth projects such as CommCare, Magpi or TextIt. We also presented our Dewco data collection tool, developed by Gnucoop, that has been used, among others, for the development of the <a href="https://his.unhcr.org">Integrated Refugees Health Information System (iRHIS)</a> used by UNHCR to monitor health activities in refugee camps at worldwide level.
 <img src="https://www.gnucoop.com/wp-content/uploads/2019/05/kakuma_2.jpg" alt="" width="5760" height="3840" />
 So, talking about applications and mhealth tools implies a discussion about data and the common challenges of scalability, interoperability and data security. In our last lecture, we explored those challenges and possible solutions to overcome them. Furthermore, we walked through some basic concepts of data analysis like linear regression and decision tree with the overall objective of seeking good relations between our collected data.  
@@ -2055,7 +2055,7 @@ L’attività descritta è un problema di “classificazione”, in quanto abbia
 Nella tecnica Deep Learning, la classificazione di un’immagine non è altro che l’applicazione di un filtro multistrato ad essa. Il campo di ricerca su questo argomento è molto attivo, e vi sono vari modelli in circolazione, rilasciati sia dalle società commerciali come Google o Microsoft, sia dal settore universitario come Visual Geometry Group della università di Oxford. Come molti dei nostri progetti, anche il progetto in questione si svolge in un contesto con delle costrizioni sia di potenza dei dispositivi, sia di una scarsa connettività, quindi la scelta del modello da adottare è ricaduta naturalmente sul MobileNet proposto da Google. E’ un modello particolarmente efficiente ed al tempo stesso leggero, solo 17Mb rispetto ai modelli standard che si aggirano sulle centinaia di Mb.
 Il modello, detto a  Reti Neurali Convolute, o ConvNet (CNN) sono uno degli algoritmi di Deep Learning più utilizzati oggi nella computer vision, e trovano applicazione in tantissimi campi, dalle automobili autonome ai droni, dalle diagnosi mediche al supporto e trattamento per gli ipovedenti.
 <img src="https://www.gnucoop.com/wp-content/uploads/2019/10/image11.jpg" alt="" width="1140" height="385" />
-Come per ogni problema di machine learning, per allenare una rete vi è il bisogno di fornire molti dati. Questi dati verranno utilizzati dal modello stesso, per parametrizzare i propri nodi interni, arrivando a capire quali caratteristiche sono determinanti per una classe e quali invece non lo sono. Ad esempio per distinguere un maschio da una femmina potrebbe essere utile considerare la grandezza relativa degli occhi, mentre invece sarebbe inutile considerare il colore della pelle. Queste astrazioni vengono scoperte in automatico dalla rete neurale, in un processo detto <i>allenamento. </i>Per raccogliere i dati necessari siamo andati a direttamente sul campo.
+Come per ogni problema di machine learning, per allenare una rete vi è il bisogno di fornire molti dati. Questi dati verranno utilizzati dal modello stesso, per parametrizzare i propri nodi interni, arrivando a capire quali caratteristiche sono determinanti per una classe e quali invece non lo sono. Ad esempio per distinguere un maschio da una femmina potrebbe essere utile considerare la grandezza relativa degli occhi, mentre invece sarebbe inutile considerare il colore della pelle. Queste astrazioni vengono scoperte in automatico dalla rete neurale, in un processo detto *allenamento. *Per raccogliere i dati necessari siamo andati a direttamente sul campo.
 <h3>Raccolta delle immagini</h3>
 <img src="https://www.gnucoop.com/wp-content/uploads/2019/10/image3.jpg" alt="" width="1999" height="1500" />
 Sono state raccolte circa 2000 fotografie, tramite due macchine fotografiche digitali: una per le femmine, ed una per i maschi. In questo modo siamo stati sicuri di effettuare una classificazione già all’origine, cosa non banale da fare a posteriori con un operatore umano.
