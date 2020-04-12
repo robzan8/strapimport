@@ -1330,7 +1330,7 @@ To confirm your participation <a href="mailto:info@gnucoop.com">info@gnucoop.com
 		Title:   "GIS platform for Disaster Risk Reduction",
 		Slug:    "gis-platform-for-disaster-risk-reduction",
 		Excerpt: "",
-		Content: `Over the past few months Gnucoop developed for the italian NGO <a href="http://www.coopi.org/en/">COOPI-Cooperazione Internazionale</a>* a GIS platform, which enable to visualize the main threats and vulnerabilities, as well as resources available in the surrounding areas to foster crisis management by turning this information into actions. 
+		Content: `Over the past few months Gnucoop developed for the italian NGO <a href="http://www.coopi.org/en/">COOPI-Cooperazione Internazionale</a> a GIS platform, which enable to visualize the main threats and vulnerabilities, as well as resources available in the surrounding areas to foster crisis management by turning this information into actions. 
 
 COOPI helps communities prone to environmental disasters or other hazards deal with them. Development of geographical information systems, risk analysis and dissemination of risk management tools are among the main activities of its program within the sector.
 The marginalized informal communities of Rimac District in Lima in Peru, mostly affected by earthquakes and landslides, belong to the targeted groups of COOPI. In addition to natural hazards, inadequate basic services and infrastructures, coupled with scarce  awareness about disaster risk reduction are main issues to be tackled.
@@ -1386,8 +1386,6 @@ The source code will be released under a free (as in speech not free as in beer)
 Our software is available here <a href="https://guatemala.gnucoop.io/">https://guatemala.gnucoop.io/</a>.
 
 Our Senior developer is in Lima for the first training section to <a href="http://cenepred.gob.pe/">CENEPRED</a>, follow the mission on our social channels!
-
-*<a href="http://www.coopi.org/en/">COOPI-Cooperazione Internazionale</a> worked with civil society organizations, local authorities, and the private sector to strengthen risk management in marginalized informal communities of Rímac District in Lima. The program disseminated risk-management tools among government authorities with decision-making capacity; upgraded hazard-prone infrastructure; strengthened capacities of community groups, including women’s associations; provided practical training; and developed a geographical information system database to identify and help address existing vulnerabilities. (USAID LATIN AMERICA AND THE CARIBBEAN – DISASTER RISK REDUCTION FACT SHEET #1, FISCAL YEAR (FY) 2015)
 
 Pictures by COOPI-Cooperazione Internazionale Thank you!`,
 	},
