@@ -520,11 +520,11 @@ furthering the strategic goals defined in the GIS Strategy.
 Gnucoop staff spent one month in Haiti, working side by side with ngo COOPI-Cooperazione Internazionale and local authorities to define and develop the system requirements. As a result, the SIRV-TAB server allows geographic visualization of several types of information such as: public security data, presence of local organisations, water points, food storages, energy plants, transports, telecommunications, accommodations, waste management plants, roadworks and soil details.
 
 Therefore, the SIRV-TAB database contributes to:
-<ul>
- 	<li>identify resources that are available to manage natural or man-made disasters in Tabarre;</li>
- 	<li>manage these resources according to population needs, with a specific focus on the most vulnerable members of the society;</li>
- 	<li>identify local hazards.</li>
-</ul>
+
+- identify resources that are available to manage natural or man-made disasters in Tabarre;
+- manage these resources according to population needs, with a specific focus on the most vulnerable members of the society;
+- identify local hazards.
+
 The SIRV-TAB can be used by decision makers, urban planners or simply personnel operating in crisis management in Tabarre to plan prevention/preparedness measures or organise response to emergency situations.
 
 More informations here [http://sirv.tabarre.ht/static/reports/VOLUME_5_SIRV-TAB_-_Serveur.pdf](http://sirv.tabarre.ht/static/reports/VOLUME_5_SIRV-TAB_-_Serveur.pdf) (available only in French)`,
@@ -604,12 +604,11 @@ In addition to the point of care supporting function, this mhealth system provid
 Lesson learnt
 
 The system was implemented for a couple of years, under UNICEF and DIPECHO funds. After its implementation we learnt some key lessons that may be useful also to implement future projects:
-<ol>
-	<li>technology is not the solution but it is a tool/mean that can help to achieve the set targets;</li>
-	<li>specific human resources should be dedicated by the implementing organisation to manage and monitor an mhealth (or ICT4D) project ;</li>
-	<li>national authorities should be involved in all the phases of the project, from the design and data collection to the scaling up;</li>
-	<li>users’ feedback needs to be collected in order to improve the system over time.</li>
-</ol>
+
+- technology is not the solution but it is a tool/mean that can help to achieve the set targets;
+- specific human resources should be dedicated by the implementing organisation to manage and monitor an mhealth (or ICT4D) project ;
+- national authorities should be involved in all the phases of the project, from the design and data collection to the scaling up;
+- users’ feedback needs to be collected in order to improve the system over time.
 
 For more tips on mhealth projects, read the toolkit:
 
@@ -1073,11 +1072,11 @@ Well, in some contexts those requirements are not totally fulfilled. Particularl
 According to [WHO](http://www.who.int/en/), Mobile Health (m­Health) is the “Provision of health services and information via mobile and wireless technologies. mHealth includes mobile phones, Personal Digital Assistants (PDAs), tablets, mobile applications and wireless medical devices“.
 
 mHealth has the potential to address and overcome challenges such as:
-<ul>
- 	<li>Disparities in access to health services, helping remote communities to also connect and avail of health services;</li>
- 	<li>Inadequacies of the health infrastructure, supporting in monitoring the quality of health posts and health centers;</li>
- 	<li>Shortage of human resources for health, by empowering health promoters and spreading educational messages.</li>
-</ul>
+
+- Disparities in access to health services, helping remote communities to also connect and avail of health services;
+- Inadequacies of the health infrastructure, supporting in monitoring the quality of health posts and health centers;
+- Shortage of human resources for health, by empowering health promoters and spreading educational messages.
+
 Follow us [here](http://www.ong2zero.org/en/news/mhealth-blog/)!`,
 	},
 	{
@@ -1220,10 +1219,10 @@ Anche in Italia nasce un'applicazione in supporto ai migranti, per soddisfare la
 L’App InfoStranieri nasce nel 2014 da un’idea di Bashkim Sejdiu, trentunenne kosovaro arrivato in Italia ventun’anni fa e che da oltre dieci anni offre servizi di assistenza burocratica agli altri stranieri che vivono in Italia.
 
 Lo scopo dell’App è quello di rispondere alle esigenze:
-<ul>
- 	<li> di tutti gli stranieri regolari costretti a vivere l’incubo di dover adempiere a tutta una serie di requisiti burocratici particolarmente complessi, dispendiosi in termini di tempo e per di più in un Paese del quale stanno ancora imparando la lingua;</li>
- 	<li> dello Stato Italiano in quanto il Paese necessita di personale straniero regolare e pertanto trarrebbe molto giovamento dalla semplificazione degli adempimenti di cui sopra, con particolare riferimento alle procedure di regolarizzazione.</li>
-</ul>
+
+-  di tutti gli stranieri regolari costretti a vivere l’incubo di dover adempiere a tutta una serie di requisiti burocratici particolarmente complessi, dispendiosi in termini di tempo e per di più in un Paese del quale stanno ancora imparando la lingua;
+-  dello Stato Italiano in quanto il Paese necessita di personale straniero regolare e pertanto trarrebbe molto giovamento dalla semplificazione degli adempimenti di cui sopra, con particolare riferimento alle procedure di regolarizzazione.
+
 [Guarda l'intervista a Bashkim Sejdiu](http://www.la7.it/coffee-break/video/unapp-pu%C3%B2-cambiare-la-vita-anche-agli-immigrati-04-07-2016-189151)`,
 	},
 	{
@@ -1284,10 +1283,10 @@ The workers have been explained and shown by the developer how to use the applic
 The deep knowledge of forms has been very helpful for feedback gathering and the related reviewing processes.
 Furthermore, we could count for some urgent issues on our staff in Italy, who was reacting almost in real time to any request. 
 Two categories of users participated in the test:
-<ul>
- 	<li>Nurses / Midwives for forms related to Reproductive Health;</li>
- 	<li>Refugees employed in the clinics, for all the other forms.</li>
-</ul>
+
+- Nurses / Midwives for forms related to Reproductive Health;
+- Refugees employed in the clinics, for all the other forms.
+
 Generally, the feedback we received was content-related, while almost nothing about the new collection system, that is the transition from the use of paper to electronic devices, was mentioned.
 Only in the Expanding Program in Immunization (EPI) sector of the Main Hospital, the clinicians have expressed strong doubts, and declared to prefer the current paper forms.
 
@@ -1311,16 +1310,16 @@ Gnucoop Soc. Coop. and [Stand by Task Force](http://www.standbytaskforce.org/) (
 When a disaster or humanitarian emergency strikes, many organisations (public agencies, humanitarian responders, governmental and non governmental organisations) activate and try to provide their support. In these contexts, it’s very important to have access to and rely on trustworthy information. If used sensibly, social networks and digital tools have the potential to provide important pieces of information that were not accessible only up to few years ago. 
 
 Therefore, the event has two main objectives:
-<ul>
- 	<li>to sensitize civil society organizations, civil protection organisations, public institutions, university students and volunteers on the sensible use of digital tools such as social networks, digital images, web news, etc…, to help responding to humanitarian crisis,</li>
- 	<li>to involve new ‘digital’ volunteers who could provide additional support in responding to emergencies or humanitarian crisis and become active members of the SBTF.</li>
-</ul>
+
+- to sensitize civil society organizations, civil protection organisations, public institutions, university students and volunteers on the sensible use of digital tools such as social networks, digital images, web news, etc…, to help responding to humanitarian crisis,
+- to involve new ‘digital’ volunteers who could provide additional support in responding to emergencies or humanitarian crisis and become active members of the SBTF.
+
 The program will be the following:
-<ul>
- 	<li>Technology and Information Sharing: ICT4D project milestones</li>
- 	<li>Gnucoop tools and case studies: data collection &amp; GIS and Disaster Risk Reduction</li>
- 	<li>Information for Disaster Response: SBTF Case, Studies, Example of Deployments</li>
-</ul>
+
+- Technology and Information Sharing: ICT4D project milestones
+- Gnucoop tools and case studies: data collection &amp; GIS and Disaster Risk Reduction
+- Information for Disaster Response: SBTF Case, Studies, Example of Deployments
+
 We are very glad to have as our guests Mercedes Aguerre, [COOPI ](http://www.coopi.org)drr advisor, for a an introduction on Disaster Risk Reduction and  Angela Oduor Lungati, Director of Community Engagement, [Ushahidi ](http://www.ushahidi.com)to present this very successful platform.
 
 For more information [http://masterwash.unimib.it](http://www.geo.unimib.it/master)
@@ -1363,23 +1362,23 @@ The software will be mainly divided into two sections:
 
 Backend A simple and complete control panel that will allow administrators to:
 manage users and permissions,
-<ul>
- 	<li>upload geographic data in various formats (shapefiles geojson and GeoTIFF)</li>
- 	<li>manage metadata associated with geographic data,</li>
- 	<li>manage the library of documents and images,</li>
- 	<li>publish notices, news and updates visible to users of the platform.</li>
-</ul>
+
+- upload geographic data in various formats (shapefiles geojson and GeoTIFF)
+- manage metadata associated with geographic data,
+- manage the library of documents and images,
+- publish notices, news and updates visible to users of the platform.
+
 Frontend The heart of the software that will allows users and visitors to create their own maps and "surf" the resources localized in the project. The main functions of the frontend will be:
-<ul>
- 	<li>Create map</li>
- 	<li>Insert maps from OpenStreetMap and Google Map /BING</li>
- 	<li>Measure distances / Areas</li>
- 	<li>Create elevation profile</li>
- 	<li>Create cartograms and other geo-statistical maps</li>
- 	<li>Creating a personal profile</li>
- 	<li>Save and archive on server your own maps that can be reused later (this a function only  for registered users)</li>
- 	<li>Export maps in different formats (JPEG, PNG, PDF)</li>
-</ul>
+
+- Create map
+- Insert maps from OpenStreetMap and Google Map /BING
+- Measure distances / Areas
+- Create elevation profile
+- Create cartograms and other geo-statistical maps
+- Creating a personal profile
+- Save and archive on server your own maps that can be reused later (this a function only  for registered users)
+- Export maps in different formats (JPEG, PNG, PDF)
+
 View your maps on the main navigation applications (Google Maps, iOS maps, Google Earth) (available from smartphones and tablets).
 
 The source code will be released under a free (as in speech not free as in beer) software license and will be available probably through a github repository, to trace changes and developments over time!
@@ -1621,24 +1620,25 @@ Intoduction on ICT4Ag
 
 Agriculture is the mainstay of national economies and household incomes in many African, Caribbean and Pacific countries.
 The role of information and communication technologies (ICTs) in agriculture is truly significant in everything, from conserving water use to helping secure the livelihoods of rural women. The huge potential of ICT for agriculture (ICT4Ag), from increasing agricultural yields to helping farmers to get a fairer price for their produce, is well documented. Technologies such as SMS applications, mobile banking and satellite data have been used successfully in order to give agricultural stakeholders access to farm mapping, weather data, marketing tools, financial credit, advice from extension workers, and social networks, among other things.
-What Gnucoop can offer
-<ul>
-	<li>SMS-based service
+What Gnucoop can offer:
+
+**SMS-based service:**
 We propose the use of an SMS-based platform providing agricultural advice, weather forecasts, market prices, markets location and calendar to farmers. It uses data and insights on farmers, crops, markets and prices to provide commercial data and intelligence services to agribusinesses and financial organisations.
 SMS trade and market information service is a simple, convenient and cost-effective service that is helping farmers in rural areas to search for market for their produce at better prices within their regions and beyond
-Market information services (MIS) delivered through mobile phone SMS platforms help to increase household incomes, to reduce marketing costs and to improve the social welfare of small-scale farmers.</li>
-	<li>Data Collection Web and Mobile Platform
+Market information services (MIS) delivered through mobile phone SMS platforms help to increase household incomes, to reduce marketing costs and to improve the social welfare of small-scale farmers.
+
+**Data Collection Web and Mobile Platform:**
 Our web-based platform allows to collect, store and manage any kind of data. This application allows to collect data and compile entry forms in a user-friendly way, analyse and generate reports at different levels: from single sites to country offices up to regional and HQ level.
 Data collection is done using different tools, from paper to digital forms and mobile apps.
 The last version of our platform provides a more advanced, modern and modular software; only one interface for data entry; data safety and clear user management structure; a user-friendly and customizable interface; a modular and extendible system.
-Thanks to the use of Angular JS 2 it can work offline guaranteeing offline updates if no connection is available but it would also make the whole system more uniform and centralized, therefore reducing the maintenance costs and the incidence of bugs, increasing the quality of the web application. Though the web app it’s possible to generate standard and customized reports, where users can define what information to include as well as the layout and format to display it. It is possible to analyze data and display related graphs or info-graphs for a better monitoring of the project activities.</li>
-	<li>GIS Platform
+Thanks to the use of Angular JS 2 it can work offline guaranteeing offline updates if no connection is available but it would also make the whole system more uniform and centralized, therefore reducing the maintenance costs and the incidence of bugs, increasing the quality of the web application. Though the web app it’s possible to generate standard and customized reports, where users can define what information to include as well as the layout and format to display it. It is possible to analyze data and display related graphs or info-graphs for a better monitoring of the project activities.
+
+**GIS Platform:**
 GIS application in agriculture has been playing an increasingly important role in crop production throughout the world by helping farmers in increasing production, reducing costs, and managing their land resources more efficiently. GIS application in agriculture such as agricultural mapping plays a vital role in monitoring and management of soil and irrigation of any given farm land.
 Gnucoop developed a webGIS platform, called Yago, to locate resources, identify critical issues, design urban plans and understand local vulnerabilities in order to increase population preparedness towards natural disasters and help managing crisis.
 It’s a modern and light software that can also run on smartphones and tablets, developed using the Google framework Angular 4 Google and libraries for the development of mobile-friendly Leaflet interactive maps.
 Yago is a webGIS application that allows uploading and overlapping geo datasets in order to identify vulnerable areas, risk and hazards.
-We’re developing a new functionality who allows to enter directly some data on a map, through a specific interface.</li>
-</ul>
+We’re developing a new functionality who allows to enter directly some data on a map, through a specific interface.
 
 Gnucoop can also been carry out field missions to test the application, and monitor the roll out and deployment of the developed application, as well as to train local staff on the use of the system. The system will be implemented in many different countries with thousands of users.`,
 	},
@@ -1761,11 +1761,11 @@ Gnucoop discussed about the use of ICT in the development sector and particularl
 All the mentioned tools have the double role of gathering/disseminating information as well as helping responders to take actions. 
 
 Furthermore key challenges and best practices in ICT4D have been presented and discussed such as:
-<ol>
- 	<li>Sustainability: ensuring project longevity →  crucial involvement of government or local ownership;</li>
- 	<li>Scalability: from pilot to large scale project: → ability to propose a solution that can impact large population</li>
- 	<li>Evaluation: impact analysis → keep monitoring the application year after year</li>
-</ol>
+
+- Sustainability: ensuring project longevity →  crucial involvement of government or local ownership;
+- Scalability: from pilot to large scale project: → ability to propose a solution that can impact large population
+- Evaluation: impact analysis → keep monitoring the application year after year
+
 The class involved students from the university of Turin enrolled specifically  in communication and development studies, who were very interested and actively participated to the session. 
 
 At the end of the workshop, students have been asked to run a practical exercise and design a communication plan related to the cooperation and development sector. `,
@@ -2004,12 +2004,12 @@ Queste sono solo alcune delle domande alle quali cercheremo di iniziare a rispon
 
 ## Relatori
 
-<ul>
- 	<li>Federico Mento, Social Value Italia</li>
- 	<li>Enrico Testi, ARCO </li>
- 	<li>Federico Bastia, Fondazione punto.sud</li>
- 	<li>Margherita Romanelli, Link2007</li>
-</ul>
+
+- Federico Mento, Social Value Italia
+- Enrico Testi, ARCO 
+- Federico Bastia, Fondazione punto.sud
+- Margherita Romanelli, Link2007
+
 Modera: Christian Elevati, Changelab
 
 ## Programma
