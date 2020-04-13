@@ -903,7 +903,8 @@ As borders and routes constantly change, it becomes both more important and more
 Access to technology, information and communication, Šunjić said, is beginning to be regarded as a basic of humanitarian aid.
 Simpler access to information and existing services can reduce barriers to integration. Very often, this approach can also be solved with practical apps that can be used at a smartphone, here you can fin some examples..
 
- [Migr](https://www.migreat.it/en/)<img src="https://www.gnucoop.com/wp-content/uploads/2015/12/Migreat.jpg" alt="Migreat" width="260" height="162" />[eat](https://www.migreat.it/en/) is a platform where you can find all the information you need to get started, settle down and go beyond in a new country - made easily accessible in your own language.
+<img src="https://www.gnucoop.com/wp-content/uploads/2015/12/Migreat.jpg" alt="Migreat" width="260" height="162" />
+[Migreat](https://www.migreat.it/en/) is a platform where you can find all the information you need to get started, settle down and go beyond in a new country - made easily accessible in your own language.
 You can select your community to get news, articles and help settling in.
 Connect to your local micro-community in your own language. Let Migreat's ever-growing social community help you find your new ground
 
