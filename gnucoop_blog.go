@@ -7,7 +7,7 @@ var blog = []Article{
 		Excerpt: "",
 		Content: `Il 30 ottobre ONG 2.0 e CISV presentano il nuovo sito di ONG 2.0 in un evento in streaming con interventi dal Senegal, dal Burkina Faso, dalla Colombia e dall’Italia.
 
-La cooperazione è cambiata. [#aggiornalavaligia](https://twitter.com/hashtag/aggiornalavaligia?src=hash) con [@ong2zero](https://twitter.com/ong2zero) [http://t.co/YvDI0zyO2v](http://t.co/YvDI0zyO2v)</p>&mdash; Ong 2.0 (@ong2zero) [21 Ottobre 2014](https://twitter.com/ong2zero/status/524533916452290560)`,
+La cooperazione è cambiata. [#aggiornalavaligia](https://twitter.com/hashtag/aggiornalavaligia?src=hash) con [@ong2zero](https://twitter.com/ong2zero) [http://t.co/YvDI0zyO2v](http://t.co/YvDI0zyO2v)&mdash; Ong 2.0 (@ong2zero) [21 Ottobre 2014](https://twitter.com/ong2zero/status/524533916452290560)`,
 	},
 	{
 		Title:   "More than 70% of Teachers Increase Confidence in Delivering Interesting Lessons through ICT",
