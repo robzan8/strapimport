@@ -7,7 +7,7 @@ var blog = []Article{
 		Excerpt: "",
 		Content: `Il 30 ottobre ONG 2.0 e CISV presentano il nuovo sito di ONG 2.0 in un evento in streaming con interventi dal Senegal, dal Burkina Faso, dalla Colombia e dall’Italia.
 
-La cooperazione è cambiata. [#aggiornalavaligia](https://twitter.com/hashtag/aggiornalavaligia?src=hash) con [@ong2zero](https://twitter.com/ong2zero) [http://t.co/YvDI0zyO2v](http://t.co/YvDI0zyO2v)</p>&mdash; Ong 2.0 (@ong2zero) [21 Ottobre 2014](https://twitter.com/ong2zero/status/524533916452290560)</blockquote>`,
+La cooperazione è cambiata. [#aggiornalavaligia](https://twitter.com/hashtag/aggiornalavaligia?src=hash) con [@ong2zero](https://twitter.com/ong2zero) [http://t.co/YvDI0zyO2v](http://t.co/YvDI0zyO2v)</p>&mdash; Ong 2.0 (@ong2zero) [21 Ottobre 2014](https://twitter.com/ong2zero/status/524533916452290560)`,
 	},
 	{
 		Title:   "More than 70% of Teachers Increase Confidence in Delivering Interesting Lessons through ICT",
@@ -938,7 +938,7 @@ where, when and why they have to register and what exactly it involves.`,
 		Slug:    "get-appropriate-help-to-people-where-they-are",
 		Excerpt: "",
 		Content: `While Europe’s politicians debate refugee quotas, civil society organisations across the continent are working to support those who are displaced . Charities in Croatia, Serbia, Germany, Italy and Greece are dealing with unpredictable numbers and erratic route change and as a result, many are being forced to adapt. So, how are these organisations coping? via [theguardian](http://www.theguardian.com/voluntary-sector-network/2015/oct/09/facebook-refugees-charities-europe-collaboration-ngo)
-The refugee crisis is complex... and so is the tech industry response to it.</blockquote>
+The refugee crisis is complex... and so is the tech industry response to it.
 [SSF Refugees Welcome](http://umap.openstreetmap.fr/en/map/refugee-crisis-balkans-and-central-europe_55091#7/46.589/16.935) is a map that offers information about refugee camps, migrant detention centres and bordercrossings along the balkan route.
 Volunteers, donors and organisations: we have moved!
 You can find [here](http://refugees.sahana.io/eden/default/about) the project description document, where you can find important information about the software solution(s) the SSF is building and making available to people engaged in the work of assisting refugees in Europe.
@@ -988,7 +988,7 @@ for free without costs.`,
 		Excerpt: "",
 		Content: `Addressing different aspects of the global refugee crisis will require improved coordination across sectors, and greater efficiency and sophistication in delivering aid and other support around the globe. This includes the ability to collect, analyze and share data among organizations that provide direct support for refugees and across the NGO community. Additionally, there is a need for better understanding/mapping of the refugee experience and the emergency response and relief experience, as well as opportunities to identify and anticipate specific needs that can be prioritized in the future.
 
-“The rise of the smartphone has put powerful tech in the hands of refugees, and it’s just waiting to be used in a scalable way,” says Mike Butcher, Techfugees’ co-founder.</blockquote>
+“The rise of the smartphone has put powerful tech in the hands of refugees, and it’s just waiting to be used in a scalable way,” says Mike Butcher, Techfugees’ co-founder.
 
 <img src="https://www.gnucoop.com/wp-content/uploads/2016/02/lale.help_-300x204.jpg" alt="lale.help" width="300" height="204" /> [Lale](http://lale.help/)’s mission is to organize the coordination, communication and execution of hands-on help by volunteers in local helper circles. We aim to simplify the management of volunteer groups and to engage as many individuals as possible in the act of helping others. If everyone helps just once, we can build bridges that lead to human connections and true integration.
 
@@ -1003,7 +1003,7 @@ Projects about refugees crisis and management are complex as many indicators and
 		Excerpt: "",
 		Content: `
 Our crowdfunding campaign has closed on 14th of February.
-Thank you to all of our supporters!</blockquote>
+Thank you to all of our supporters!
 But the core idea of the campaign to involve software developers, Monitoring and Evaluation (M&amp;E) experts, NGOs professionals, helping us to develop an application that will be available for every person involved has not dead. 
 If you like to contribute with your expertise to the realization of this tool [contact us](http://info@gnucoop.com)!
 
@@ -1085,7 +1085,7 @@ Follow us [here](http://www.ong2zero.org/en/news/mhealth-blog/)!`,
 		Slug:    "private-sector-engagement-to-alleviate-the-refugee-crisis",
 		Excerpt: "",
 		Content: `
-“A coordinated response would contribute in ways that benefit businesses, refugees and host societies alike.”</blockquote>
+“A coordinated response would contribute in ways that benefit businesses, refugees and host societies alike.”
 — Open Society Foundation's Maria Teresa Rojas and Alyssa Ross
 
 The scale of the current Syrian refugee crisis has generated significant involvement from private actors, including corporations and individuals. With governments overwhelmed and unable to adequately address the situation, the private sector has a critical role to play in providing for immediate humanitarian needs, as well as supporting refugee resettlement and integration. Private sector involvement in economic development and job creation is also a key component of the long-term solution, which goes beyond this current crisis.
@@ -1108,7 +1108,7 @@ Read the [full post](https://www.devex.com/news/the-role-of-the-private-sector-i
 		Slug:    "refugees-are-human-beings-with-skills-talents-aspirations",
 		Excerpt: "",
 		Content: `
-"There's nothing inevitable about refugees being a cost, they're human beings with skills, talents, aspirations, with the ability to make contributions — if we let them."  [Alexander Betts](http://www.alexanderbetts.com/unhcr-i-circle.html)</blockquote>
+"There's nothing inevitable about refugees being a cost, they're human beings with skills, talents, aspirations, with the ability to make contributions — if we let them."  [Alexander Betts](http://www.alexanderbetts.com/unhcr-i-circle.html)
 We can start talking about what is happening in Uganda, not because it’s representative of all host countries but ‘cause it's exceptional. Unlike most host countries around the world, what Uganda has done is give refugees economic opportunity. It gives them the right to work. It gives them freedom of movement. And the results of that are extraordinary both for refugees and the host community. In the capital city, Kampala, 21 percent of refugees own a business that employs other people, and 40 percent of those employees are nationals of the host country. In other words, refugees are making jobs for citizens of the host country. Even in the camps, it’s easy to find extraordinary examples of vibrant, flourishing and entrepreneurial businesses.
 
 Beyond that we should consider that going digital has the potential to fundamentally transform the relationship between citizen and government. Research has shown that disadvantaged groups, including immigrants and minorities, are high users of smartphones and social media, and could theoretically be reached through these tools. Newly arrived immigrants are some of the most vulnerable in society and are often in need of support settling in and connecting to information about local services and jobs. However, these groups are often thought to be digitally, as well as socially excluded, and the move by governments to online platforms could exacerbate existing barriers to accessing public services. Furthermore, these groups may lack the necessary digital skills and host-country language ability to take full advantage of digital government services.
@@ -1155,7 +1155,7 @@ https://www.youtube.com/embed/62UqW8CW__I`,
 		Slug:    "education-has-the-power-to-empower-and-change-a-persons-entire-life-and-future",
 		Excerpt: "",
 		Content: `
-*Education is not just a matter of relevance in displaced populations, but of survival. One of the refugees said “If I am not a student, I am nothing.” *</blockquote>
+*Education is not just a matter of relevance in displaced populations, but of survival. One of the refugees said “If I am not a student, I am nothing.” *
 [Re:Coded](http://www.re-coded.com/) aims to create innovative, socially minded leaders in conflict affected communities using technology and entrepreneurship as a catalyst. We aim to connect the dots between local problems and global opportunities and harness cross cutting solutions to transform local capacity with the aim of building long-term economic development, peace and geopolitical stability.
 The Fellowship is an intensive program designed to train refugees and displaced youth with no prior coding experience to become
 production-ready web developers. The program is adapted from The Flatiron School's Web Development Immersive — a course that has successfully trained students for the workforce and helped them find web development jobs.
@@ -1177,7 +1177,7 @@ The current DigiSchool is a fourth generation prototype. Progress has been made 
 		Slug:    "the-digital-revolution-transforming-the-world-is-leaving-refugees-behind",
 		Excerpt: "",
 		Content: `
-Access to the internet and mobile telephone services has the potential to create a powerful multiplier effect, boosting the well-being of refugees and of the communities that host them.</blockquote>
+Access to the internet and mobile telephone services has the potential to create a powerful multiplier effect, boosting the well-being of refugees and of the communities that host them.
 Over the last 25 years, the internet and mobile communications have transformed life in the industrialized and developing worlds alike. Now that so much information is readily available, we worry about overload more than scarcity. Mobile communications and social media provide abundant ways to stay in touch with friends, family and colleagues. Cloud computing, remote working and networked global teams are re-shaping the ways we interact and connect.
 Not so for the world’s refugees. Today, more than 65 million people – the largest number since the Second World War – are living as refugees or are internally displaced, uprooted from their homes in search of safety, and often struggling to access the basic means of survival.
 But displaced people are also living without the connectivity they need to obtain vital information, communicate with loved ones, access basic services and link to the local, national and global communities around them.
@@ -1194,7 +1194,7 @@ More information here: [http://www.unhcr.org/connectivity-for-refugees.html](htt
 The new edition of the long-term online training course [ICT: Innovations for Development](http://www.ong2zero.org/en/blog/corsi/course-description/) focused on the communication technologies begins on 31st of October.
 Organised by [ONG 2.0](http://www.ong2zero.org/en/), the sessions are live and interactive with renowned international experts.
 There are 20 full scholarships available, thanks to the support of Fondazione Cariplo and Compagnia San Paolo.
-Application deadline for scholarships: 9th October 2016</blockquote>
+Application deadline for scholarships: 9th October 2016
 In the recent years, the ICTs (information and communication technologies) for development have promised the international cooperation to become more “fluid” and “open” (open-source technologies and creative commons licenses enabled individual persons, groups and organizations to have free access in various materials and products, inaccessible before).Further, the emergence of new techs such as drones, low-cost sensors, wearables and so on – the ICTs are opening up new horizons for development interventions. For instance, UNICEF and the Malawi’s government have started to test unmanned aerial vehicles (UAV) to reduce waiting times for HIV testing of infants. Or [RapidPro](https://community.rapidpro.io/) - an online communication platform for those who want to create an app about social issues in few steps. Examples are unlimited: from the environmental movement [Science for Change Kosovo](http://www.citizenscienceks.org/), that monitors and reports the atmosphere pollution by means of a crowdsourcing platform, to [Kilimo Salama](https://kilimosalama.wordpress.com/) (“Safe Agriculture”), a project for smallholders who can ensure their products through SMS while the insurance company checks the forecasts with weather satellites.
 To respond to these new trends and progresses in the field of ICT for Development, as well as to offer new opportunity for young professionals, particularly for those from Global South, the ONG2.0 is launching the second edition of the long-term online course [“ICT: Innovations for Development”](http://www.ong2zero.org/en/ict-innovation-for-development/). The programme, absolutely unique in Italy, will allow the discussion between the lectures and participants from all the worlds thanks to the interactive and live webinars. The intensive 6 months course is structured in 8 thematic Modules: social innovation methodologies; agriculture and environment; health; education; data collection; mapping in emergencies; human rights, democracy and activism; and financial inclusion.
 
@@ -1300,9 +1300,8 @@ We suggest to spend more time to explain better to the users how it will change 
 		Slug:    "information-management-for-emergency-response",
 		Excerpt: "",
 		Content: `
-<h4>*Technology itself does not mean progress,*</h4>
-<h4>*progress is our ability to use technology to make a difference*</h4>
-<h4>(Luca De Biase)</h4>
+## *Technology itself does not mean progress, progress is our ability to use technology to make a difference* (Luca De Biase)
+
 When:  Wednesday, 12 April 2017, 9 a.m. (CET)
 Where: Piazza della Scienza, 4, Università degli Studi di MIlano - Bicocca
               Edificio U4, aula 2034
@@ -1879,7 +1878,9 @@ At the beginning of 2018, Gnucoop and[ Merkur.io](http://merkur.io/) started a c
 Merkur.io is a secure digital payment platform capable of turning humanitarian voucher fairs into a fraud free, rapid and effective experience to NGOs, merchants and humanitarian assistance right holders (beneficiaries).
 Merkur.io handles Humanitarian Voucher Fairs through crypto-currencies, using  safe and efficient payment methods. Our network extends to remote and offline areas to deploy the system with solar power and paper QR codes, allowing for  reinforced security measures.
 Cash based assistance in particular humanitarian voucher fairs have made humanitarian assistance faster and more efficient.
-<h1>Case Study: Cash Distribution in Libya</h1>
+
+## Case Study: Cash Distribution in Libya
+
 In certain remote and marginalized areas in countries, such as Libya, international staff are prohibited entry.
 E-vouchers are the only possible method to provide salaries and reimbursements to the local staff, who are responsible for both implementing the activities and monitoring the cash distribution in these areas.
 Project description
@@ -1989,11 +1990,10 @@ So, talking about applications and mhealth tools implies a discussion about data
 		Slug:    "a-chi-serve-la-valutazione-il-valore-dei-dati-fra-nuove-tecnologie-questioni-etiche-e-innovazione-sociale",
 		Excerpt: "",
 		Content: `
-<h3>Tavola Rotonda</h3>
-<h3>Nell’ambito del corso “From Paper to Tablet”</h3>
-<h3>19 Settembre 2019 - H11-13</h3>
-<h3>presso l’Istituto Beata Vergine Addolorata ([http://www.ibva.it](http://www.ibva.it)), Via Calatafimi 10 Milano</h3>
-<h1>L’evento</h1>
+## Tavola Rotonda
+
+**Nell’ambito del corso “From Paper to Tablet”, 19 Settembre 2019 - H11-13, presso l’Istituto Beata Vergine Addolorata ([http://www.ibva.it](http://www.ibva.it)), Via Calatafimi 10 Milano**
+
 La valutazione di impatto è ormai entrata a pieno titolo nella prassi ordinaria del lavoro nell’ambito della cooperazione allo sviluppo. Pur essendo sempre stata una componente essenziale del ciclo di vita del progetto, la valutazione riceve una rinnovata attenzione da parte di studiosi, donatori e ONG a partire da questo decennio. Inizialmente promossa come “buona pratica”, la valutazione è poi sostenuta dalle procedure stesse dei donatori. Ormai le parole “impatto” e “valutazione” veicolano la narrativa dello sviluppo un po’ come “sostenibilità” o “ownership” nei decenni scorsi. 
 
 Un ruolo importante è certamente stato giocato dallo sviluppo tecnologico che ha reso possibile nel giro di pochi anni la raccolta di ingenti quantità di dati anche in contesti strutturalmente low-tech. Non è un caso che negli ultimi anni si sia assistito ad un fiorire di strumenti software per la raccolta, la gestione e l’elaborazione di dati in situazioni di connettività intermittente e con verticalizzazioni su tematiche specifiche, come salute o educazione. 
@@ -2001,7 +2001,9 @@ Un ruolo importante è certamente stato giocato dallo sviluppo tecnologico che h
 In questo nuovo rinascimento della valutazione restano però delle zone grigie che interrogano il mondo dello sviluppo e sembrano mettere in discussione la reale efficacia di questi esercizi che, in assenza di risposte, rischiano di essere relegati a mere prestazioni di stile. Come valutare l’impatto di lungo periodo con strumenti di finanziamento di breve termine? Come uscire dal circolo del progetto e valutare un programma o l’intera organizzazione? Come capitalizzare le valutazioni negative? Come scambiare la conoscenza acquisita tra diverse organizzazioni? Come coinvolgere tutti gli attori, compresi i beneficiari, in una valutazione?
 
 Queste sono solo alcune delle domande alle quali cercheremo di iniziare a rispondere in un evento organizzato nell’ambito del corso di formazione “From paper to tablet”. L’evento sarà un seminario di confronto nel quale alcuni esperti di valutazione e data analysis porteranno il proprio punto di vista. Il dibattito sarà aperto a tutti gli attori della cooperazione internazionale. 
-<h1>Relatori</h1>
+
+## Relatori
+
 <ul>
  	<li>Federico Mento, Social Value Italia</li>
  	<li>Enrico Testi, ARCO </li>
@@ -2009,7 +2011,9 @@ Queste sono solo alcune delle domande alle quali cercheremo di iniziare a rispon
  	<li>Margherita Romanelli, Link2007</li>
 </ul>
 Modera: Christian Elevati, Changelab
-<h1>Programma</h1>
+
+## Programma
+
 11:00 - 11:05 Benvenuto ai partecipanti (Francesca Silva - CIAI)
 11:05 - 11:30 Saluti istituzionale delle Fondazioni promotrici (Compagnia di San Paolo, Fondazione Cariplo)
 11.30 - 12.30 Tavola rotonda esperti
@@ -2018,7 +2022,7 @@ Modera: Christian Elevati, Changelab
 13.30 - 14.30 Networking (light) lunch
 
 La partecipazione all'evento è gratuita perchè inserita all'interno dell'iniziativa Innovazione per lo sviluppo promossa da Fondazione Cariplo e Compagnia di San Paolo.
-<h3>Per iscriversi cliccare [qui ](https://docs.google.com/forms/d/e/1FAIpQLSd-UXvnH5G-04DEAuWQbHg8ml6NGACe6tla-4w38IWN0ShEiA/viewform)</h3>
+[**Per iscriversi cliccare qui**](https://docs.google.com/forms/d/e/1FAIpQLSd-UXvnH5G-04DEAuWQbHg8ml6NGACe6tla-4w38IWN0ShEiA/viewform)
 
 Su questi temi, la centralità dei dati ed alcuni aspetti della valutazione, abbiamo pensato di proporvi inoltre [alcuni spunti di riflessione ed un breve questionario online ](https://www.info-cooperazione.it/2019/09/data-revolution-nella-cooperazione-a-che-punto-siamo/)che ci possa aiutare a mettere insieme una fotografia dello stato dell'arte nel mondo della cooperazione in Italia.`,
 	},
@@ -2050,26 +2054,38 @@ La registrazione integrale dell’evento è [qui](https://vimeo.com/362997069).
 		Excerpt: "",
 		Content: `
 Martedì 1 ottobre dalle 11 alle 12, nell'ambito del [Salone della CSR e dell'Innovazione Sociale](http://www.csreinnovazionesociale.it), in programma a Milano presso l'Università Bocconi, il direttore di [CIAI ](https://www.ciai.it)Francesca Silva, interverrà nell'incontro [“Tecnologia, innovazione, sostenibilità”](http://www.csreinnovazionesociale.it/evento/tecnologia-innovazione-sostenibilita/) illustrando l'esperienza di CIAI in Burkina Faso con il progetto [PICAPS.](https://www.ciai.it/saro-bambino/picaps/)
-<h3>Intro</h3>
+
+## Intro
+
 Per questo progetto la sfida è stata quella di identificare correttamente il genere maschile o femminile dei bambini fotografati all’interno di un’aula scolastica. La scelta è stata di usare le reti neurali artificiali, attingendo al ricco strumentario open-source in materia di Deep Learning.
 L’attività descritta è un problema di “classificazione”, in quanto abbiamo due classi (maschi e femmine) alle quali è possibile associare una data immagine.
-<h3>Ricerca del modello</h3>
+
+## Ricerca del modello
+
 Nella tecnica Deep Learning, la classificazione di un’immagine non è altro che l’applicazione di un filtro multistrato ad essa. Il campo di ricerca su questo argomento è molto attivo, e vi sono vari modelli in circolazione, rilasciati sia dalle società commerciali come Google o Microsoft, sia dal settore universitario come Visual Geometry Group della università di Oxford. Come molti dei nostri progetti, anche il progetto in questione si svolge in un contesto con delle costrizioni sia di potenza dei dispositivi, sia di una scarsa connettività, quindi la scelta del modello da adottare è ricaduta naturalmente sul MobileNet proposto da Google. E’ un modello particolarmente efficiente ed al tempo stesso leggero, solo 17Mb rispetto ai modelli standard che si aggirano sulle centinaia di Mb.
 Il modello, detto a  Reti Neurali Convolute, o ConvNet (CNN) sono uno degli algoritmi di Deep Learning più utilizzati oggi nella computer vision, e trovano applicazione in tantissimi campi, dalle automobili autonome ai droni, dalle diagnosi mediche al supporto e trattamento per gli ipovedenti.
 <img src="https://www.gnucoop.com/wp-content/uploads/2019/10/image11.jpg" alt="" width="1140" height="385" />
 Come per ogni problema di machine learning, per allenare una rete vi è il bisogno di fornire molti dati. Questi dati verranno utilizzati dal modello stesso, per parametrizzare i propri nodi interni, arrivando a capire quali caratteristiche sono determinanti per una classe e quali invece non lo sono. Ad esempio per distinguere un maschio da una femmina potrebbe essere utile considerare la grandezza relativa degli occhi, mentre invece sarebbe inutile considerare il colore della pelle. Queste astrazioni vengono scoperte in automatico dalla rete neurale, in un processo detto *allenamento. *Per raccogliere i dati necessari siamo andati a direttamente sul campo.
-<h3>Raccolta delle immagini</h3>
+
+## Raccolta delle immagini
+
 <img src="https://www.gnucoop.com/wp-content/uploads/2019/10/image3.jpg" alt="" width="1999" height="1500" />
 Sono state raccolte circa 2000 fotografie, tramite due macchine fotografiche digitali: una per le femmine, ed una per i maschi. In questo modo siamo stati sicuri di effettuare una classificazione già all’origine, cosa non banale da fare a posteriori con un operatore umano.
-<h3>Modifica della rete</h3>
+
+## Modifica della rete
+
 2000 fotografie non sono assolutamente sufficienti per allenare una rete neurale robusta, ma per nostra fortuna esiste una tecnica chiamata Transfer Learning che permette un ulteriore allenamento di un modello già allenato in precedenza.   
 Il modello MobileNet è stato allenato con il database di immagini classificate ImageNet, composto da più di 14 milioni di immagini con le relative classi, cosa che ha permesso al modello di apprendere quali sono quelle caratteristiche di base che fanno distinguere un entità da un altra. Caratteristiche come le forme geometriche ad esempio. Al termine del caricamento avevamo un modello con 89 strati sequenziali.
 <img src="https://www.gnucoop.com/wp-content/uploads/2019/10/image7.jpg" alt="" width="1199" height="526" />
-<h3>Allenamento</h3>
+
+## Allenamento
+
 A questo punto abbiamo effettuato un ulteriore allenamento sugli ultimi 20 strati del modello, per aggiustarlo al nostro contesto ed alle nostre immagini.
 Le immagini raccolte sul campo attraversano in sequenza tutti 89 filtri, diventando sempre più astratte, perdendo senso per noi umani, ma acquistando senso per la rete neurale.
 <img src="https://www.gnucoop.com/wp-content/uploads/2019/10/Image-2019-10-01-at-9.00.30-AM.png" alt="" width="868" height="189" />
-<h3>Risultati</h3>
+
+## Risultati
+
 I nostri risultati si aggirano su un’accuratezza del 94%. Ci aspettiamo comunque di migliorare questo risultato raccogliendo più dati in fase di esecuzione del progetto. Di seguito il risultato su un insieme di 183 immagini mai viste dal modello in fase di allenamento.
 <img src="https://www.gnucoop.com/wp-content/uploads/2019/10/image12.png" alt="" width="535" height="469" />
 Di seguito alcuni esempi:
