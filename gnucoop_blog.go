@@ -1646,11 +1646,7 @@ Gnucoop can also been carry out field missions to test the application, and moni
 		Title:   "Chatbot: another ICT tool for development?",
 		Slug:    "chatbot-another-ict-tool-for-development",
 		Excerpt: "",
-		Content: `
-WHAT IS CHATBOT
-A chatbot (also known as a talkbot, chatterbot, Bot, IM bot, interactive agent, or Artificial Conversational Entity) is a computer program which conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test. Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. Some chatterbots use sophisticated natural language processing systems, but many simpler systems scan for keywords within the input, then pull a reply with the most matching keywords, or the most similar wording pattern, from a database.
-CHATBOT FOR AID PROGRAMMES
-The field of chatbots for good is still emerging, but nonprofit and government organizations have begun to develop use cases.
+		Content: `A chatbot (also known as a talkbot, chatterbot, Bot, IM bot, interactive agent, or Artificial Conversational Entity) is a computer program which conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test. Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. Some chatterbots use sophisticated natural language processing systems, but many simpler systems scan for keywords within the input, then pull a reply with the most matching keywords, or the most similar wording pattern, from a database.
 
 <img src="https://www.gnucoop.com/wp-content/uploads/2017/10/chatbot.jpeg" alt="" width="565" height="376" />
 
