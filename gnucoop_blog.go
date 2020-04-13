@@ -155,7 +155,7 @@ See more at:
 A digital revolution offering broad participation and a multitude of new
 opportunities.
 
-<a title="Made in Africa - a true story about digital innovation" href="http://bit.ly/ZOvzRg">http://bit.ly/ZOvzRg</a>`,
+<a href="http://bit.ly/ZOvzRg">http://bit.ly/ZOvzRg</a>`,
 	},
 	{
 		Title:   "Mobile Health Technology: Key Practices for DRR Implementers #ict4d",
@@ -599,7 +599,7 @@ The system was developed in accordance to the guidelines established by the IMCI
 
 In addition to the point of care supporting function, this mhealth system provided also information and warnings about drugs stockouts and reminders about children needing follow up.
 
-<a href="https://www.gnucoop.com/wp-content/uploads/2014/12/mhealth.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2014/12/mhealth.jpg" alt="mhealth" width="275" height="183" /></a>
+<img src="https://www.gnucoop.com/wp-content/uploads/2014/12/mhealth.jpg" alt="mhealth" width="275" height="183" />
 
 Lesson learnt
 
@@ -731,7 +731,7 @@ For Ushahidi, these gatherings allow us to discover new users, new uses of our t
 
 And thank you very much for the lovely evening @AngieNicoleOD @Shadrocker and Michelle Hamilton-Page
 
-<a href="https://www.gnucoop.com/wp-content/uploads/2015/08/ushahidi-milan-meetup-july2015.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2015/08/ushahidi-milan-meetup-july2015-300x225.jpg" alt="ushahidi milan meetup july2015" width="300" height="225" /></a>`,
+<img src="https://www.gnucoop.com/wp-content/uploads/2015/08/ushahidi-milan-meetup-july2015-300x225.jpg" alt="ushahidi milan meetup july2015" width="300" height="225" />`,
 	},
 	{
 		Title:   "How Tech Can Help Services Respond to Citizens",
@@ -844,16 +844,16 @@ It was at Techfugees conference and hackathon, as well as code to the kingdom ha
 We will put you in touch with a refugee who fits you and your flat. When you register your flat we ask for some details about your living situation, such as the number of flatmates, the languages you speak, your city and surroundings etc.. This information will help us match hosts with refugees.
 Individuals all across Germany keep on signing up to help. To end of April more than 780 people have done so and we have therefore been able to place 26 refugees in private homes already.
 
-<a href="https://www.gnucoop.com/wp-content/uploads/2015/11/www.refugees-welcome.net_1.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2015/11/www.refugees-welcome.net_1.jpg" alt="www.refugees-welcome.net" width="696" height="352"></a>
+<img src="https://www.gnucoop.com/wp-content/uploads/2015/11/www.refugees-welcome.net_1.jpg" alt="www.refugees-welcome.net" width="696" height="352">
 
 <a href="http://www.refugeehero.com/">Refugee Hero</a> is a – mobile friendly – website with similar functionality to Airbnb. Heroes post a listing to accommodate a refugee. Listings can come from private heroes or from organizations opening up their facilities; such as churches, mosques, schools and universities. Refugees can directly access their data to make an appointment or the volunteers and government officials responsible can use Refugee Hero as an intermediary.
 
-<a href="https://www.gnucoop.com/wp-content/uploads/2015/11/www.refugeehero.com-1.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2015/11/www.refugeehero.com-1.jpg" alt="www.refugeehero.com-" width="696" height="268"></a>
+<img src="https://www.gnucoop.com/wp-content/uploads/2015/11/www.refugeehero.com-1.jpg" alt="www.refugeehero.com-" width="696" height="268">
 
 <a href="http://www.spare-room.org/">Spare Room</a> receives referrals of potential guests from established immigration and asylum advice agencies. We assess all referrals and we do not offer hospitality to those who have engaged in or actively supported violence. We aim to match guests with hosts offering a spare room.
 Could you offer a temporary home to someone forced to flee their home country who is not permitted to work and is denied state support in the UK?
 
-<a href="https://www.gnucoop.com/wp-content/uploads/2015/11/www.spare-room.org-.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2015/11/www.spare-room.org-.jpg" alt="www.spare-room.org-" width="740" height="248"></a>`,
+<img src="https://www.gnucoop.com/wp-content/uploads/2015/11/www.spare-room.org-.jpg" alt="www.spare-room.org-" width="740" height="248">`,
 	},
 	{
 		Title:   "You are changing the World. And we’d like to help you.",
@@ -904,26 +904,26 @@ As borders and routes constantly change, it becomes both more important and more
 Access to technology, information and communication, Šunjić said, is beginning to be regarded as a basic of humanitarian aid.
 Simpler access to information and existing services can reduce barriers to integration. Very often, this approach can also be solved with practical apps that can be used at a smartphone, here you can fin some examples..
 
- <a href="https://www.migreat.it/en/">Migr</a><a href="https://www.gnucoop.com/wp-content/uploads/2015/12/Migreat.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2015/12/Migreat.jpg" alt="Migreat" width="260" height="162" /></a><a href="https://www.migreat.it/en/">eat</a> is a platform where you can find all the information you need to get started, settle down and go beyond in a new country - made easily accessible in your own language.
+ <a href="https://www.migreat.it/en/">Migr</a><img src="https://www.gnucoop.com/wp-content/uploads/2015/12/Migreat.jpg" alt="Migreat" width="260" height="162" /><a href="https://www.migreat.it/en/">eat</a> is a platform where you can find all the information you need to get started, settle down and go beyond in a new country - made easily accessible in your own language.
 You can select your community to get news, articles and help settling in.
 Connect to your local micro-community in your own language. Let Migreat's ever-growing social community help you find your new ground
 
-<a href="https://play.google.com/store/apps/details?id=com.dvuckovic.asylumseeker&amp;hl=en">Asylum in Serbia</a> is an App that provide different informations about<a href="https://www.gnucoop.com/wp-content/uploads/2015/12/asylim-in-serbia.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2015/12/asylim-in-serbia.jpg" alt="asylim in serbia" width="300" height="245" /></a> Reception centers, Centers for asylum, News, Asylum, rights and law, Service information, Important phone numbers and Dictionary. 
+<a href="https://play.google.com/store/apps/details?id=com.dvuckovic.asylumseeker&amp;hl=en">Asylum in Serbia</a> is an App that provide different informations about<img src="https://www.gnucoop.com/wp-content/uploads/2015/12/asylim-in-serbia.jpg" alt="asylim in serbia" width="300" height="245" /> Reception centers, Centers for asylum, News, Asylum, rights and law, Service information, Important phone numbers and Dictionary. 
 
 It’s benn developed by Asylum Protection Center is humanitarian organization which provides legal, psychological, social, and humanitarian and integration help.
 
-<a href="http://www.refugeeaidapp.com/">The Refugee Aid App</a> p<a href="https://www.gnucoop.com/wp-content/uploads/2015/12/www.refugeeaidapp.com-.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2015/12/www.refugeeaidapp.com--293x300.jpg" alt="www.refugeeaidapp.com-" width="230" height="236" /></a>rovides a single point for refugees to find information, connection and support and a single point for NGOs and charities to share their resources with refugees - location based.
+<a href="http://www.refugeeaidapp.com/">The Refugee Aid App</a> p<img src="https://www.gnucoop.com/wp-content/uploads/2015/12/www.refugeeaidapp.com--293x300.jpg" alt="www.refugeeaidapp.com-" width="230" height="236" />rovides a single point for refugees to find information, connection and support and a single point for NGOs and charities to share their resources with refugees - location based.
 A web based content management and communication system will allow charities and NGOs to get their critical aid to where it is most urgently needed.
 
-Google has announced the launch of a <a href="https://refugeeinfo.eu/">Crisis Info Hub</a> to help refugees seeking asylum <a href="https://www.gnucoop.com/wp-content/uploads/2015/12/refugeeinfo.eu-.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2015/12/refugeeinfo.eu--300x209.jpg" alt="refugeeinfo.eu-" width="224" height="156" /></a>around the world by providing critical information for their journeys.
+Google has announced the launch of a <a href="https://refugeeinfo.eu/">Crisis Info Hub</a> to help refugees seeking asylum <img src="https://www.gnucoop.com/wp-content/uploads/2015/12/refugeeinfo.eu--300x209.jpg" alt="refugeeinfo.eu-" width="224" height="156" />around the world by providing critical information for their journeys.
 The initiative aims to make information on issues such as transport and lodging easily accessible on smartphones.
 
-<a href="https://www.gnucoop.com/wp-content/uploads/2015/12/Arriving-in-Berlin.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2015/12/Arriving-in-Berlin-300x175.jpg" alt="Arriving in Berlin" width="339" height="198" /></a>
+<img src="https://www.gnucoop.com/wp-content/uploads/2015/12/Arriving-in-Berlin-300x175.jpg" alt="Arriving in Berlin" width="339" height="198" />
 
 <a href="http://arriving-in-berlin.de/">Arriving in Berlin</a> is a guide for newcomers, a map made by refugees. The map is especially meant to support refugees in answering question like: Where in Berlin do I find free counseling servicesfor refugees? Where can I attend free German classes? Where can I find a doctor who speaks Farsi? Where do I find a library to read, study or have access to the Internet?
 It has been developed collectively over the course of several months, during workshops, conversations and reflections, translated into English, Arabic and Farsi, and published online, using an open source mapping tool. The “content” of the maps is based on both the personal experience of the working group as well as pro-active research.
 
-<a href="https://play.google.com/store/apps/details?id=com.migrationaid.infoaid">InfoAid</a> is a small and simple application with low data usage, running on smartphones <a href="https://www.gnucoop.com/wp-content/uploads/2015/12/InfoAid.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2015/12/InfoAid-300x229.jpg" alt="InfoAid" width="300" height="229" /></a>(currently only on Android, iOS in progress). After installation, current and important information checked by Migration Aid activists are displayed as messages, in the language selected by the user.
+<a href="https://play.google.com/store/apps/details?id=com.migrationaid.infoaid">InfoAid</a> is a small and simple application with low data usage, running on smartphones <img src="https://www.gnucoop.com/wp-content/uploads/2015/12/InfoAid-300x229.jpg" alt="InfoAid" width="300" height="229" />(currently only on Android, iOS in progress). After installation, current and important information checked by Migration Aid activists are displayed as messages, in the language selected by the user.
 InfoAid provides users with information in the following fields:
 what rules apply to them;
 where they can receive care, what is going on in transport;
@@ -943,7 +943,7 @@ The refugee crisis is complex... and so is the tech industry response to it.</bl
 Volunteers, donors and organisations: we have moved!
 You can find <a href="http://refugees.sahana.io/eden/default/about">here</a> the project description document, where you can find important information about the software solution(s) the SSF is building and making available to people engaged in the work of assisting refugees in Europe.
 
-<a href="https://www.gnucoop.com/wp-content/uploads/2016/01/Certerro-NGO-360x738.png"><img src="https://www.gnucoop.com/wp-content/uploads/2016/01/Certerro-NGO-360x738-146x300.png" alt="Certerro NGO-360x738" width="186" height="360" /></a> <a href="http://www.carterro.com/migrant-resources/">Carterro</a> combines team communication with location based content to provide a new way to coordinate with co-workers, friends or family. Carterro makes data collection easy for teams that work in multiple locations.
+<img src="https://www.gnucoop.com/wp-content/uploads/2016/01/Certerro-NGO-360x738-146x300.png" alt="Certerro NGO-360x738" width="186" height="360" /> <a href="http://www.carterro.com/migrant-resources/">Carterro</a> combines team communication with location based content to provide a new way to coordinate with co-workers, friends or family. Carterro makes data collection easy for teams that work in multiple locations.
 
 For Nonprofits and Aid Organizations
 You can show people in need where they can safely stop for supplies and resources in few simple steps:
@@ -957,11 +957,11 @@ create new channel;
 communicate privately with family members to help them navigate to their new life;
 create pins with our sample icons or take photos and video of what is happening in the area.
 
-<a href="https://www.gnucoop.com/wp-content/uploads/2016/01/refugeemaps.org_4.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2016/01/refugeemaps.org_4-300x235.jpg" alt="refugeemaps.org" width="300" height="235" /></a> <a href="http://refugeemaps.org/">RefugeeMaps.Org</a> is an independent project that uses geospatial and technical knowledge to help support the humanitarian network for the refugee crisis in Europe.
+<img src="https://www.gnucoop.com/wp-content/uploads/2016/01/refugeemaps.org_4-300x235.jpg" alt="refugeemaps.org" width="300" height="235" /> <a href="http://refugeemaps.org/">RefugeeMaps.Org</a> is an independent project that uses geospatial and technical knowledge to help support the humanitarian network for the refugee crisis in Europe.
 RefugeeMaps was launched in September 2015 by @PranMan and @GeoMeteoMe. It extended@trisday and Calais Action‘s previous work on Google Maps and has developed into
 an online application that addresses the need for the visual display of grassroots activity.
 
-<a href="https://www.gnucoop.com/wp-content/uploads/2016/01/www.kricket.co-.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2016/01/www.kricket.co--191x300.jpg" alt="www.kricket.co-" width="191" height="300" /></a> <a href="http://www.kricket.co/">Kricket</a> is a map-based, anonymous network helping refugees find safety and resources through crowdsourced geotagged information.
+<img src="https://www.gnucoop.com/wp-content/uploads/2016/01/www.kricket.co--191x300.jpg" alt="www.kricket.co-" width="191" height="300" /> <a href="http://www.kricket.co/">Kricket</a> is a map-based, anonymous network helping refugees find safety and resources through crowdsourced geotagged information.
 It helps refugees, volunteers, NGOs, and you communicate on a community map.
 This is how it works:
 - Everyone can "tag" their current location with an icon/photo and comment
@@ -971,7 +971,7 @@ This is how it works:
 - Kricket has curated safe locations on the map, through collaboration with several NGOs aiding refugees.
 - Kricket is 100% free for everyone, forever.
 
-<a href="https://www.gnucoop.com/wp-content/uploads/2016/01/volunteer-planner.org-.jpg"><img src="https://www.gnucoop.com/wp-content/uploads/2016/01/volunteer-planner.org--300x176.jpg" alt="volunteer-planner.org-" width="300" height="176" /></a> <a href="https://volunteer-planner.org/">Volunteer-Planner.org</a> shows you where, when and how to help directly in the field.
+<img src="https://www.gnucoop.com/wp-content/uploads/2016/01/volunteer-planner.org--300x176.jpg" alt="volunteer-planner.org-" width="300" height="176" /> <a href="https://volunteer-planner.org/">Volunteer-Planner.org</a> shows you where, when and how to help directly in the field.
 This platform is non-commercial and ads-free. An international team of field workers, programmers, project managers and designers are volunteering for this project and bring in their professional experience to make a difference.
 
 You can:
@@ -994,7 +994,7 @@ for free without costs.`,
 
 <img src="https://www.gnucoop.com/wp-content/uploads/2016/02/refugeeprojects.com-map-300x258.jpg" alt="refugeeprojects.com-map" width="300" height="258" /> <a href="http://refugeeprojects.com/">Refugeeprojects</a> is an app that centralizes refugee crisis initiatives so you can easily find a project that meets your needs. The solution is  to create a free-open source platform that centralizes all of the initiatives of the refugee crisis in one place. Use human-centered design to make the application meet real human needs.
 
-Who, what, Where<a href="http://simonbjohnson.github.io/europe-refugees-16-3w/"></a> Who is doing what and where in the European Refugee response. Collected by <a href="http://blog.standbytaskforce.com/">Standby Task Force</a>. 
+<a href="http://simonbjohnson.github.io/europe-refugees-16-3w/">Who, what, Where</a>, Who is doing what and where in the European Refugee response. Collected by <a href="http://blog.standbytaskforce.com/">Standby Task Force</a>. 
 Projects about refugees crisis and management are complex as many indicators and variables need to be monitored at the same time and they may concern very different sectors of intervention: from food security and shelter management to wash and sanitation infrastructure and capacity building activities. The 3W platforms are usually built from a 3W matrix (“Who is doing What and Where“) , a well-known global tool used by humanitarian organisations to capture data from the field  and manage cluster data. The matrix is then used to generate several types of information products: from maps to graphs and tables. 3W applications provide decision makers and project managers with an easy to use system to keep control over current activities and plan future ones in a specific region.`,
 	},
 	{
@@ -1115,7 +1115,9 @@ Beyond that we should consider that going digital has the potential to fundament
 
 Here we’ll show how in the recent Refugee Crisi it’s crossing Europe, the tech community responds to this emergency ad develope some ideas to create a link between refugees and job market.
 
-<a href="http://incubatorsforimmigrants.com/"><img src="https://www.gnucoop.com/wp-content/uploads/2016/07/logo-Inc_for_im_logo_diap-300x75-1.jpg" alt="logo-Inc_for_im_logo_diap-300x75" width="276" height="89" />Incubators for Immigrants</a> has been founded by a group of like-minded entrepreneurs, who agreed that a positive action had to take place instead of the endless conversations. By using another constructive way to look at ‘the problem’, they discovered that enterprising refugees could get a (temporarily) residence permit faster than usual if they would be a serious entrepreneur in the Netherlands. Incubators for Immigrants removes the bureaucracy that is involved with the foreign start-ups and with that they give refugees the same opportunities as Dutch entrepreneurs. A solution based on the fact that every human being has the same rights to free establishments and equal opportunities, including refugees who have arrived in the Netherlands.
+<img src="https://www.gnucoop.com/wp-content/uploads/2016/07/logo-Inc_for_im_logo_diap-300x75-1.jpg" alt="logo-Inc_for_im_logo_diap-300x75" width="276" height="89" />
+
+<a href="http://incubatorsforimmigrants.com/">Incubators for Immigrants</a> has been founded by a group of like-minded entrepreneurs, who agreed that a positive action had to take place instead of the endless conversations. By using another constructive way to look at ‘the problem’, they discovered that enterprising refugees could get a (temporarily) residence permit faster than usual if they would be a serious entrepreneur in the Netherlands. Incubators for Immigrants removes the bureaucracy that is involved with the foreign start-ups and with that they give refugees the same opportunities as Dutch entrepreneurs. A solution based on the fact that every human being has the same rights to free establishments and equal opportunities, including refugees who have arrived in the Netherlands.
 
 <img src="https://www.gnucoop.com/wp-content/uploads/2016/07/science4refugess_banner-150x150.jpg" alt="science4refugess_banner" width="156" height="156" /><a href="http://ec.europa.eu/euraxess/index.cfm/jobs/science4refugees">Science4Refugees</a> is an initiative launched by European Commission the to help refugee scientists and researchers find suitable jobs that both improve their own situation and put their skills and experience to good use in Europe's research system.
 Science4Refugees is accessible to refugees and institutions through the EURAXESS - Researchers in Motion portal, a pan-European initiative providing access to a complete range of information and support services to researchers wishing to find jobs and pursue their research careers in Europe.
@@ -1854,7 +1856,7 @@ Per far fronte a questo limite, l’iniziativa adotta un approccio ad hoc di inn
 Il servizio SMS sarà presentato alle istituzioni locali e proposto alle compagnie telefoniche funzionanti in loco per l’attivazione di un possibile accordo di  partenariato che ne possa ulteriormente ridurre i costi - in un’ottica di partnership win-win di responsabilità sociale d’impresa.
 Sviluppo di una piattaforma di raccolta e analisi dei dati relativi al progetto e per monitoraggio delle attività.
 Gli aspetti presi in considerazione saranno di carattere quantitativo e qualitativo. La raccolta dei dati sarà garantita da una risorsa dedicata all’interno dello staff locale (M&amp;E Officer) che si occuperà, col coordinatore del progetto e il consulente incaricato della valutazione, della baseline survey per poi proseguire alla verifica dell’andamento delle attività attraverso la raccolta trimestrale dei dati.
-Nella <a style="color: #008000;" href="https://www.manitese.it/progetto/quelimane-agricola-produce-cresce-consuma-sostenibile/">pagina dedicata al progetto</a> potete trovare maggiori dettagli e la possibilità di supportarlo!
+Nella <a href="https://www.manitese.it/progetto/quelimane-agricola-produce-cresce-consuma-sostenibile/">pagina dedicata al progetto</a> potete trovare maggiori dettagli e la possibilità di supportarlo!
 <img src="https://www.gnucoop.com/wp-content/uploads/2018/08/QUELIMANE_FOOTER_ita.jpg" alt="" width="794" height="284" />
 
 Qui la lista dei partners di progetto:
@@ -2016,7 +2018,7 @@ Modera: Christian Elevati, Changelab
 13.30 - 14.30 Networking (light) lunch
 
 La partecipazione all'evento è gratuita perchè inserita all'interno dell'iniziativa Innovazione per lo sviluppo promossa da Fondazione Cariplo e Compagnia di San Paolo.
-<h3>Per iscriversi cliccare <a style="color: #0000ff;" href="https://docs.google.com/forms/d/e/1FAIpQLSd-UXvnH5G-04DEAuWQbHg8ml6NGACe6tla-4w38IWN0ShEiA/viewform">qui </a></h3>
+<h3>Per iscriversi cliccare <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-UXvnH5G-04DEAuWQbHg8ml6NGACe6tla-4w38IWN0ShEiA/viewform">qui </a></h3>
 
 Su questi temi, la centralità dei dati ed alcuni aspetti della valutazione, abbiamo pensato di proporvi inoltre <a href="https://www.info-cooperazione.it/2019/09/data-revolution-nella-cooperazione-a-che-punto-siamo/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.info-cooperazione.it/2019/09/data-revolution-nella-cooperazione-a-che-punto-siamo/&amp;source=gmail&amp;ust=1568270267495000&amp;usg=AFQjCNGKkJ6RS_1cuc1OafQw-OwzMd-szw">alcuni spunti di riflessione ed un breve questionario online </a>che ci possa aiutare a mettere insieme una fotografia dello stato dell'arte nel mondo della cooperazione in Italia.`,
 	},
@@ -2025,7 +2027,7 @@ Su questi temi, la centralità dei dati ed alcuni aspetti della valutazione, abb
 		Slug:    "a-chi-serve-la-valutazione-il-valore-dei-dati-fra-nuove-tecnologie-questioni-etiche-e-innovazione-sociale",
 		Excerpt: "",
 		Content: `
-A pochi giorni dalla pubblicazione in gazzetta ufficiale delle linee guida per la valutazione di impatto degli ETS, si è tenuta a milano la tavola rotonda “A chi serve la valutazione? Il valore dei dati fra nuove tecnologie, questioni etiche e innovazione sociale” organizzata da CIAI, Changelab e Gnucoop all’interno dell’iniziativa <a style="color: #0000ff;" href="https://innovazionesviluppo.org/">“Innovazione per lo sviluppo”</a>  di Fondazione Cariplo e Compagnia di S. Paolo.
+A pochi giorni dalla pubblicazione in gazzetta ufficiale delle linee guida per la valutazione di impatto degli ETS, si è tenuta a milano la tavola rotonda “A chi serve la valutazione? Il valore dei dati fra nuove tecnologie, questioni etiche e innovazione sociale” organizzata da CIAI, Changelab e Gnucoop all’interno dell’iniziativa <a href="https://innovazionesviluppo.org/">“Innovazione per lo sviluppo”</a>  di Fondazione Cariplo e Compagnia di S. Paolo.
 
 Circa 40 persone hanno partecipato ad una mattinata di dibattito e approfondimento su temi che in questo momento si trovano al centro della discussione sulla cooperazione allo sviluppo. Sono intervenuti Federico Mento (<a href="http://www.socialvalueitalia.it/">Social Value Italia</a>) Federico Bastia (<a href="https://www.puntosud.org/">Fondazione Punto.sud</a>), Margherita Romanelli (<a href="https://www.weworld-gvc.it/it">GVC-Weworld</a>) e Enrico Testi (<a href="http://www.arcolab.org">ARCOLab</a>), moderati da Christian Elevati. 
 
@@ -2035,11 +2037,11 @@ Nonostante questo, la discussione ha permesso di mettere in evidenza alcune prob
 
 E’ chiaro che tali questioni riguardano l’intero ecosistema della cooperazione, dai donatori, ai beneficiari, passando per l’opinione pubblica e i media. L’impressione è che nella risposta a tali questioni si nasconda non poco del futuro della cooperazione internazionale ed è prevedibile che delle risposte potranno essere identificate soltanto all’interno di un percorso di almeno medio periodo. Un elemento importante in questo percorso sarà la capacità delle ONG di proporre loro stesse dei modelli innovativi di valutazione che siano efficienti, economici e tecnologicamente al passo con i tempi, andando oltre un approccio di mera compliance.
 
-E’ proprio questa impostazione che il corso <a style="color: #0000ff;" href="https://academy.gnucoop.com/course/view.php?id=2">“From Paper to Tablet”</a> cerca di proporre, fornendo gli strumenti concreti per affrontare la valutazione con spirito rinnovato.
+E’ proprio questa impostazione che il corso <a href="https://academy.gnucoop.com/course/view.php?id=2">“From Paper to Tablet”</a> cerca di proporre, fornendo gli strumenti concreti per affrontare la valutazione con spirito rinnovato.
 
-E’ ancora possibile iscriversi al corso cliccando <a style="color: #0000ff;" href="https://docs.google.com/forms/d/e/1FAIpQLSexE-fB6rY6Q7YI0V5hSvg3Gw0yTdLTEmviEq3szPTvQW8m3g/viewform">qui</a>.
+E’ ancora possibile iscriversi al corso cliccando <a href="https://docs.google.com/forms/d/e/1FAIpQLSexE-fB6rY6Q7YI0V5hSvg3Gw0yTdLTEmviEq3szPTvQW8m3g/viewform">qui</a>.
 
-La registrazione integrale dell’evento è <a style="color: #0000ff;" href="https://vimeo.com/362997069">qui</a>.
+La registrazione integrale dell’evento è <a href="https://vimeo.com/362997069">qui</a>.
 `,
 	},
 	{
@@ -2047,7 +2049,7 @@ La registrazione integrale dell’evento è <a style="color: #0000ff;" href="htt
 		Slug:    "ai-per-contrastare-le-cause-dello-sfruttamento-del-lavoro-minorile",
 		Excerpt: "",
 		Content: `
-Martedì 1 ottobre dalle 11 alle 12, nell'ambito del <a style="color: #808080;" href="http://www.csreinnovazionesociale.it">Salone della CSR e dell'Innovazione Sociale</a>, in programma a Milano presso l'Università Bocconi, il direttore di <a style="color: #808080;" href="https://www.ciai.it">CIAI </a>Francesca Silva, interverrà nell'incontro <a style="color: #808080;" href="http://www.csreinnovazionesociale.it/evento/tecnologia-innovazione-sostenibilita/">“Tecnologia, innovazione, sostenibilità”</a> illustrando l'esperienza di CIAI in Burkina Faso con il progetto <a style="color: #808080;" href="https://www.ciai.it/saro-bambino/picaps/">PICAPS.</a>
+Martedì 1 ottobre dalle 11 alle 12, nell'ambito del <a href="http://www.csreinnovazionesociale.it">Salone della CSR e dell'Innovazione Sociale</a>, in programma a Milano presso l'Università Bocconi, il direttore di <a href="https://www.ciai.it">CIAI </a>Francesca Silva, interverrà nell'incontro <a href="http://www.csreinnovazionesociale.it/evento/tecnologia-innovazione-sostenibilita/">“Tecnologia, innovazione, sostenibilità”</a> illustrando l'esperienza di CIAI in Burkina Faso con il progetto <a href="https://www.ciai.it/saro-bambino/picaps/">PICAPS.</a>
 <h3>Intro</h3>
 Per questo progetto la sfida è stata quella di identificare correttamente il genere maschile o femminile dei bambini fotografati all’interno di un’aula scolastica. La scelta è stata di usare le reti neurali artificiali, attingendo al ricco strumentario open-source in materia di Deep Learning.
 L’attività descritta è un problema di “classificazione”, in quanto abbiamo due classi (maschi e femmine) alle quali è possibile associare una data immagine.
