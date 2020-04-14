@@ -30,6 +30,11 @@ func slugOf(title string) string {
 	return title
 }
 
+func excerptOf(content string) string {
+	n := strings.Index(content, "\n")
+	return content[0 : n+1]
+}
+
 var (
 	token  string
 	client http.Client
