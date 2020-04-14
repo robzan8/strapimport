@@ -147,11 +147,10 @@ See more at:
 	{
 		Title:   "Made in Africa - a true story about digital innovation",
 		Slug:    "made-in-africa-a-true-story-about-digital-innovation",
-		Excerpt: "<img src=\"https://images.indiegogo.com/file_attachments/759290/files/20140801075636-1450304_536649559757269_1500006690_n.jpg?1406904996\" alt=\"\" width=\"486\" height=\"274\" />\n",
+		Excerpt: "A digital revolution offering broad participation and a multitude of new opportunities.\n",
 		Content: `<img src="https://images.indiegogo.com/file_attachments/759290/files/20140801075636-1450304_536649559757269_1500006690_n.jpg?1406904996" alt="" width="486" height="274" />
 
-A digital revolution offering broad participation and a multitude of new
-opportunities.
+A digital revolution offering broad participation and a multitude of new opportunities.
 
 [http://bit.ly/ZOvzRg](http://bit.ly/ZOvzRg)`,
 	},
@@ -620,7 +619,6 @@ For more tips on mhealth projects, read the toolkit:
 Much of this adaptation will occur outside traditional humanitarian assistance forums.
 The most efficient ways to use technology to support communities will be found in their use of technology. If aid organizations are willing to listen, learn and encourage innovation on the front lines, they can play a critical role in building a more inclusive and more effective humanitarian system.
 [OCHA study full text available in pdf](http://bit.ly/1wZyNLV)
-<img src="ANd9GcQ8Vq6iDVDpgXbNh9407yGNrnykb75X6eBQyS0A7_bdclNTieiGpw.jpg" width="240" height="160" />
 The document is well summarized by Patrick Meier [on this blog post](http://bit.ly/1zbAbRl)`,
 	},
 	{
