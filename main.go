@@ -31,6 +31,7 @@ func slugOf(title string) string {
 }
 
 func excerptOf(content string) string {
+	// todo: remove images
 	n := strings.Index(content, "\n")
 	return content[0 : n+1]
 }
