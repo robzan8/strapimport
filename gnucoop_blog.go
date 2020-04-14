@@ -1589,7 +1589,7 @@ Photo Credit: COOPI Haiti
 
 The training was addressed to COOPI staff and to [CNIGS Haiti](https://www.cnigs.ht/) (Centre National de l'Information Géo-Spatiale), for Administrators and Users.We asked COOPI coordinator in Haiti to give us some feedback about the training: 
 
-“*Participants raised very relevant questions, including the possibility of having a super admin who managed all the users permissions, the possibility of sharing their own work sessions with other users (or with the public) and even some criticism. **The platform was well-received and our intention as COOPI is to upload even more data from other municipalities from the south and the west. CNIGS asked to import all the data from other platforms to YAGO*”.
+“*Participants raised very relevant questions, including the possibility of having a super admin who managed all the users permissions, the possibility of sharing their own work sessions with other users (or with the public) and even some criticism. The platform was well-received and our intention as COOPI is to upload even more data from other municipalities from the south and the west. CNIGS asked to import all the data from other platforms to YAGO*”.
 
 COOPI’s project “Open data and web mapping platform to reduce disaster risk in Haiti”, for which we developed the platform, was among the top ten in the [2017 Risk Award](http://www.risk-award.org/).
 
