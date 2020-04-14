@@ -506,9 +506,7 @@ To help overcome these issues, we need to share more examples of best-practice a
 to Guinea has succeeded in supporting the emergency response and
 furthering the strategic goals defined in the GIS Strategy.
 
-[http://bit.ly/1z1RPmP](http://bit.ly/1z1RPmP)
-
-![](images/ANd9GcQXYIon7QoITTBEUVfVIoZiB5pSK8czK0b9CsuSln5xtlUtE_mkmg.jpg)`,
+[http://bit.ly/1z1RPmP](http://bit.ly/1z1RPmP)`,
 	},
 	{
 		Title:   "Gnucoop and GIS applications",
@@ -633,8 +631,6 @@ The document is well summarized by Patrick Meier [on this blog post](http://bit.
 
 Crowdfunding is a collective effort of a group of individuals networking and pooling their resources for a specific project initiated by other people. This is usually done via or with the help of the Internet. Single projects are usually financed through small contributions from a large number of individuals. This is a more casual, yet powerful, approach based on crowd participation as well as an alternative method to specialised grant applications or more formal and traditional fundraising techniques.
 
-![](images/ANd9GcSnu1R9o1JD-nwcqHv4GD0xlyDdRGxegJvYKKe2UYGNYyEOeq49.jpg)
-
 Do NGOs use crowdfunding to fund their developing projects?
 
 Most of the projects published on ‘Produzioni dal basso’ are submitted by single individuals or small/local associations. However crowdfunding can also be an interesting tool for NGOs to fundraise money for their projects. Although this way of fundraising is not yet very popular among NGOs, there are some interesting aspects related to the use of crowdfunding by NGOs:
@@ -684,8 +680,6 @@ The rapid expansion of mobile phones and internet access in poor countries offer
 
 “The digital agenda is becoming a ‘must do’, rather than a ‘nice to do’. We’re being asked to do more with less or the same and the only way to do this is to do things differently – including through digital” 
 Tim Robinson, DFID NED
-
-![](images/ANd9GcRQ6JcP9NqCY4vZHU5xf8U8cnZCEI-GcUjNjXjAgw9EghgDu9EtdQ.jpg)
 
 The basic attributes of digital technologies (also refered to in international development
 circles as Information and Communication Technologies for Development (ICT4D)) are:
