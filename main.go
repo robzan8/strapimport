@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"encoding/xml"
 	"flag"
 	"fmt"
 	"io"
@@ -14,8 +15,16 @@ import (
 	"strings"
 )
 
+type Blog struct {
+	Articles []Article `xml:"channel>item"`
+}
+
 type Article struct {
-	Title, Slug, Excerpt, Content string
+	Title        string `xml:"title"`
+	Slug         string `xml:"-"`
+	FeatureImage string `xml:"featureImage"`
+	Excerpt      string `xml:"excerpt"`
+	Content      string `xml:"content"`
 }
 
 func slugOf(title string) string {
@@ -48,7 +57,32 @@ func main() {
 	flag.Parse()
 	log.SetFlags(0)
 
-	postImages()
+	var blogg Blog
+	f, err := os.Open("gnucoop_blog.xml")
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer f.Close()
+	dec := xml.NewDecoder(f)
+	err = dec.Decode(&blogg)
+	if err != nil {
+		log.Fatal(err)
+	}
+	log.Println(blogg.Articles[0])
+	for i := range blog {
+		article := &blog[i]
+		article.FeatureImage = findFeatureImage(&blogg, article.Title)
+	}
+	dumpBlog()
+}
+
+func findFeatureImage(b *Blog, title string) string {
+	for _, article := range b.Articles {
+		if article.Title == title {
+			return article.FeatureImage
+		}
+	}
+	return ""
 }
 
 func downloadImages() {
@@ -104,9 +138,10 @@ func dumpBlog() {
 	f.WriteString("var blog = []Article{\n")
 	for _, article := range blog {
 		f.WriteString("\t{\n")
-		fmt.Fprintf(f, "\t\tTitle:   %q,\n", article.Title)
-		fmt.Fprintf(f, "\t\tSlug:    %q,\n", article.Slug)
-		fmt.Fprintf(f, "\t\tExcerpt: %q,\n", article.Excerpt)
+		fmt.Fprintf(f, "\t\tTitle:        %q,\n", article.Title)
+		fmt.Fprintf(f, "\t\tSlug:         %q,\n", article.Slug)
+		fmt.Fprintf(f, "\t\tFeatureImage: %q,\n", article.FeatureImage)
+		fmt.Fprintf(f, "\t\tExcerpt:      %q,\n", article.Excerpt)
 		f.WriteString("\t\tContent: `")
 		f.WriteString(article.Content)
 		f.WriteString("`,\n")
