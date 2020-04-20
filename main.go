@@ -47,6 +47,22 @@ func main() {
 	flag.StringVar(&token, "token", "", "auth token")
 	flag.Parse()
 	log.SetFlags(0)
+
+	imgSrcExp, err := regexp.Compile(`!\[\]\(([^\)]+)\)`)
+	if err != nil {
+		log.Fatal(err)
+	}
+	for i := range blog {
+		article := &blog[i]
+		if article.FeatureImage != "" {
+			continue
+		}
+		matches := imgSrcExp.FindAllStringSubmatch(article.Content, -1)
+		if len(matches) > 0 {
+			article.FeatureImage = matches[0][1]
+		}
+	}
+	dumpBlog()
 }
 
 func downloadImages() {

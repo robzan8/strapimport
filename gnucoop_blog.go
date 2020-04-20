@@ -53,7 +53,7 @@ https://www.gnucoop.com/mobile-health-technology-key-practices-for-drr-implement
 	{
 		Title:        "Tratti di china: a Chinese audio blog!",
 		Slug:         "tratti-di-china-a-chinese-audio-blog",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2017/07/ritratto-di-Confucio_Huang-Shen_din-Qing_museo-di-Shanghai-576x1024.jpg",
 		Excerpt:      "",
 		Content: `Teaching culture is essential to language teaching and learning. Teacher's should have been taught culture as well when they were learning the language themselves. Therefore it should not be a problem to them. And what if his formation was not ideal? This teacher has many resources today to acquire more knowledge about that culture or of some culture of countries that uses that language he is teaching. When teaching international students Mandarin, teachers should not just teach the language, grammar, but the Chinese cultural dissemination needs to be included as well, which is extremely important because the language reflects the cultural exchange. Culture is a necessary condition for language learning, which can help students better understand Chinese.
 
@@ -78,7 +78,7 @@ Symbol of good luck on a Chinese doorAuthors.
 	{
 		Title:        "UNHCR Livelihoods-Energy Information System",
 		Slug:         "unhcr-livelihoodsenergy-information-system",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/09/home_0-1024x485.png",
 		Excerpt:      "",
 		Content: `Thanks to the last two years of collaboration with the Health sector, the UNHCR commissioned us to develop a web application for data display/analysis of Livelihood and Energy data from refugee camps worldwide.
 
@@ -108,7 +108,7 @@ The Energy platform is available here [https://eis.unhcr.org/data](https://eis.u
 	{
 		Title:        "Good data & data sharing in humanitarian context",
 		Slug:         "good-data-data-sharing-in-humanitarian-context",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/11/WhatsApp-Image-2018-10-30-at-4.51.30-PM.jpeg",
 		Excerpt:      "",
 		Content: `Gnucoop took part to the GeOnG2018, en event organized every 2 years by Cartong. 
 The event included workshops, round tables and group works on the topic of good data and data sharing in the humanitarian context. It was a great occasion to meet some NGOs, digital innovators and companies promoting innovations in the humanitarian sector.
@@ -153,7 +153,7 @@ See more at:
 	{
 		Title:        "Made in Africa - a true story about digital innovation",
 		Slug:         "made-in-africa-a-true-story-about-digital-innovation",
-		FeatureImage: "",
+		FeatureImage: "https://images.indiegogo.com/file_attachments/759290/files/20140801075636-1450304_536649559757269_1500006690_n.jpg?1406904996",
 		Excerpt:      "",
 		Content: `A digital revolution offering broad participation and a multitude of new opportunities.
 
@@ -173,7 +173,7 @@ See more at:
 	{
 		Title:        "Empowering farmers through mobile communication in west Africa",
 		Slug:         "empowering-farmers-through-mobile-communication-in-west-africa",
-		FeatureImage: "",
+		FeatureImage: "http://i.guim.co.uk/static/w-620/h--/q-95/sys-images/Guardian/Pix/pictures/2014/10/22/1413975198938/3e4d0d20-b97b-459c-a626-2d3839b85fa8-620x372.jpeg",
 		Excerpt:      "",
 		Content: `Farmerline’s mobile messaging platform allows governments, development partners and businesses to provide farmers with crop management updates faster and at low cost through outgoing messages (voice/SMS) and mobile surveys to ensure that they receive the right information for increasing yields.
 
@@ -193,7 +193,7 @@ See more at:
 	{
 		Title:        "The Digital Development Opportunity",
 		Slug:         "the-digital-development-opportunity",
-		FeatureImage: "",
+		FeatureImage: "http://blog.usaid.gov/wp-content/uploads/2014/10/000_HKG2005050361202.jpg",
 		Excerpt:      "",
 		Content: `As we near the 2015 deadline of the Millennium Development Goals, we must accelerate progress. For our Agency, new technologies and partnerships have created unprecedented opportunities to end extreme poverty and promote resilient, democratic societies.
 
@@ -204,7 +204,7 @@ See more at:
 	{
 		Title:        "Embracing new technology for data collection in Zambia #ict4d",
 		Slug:         "embracing-new-technology-for-data-collection-in-zambia-ict4d",
-		FeatureImage: "",
+		FeatureImage: "http://www.ifrc.org/Global/Photos/Africa/201410/20141024_Zambia_RAMP_main1.jpg",
 		Excerpt:      "",
 		Content: `“When we want to monitor and evaluate a project, we need quality data, but this is often a challenge due to time restraints. The International Federation of Red Cross and Red Crescent Societies (IFRC) is looking to technology to help us remove some of the barriers to good data collection and analysis,”
 
@@ -235,7 +235,7 @@ TCW’s successful transformation from a simple Digital Literacy Campaign for Wo
 	{
 		Title:        "New GSN Case Study: Digital Humanitarian Network #ict4d",
 		Slug:         "new-gsn-case-study-digital-humanitarian-network-ict4d",
-		FeatureImage: "",
+		FeatureImage: "http://gsnetworks.org/wp-content/uploads/digitalhumanitariannetwork.jpg",
 		Excerpt:      "",
 		Content: `Gnucoop is member of the Digital Humanitarian Network, a worldwide technical community providing technical support during emergencies and humanitarian crisis.
 
@@ -283,7 +283,7 @@ To view our data management project, click here: [https://www.gnucoop.com/gic-p
 	{
 		Title:        "How The Tech Sector Can Help Stop Ebola #ict4d",
 		Slug:         "how-the-tech-sector-can-help-stop-ebola-ict4d",
-		FeatureImage: "",
+		FeatureImage: "http://tctechcrunch2011.files.wordpress.com/2014/10/screen-shot-2014-10-29-at-9-58-23-am.png?w=738",
 		Excerpt:      "",
 		Content: `In our highly interconnected world, stopping Ebola is on everyone’s mind. The tech community has a significant role to play in the response because it offers solutions that can scale at the same rate as Ebola’s exponential growth.
 
@@ -294,7 +294,7 @@ To view our data management project, click here: [https://www.gnucoop.com/gic-p
 	{
 		Title:        "#ICT4D’s 95:5 Rule",
 		Slug:         "ict4ds-955-rule",
-		FeatureImage: "",
+		FeatureImage: "https://ict4dblog.files.wordpress.com/2014/10/95-5-graphic.jpg?w=595&amp;h=394",
 		Excerpt:      "",
 		Content: `Typical consumption-related uses of ICTs touch 95% of people but make only a 5% difference to their livelihoods.  This covers “intensive” application of ICTs: their use to intensify an existing livelihood.
 
@@ -318,7 +318,7 @@ Some countries are already recognizing the opportunity presented by these techno
 	{
 		Title:        "Challenges and Opportunities for #mHealth in Kenya",
 		Slug:         "challenges-and-opportunities-for-mhealth-in-kenya",
-		FeatureImage: "",
+		FeatureImage: "http://cdn8.techchange.org/wp-content/uploads/2014/11/mHealth-Kenya-photo-2.jpg",
 		Excerpt:      "",
 		Content: `Few challenges in mHealth interventions:
 
@@ -357,7 +357,7 @@ It aims to improve the flow of information, availability and access, and local d
 	{
 		Title:        "Smart slums: utopian or dystopian vision of the future?#ict4d",
 		Slug:         "smart-slums-utopian-or-dystopian-vision-of-the-futureict4d",
-		FeatureImage: "",
+		FeatureImage: "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/10/6/1412585806335/dc9c0c2e-b0f1-464f-8e9f-d7aa6a516565-460x276.jpeg",
 		Excerpt:      "",
 		Content: `The idea of the smart city is a vision of a networked urbanism. The promise is that environmental monitoring and feedback from embedded sensors everywhere will simultaneously deliver greener and more productive cities.
 
@@ -370,7 +370,7 @@ The smart slum also makes sense as a way to bridge the infrastructure gap; by ad
 	{
 		Title:        "What the Data Revolution Means for Global #Development and #M&E",
 		Slug:         "what-the-data-revolution-means-for-global-development-and-me",
-		FeatureImage: "",
+		FeatureImage: "http://cdn6.techchange.org/wp-content/uploads/2014/09/World-Bank-Data-Visualizer.jpg",
 		Excerpt:      "",
 		Content: `Using technology-enabled M&amp;E effectively will allow development implementers to prove program efficacy more quickly and easily. Programs can adapt activities on the basis of real time M&amp;E, providing more benefit to beneficiaries. Global indicators can be used to show impact throughout multiple projects. Visualizations, such as maps, can present the wealth of data collected into an easily understood form.
 
@@ -381,7 +381,7 @@ The smart slum also makes sense as a way to bridge the infrastructure gap; by ad
 	{
 		Title:        "Mobile Phones Drive Women's Economic Empowerment in #developingcountries",
 		Slug:         "mobile-phones-drive-womens-economic-empowerment-in-developingcountries",
-		FeatureImage: "",
+		FeatureImage: "http://images.huffingtonpost.com/2014-11-04-Langdon_140205_6500-thumb.jpg",
 		Excerpt:      "",
 		Content: `SMS on mobile phones can literally transform lives as it is a cost effective and efficient way to deliver information and skills to women entrepreneurs in rural areas.
 
@@ -414,7 +414,7 @@ To quote the World Bank: "Mobile applications not only empower individual users,
 	{
 		Title:        "SANTE & REDUCTION DES RISQUES DE CATASTROPHES",
 		Slug:         "sante-reduction-des-risques-de-catastrophes",
-		FeatureImage: "",
+		FeatureImage: "http://i4.rgstatic.net/publication/265412242_SANTE__REDUCTION_DES_RISQUES_DE_CATASTROPHES-RAPPORT_DE_CAPITALISATION_Programme_de_Mdecins_du_Monde__Madagascar_2008-2013/links/540ddba00cf2df04e756a85e/preview.png",
 		Excerpt:      "",
 		Content: `This report capitalizes on a DIPECHO programme led by Médecins du Monde in Madagascar between 2008 and 2013. Based on conceptual litterature and examples from the field, it explores links between DRR and health for a humanitarian actor.
 
@@ -425,7 +425,7 @@ To quote the World Bank: "Mobile applications not only empower individual users,
 	{
 		Title:        "Missing #maps: nothing less than a human genome project for cities",
 		Slug:         "missing-maps-nothing-less-than-a-human-genome-project-for-cities",
-		FeatureImage: "",
+		FeatureImage: "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/10/2/1412245415449/69ef8b14-e43c-4ae0-bd2c-9ac60af35d07-460x276.jpeg",
 		Excerpt:      "",
 		Content: `Location, location, location – it has been the founding myth of epidemiology since John Snow took addresses from cholera victims, put them on a map of London, traced the cholera outbreak to Soho and turned off the contaminated pump. And yet a century and a half after Snow’s breakthrough, cholera and other diseases continue to overrun the world. Part of the reason? A lack of basic maps.
 
@@ -436,7 +436,7 @@ To quote the World Bank: "Mobile applications not only empower individual users,
 	{
 		Title:        "A #WASH Project Cleans Up Nairobi's Slum",
 		Slug:         "a-wash-project-cleans-up-nairobis-slum",
-		FeatureImage: "",
+		FeatureImage: "http://s.newsweek.com/sites/www.newsweek.com/files/styles/headline/public/2014/11/07/1114sowetowater04.jpg?itok=rN9IkDoH",
 		Excerpt:      "",
 		Content: `Waterborne diseases (like cholera, diarrhea, hepatitis A and typhoid) are rampant in the poor neighborhoods of Nairobi (and in similar locations around the world), particularly among young children: The [World Health Organization says](http://whqlibdoc.who.int/publications/2008/9789241596435_eng.pdf) 3.4 million people die every year from water-related disease, making it the leading cause of disease-related death in the world.
 
@@ -447,7 +447,7 @@ To quote the World Bank: "Mobile applications not only empower individual users,
 	{
 		Title:        "Liberia #mobile text campaign finds #Ebola behind food price hikes",
 		Slug:         "liberia-mobile-text-campaign-finds-ebola-behind-food-price-hikes",
-		FeatureImage: "",
+		FeatureImage: "http://gbcghana.com/kitnes/data/2014/11/14/1.1896593.jpg",
 		Excerpt:      "",
 		Content: `"Mobile data collection is quick, and also it's an advantage in a fast-breaking crisis such as the Ebola outbreak….The households are affected by food insecurity because of the Ebola outbreak.”
 
@@ -467,7 +467,7 @@ To quote the World Bank: "Mobile applications not only empower individual users,
 	{
 		Title:        "Real time #map could predict and prevent #malaria",
 		Slug:         "real-time-map-could-predict-and-prevent-malaria",
-		FeatureImage: "",
+		FeatureImage: "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/10/22/1414000467036/68a77451-1ea9-48d7-9e4a-4603f2d18564-460x276.jpeg",
 		Excerpt:      "",
 		Content: `Epidemiologists at the University of California are developing a tool that uses rainfall and other factors to forecast outbreaks
 
@@ -546,7 +546,7 @@ furthering the strategic goals defined in the GIS Strategy.
 	{
 		Title:        "Gnucoop and GIS applications",
 		Slug:         "gnucoop-and-gis-applications",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2015/01/sirvtab-1024x477.png",
 		Excerpt:      "",
 		Content: `In 2013 in Haiti, Gnucoop supported COOPI on the development of a webGIS platform,  namely SIRV-TAB, to help the municipality of Tabarre (in Port-au-Prince) and the National Civil Protection in locating resources, identifying critical issues, designing urban plans and understanding local vulnerabilities in order to increase population preparedness towards natural disasters and help managing crisis. The platform has been developed based on OpenGeo suite (GeoServer- OpenLayers and GeoExt) and  it is available at [http://www.sirv.tabarre.ht](http://www.sirv.tabarre.ht/)
 
@@ -567,7 +567,7 @@ More informations here [http://sirv.tabarre.ht/static/reports/VOLUME_5_SIRV-TAB_
 	{
 		Title:        "Off the map- Data and development",
 		Slug:         "off-the-map-data-and-development",
-		FeatureImage: "",
+		FeatureImage: "http://cdn.static-economist.com/sites/default/files/imagecache/original-size/images/print-edition/20141115_IRC227.png",
 		Excerpt:      "",
 		Content: `A group of charities including MSF, Red Cross and HOT unveiled MissingMaps.org, a joint initiative to produce free, detailed maps of cities across the developing world—before humanitarian crises erupt, not during them.
 
@@ -578,7 +578,7 @@ More informations here [http://sirv.tabarre.ht/static/reports/VOLUME_5_SIRV-TAB_
 	{
 		Title:        "HARNESSING THE DATAREVOLUTION: THREE GOALS TO BETTER IMPROVE DEVELOPMENT OUTCOMES",
 		Slug:         "harnessing-the-datarevolution-three-goals-to-better-improve-development-outcomes",
-		FeatureImage: "",
+		FeatureImage: "http://aiddata.org/sites/default/files/styles/img-normal/public/inline/9524319701_677d076040_z.jpg?itok=RFm1UzFv",
 		Excerpt:      "",
 		Content: `First, data at the project- and activity- level must be publicly accessible in a format that people can understand, use and compare.
 
@@ -593,7 +593,7 @@ Third, citizens, public officials and scholars must have mapping tools to visual
 	{
 		Title:        "What About #technology And #Development?",
 		Slug:         "what-about-technology-and-development",
-		FeatureImage: "",
+		FeatureImage: "http://dissidentvoice.org/wp-content/themes/dissident/images/header.jpg",
 		Excerpt:      "",
 		Content: `Large technological (socio-technical) systems might absolutely affect development for the better. This especially holds for focusing on the application of information and communication technologies (ICTs) via global efforts on international development in urban as well as rural areas. This not only challenges current methods for approaching and engendering development; it emphasizes the need for a newness of ideas, and new expertise, too.
 
@@ -604,7 +604,7 @@ Third, citizens, public officials and scholars must have mapping tools to visual
 	{
 		Title:        "Gnucoop and mhealth - Madagascar",
 		Slug:         "gnucoop-and-mhealth-madagascar",
-		FeatureImage: "",
+		FeatureImage: "http://photos.jsi.com/Photos/ZW/13363.jpg",
 		Excerpt:      "",
 		Content: `In 2013 in Madagascar, Gnucoop deployed for COOPI (Cooperazione Internazionale) and Medecins du Monde (MdM), an Ushahidi platform in order to monitor levels of drug stock in the health centres (CSB, centres de santé de base) in the region of Sambava in the north-east of Madagascar.
 
@@ -629,7 +629,7 @@ The webplatform is available at the following link: [http://ushahidi.gnucoop.com
 	{
 		Title:        "Gnucoop and mhealth - Malawi",
 		Slug:         "gnucoop-and-mhealth-malawi",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2014/12/mhealth.jpg",
 		Excerpt:      "",
 		Content: `In rural areas, access to fast and accurate medical information can be an issue. This is particularly important in time of emergencies, such as during disease outbreaks or natural disasters, when timely information can save lives.
 
@@ -685,7 +685,7 @@ Most of the projects published on ‘Produzioni dal basso’ are submitted by si
 	{
 		Title:        "DISCOVER Project MALAWI",
 		Slug:         "discover-project-malawi",
-		FeatureImage: "",
+		FeatureImage: "http://discover.trik.cc/images/home1.jpg",
 		Excerpt:      "",
 		Content: `In 2013, Gnucoop has developed for COOPI (Cooperazione Internazionale) a mobile phone/web application system in order to collect information about some of the activities run within the Discover project.
 
@@ -759,7 +759,7 @@ Smartphone-enabled services to provide deeper functionality and richer sources o
 	{
 		Title:        "Ushahidi Milan meetup - July 2015",
 		Slug:         "ushahidi-milan-meetup-july-2015",
-		FeatureImage: "",
+		FeatureImage: "http://www.ushahidi.com/uploads/post-images/_postFeaturedImage/19903220592_4a9e7d0d39_z-e1438066895793.jpg",
 		Excerpt:      "",
 		Content: `This July we partecipated to a community training and meet-up in Milan, Italy, organized by Ushahidi. 
 Ushahidi has an exceptionally strong user-base in Italy: there have been 165 separate deployments of Ushahidi and many deployers actively contribute to our software and documentation. Milan is also a member of the Rockefeller Foundation’s 100 Resilient Cities challenge and served as an ideal testing ground to see how Ushahidi can develop programs that include direct interaction with our users. The value of engaging communities with in-person meet-ups and workshops goes beyond training users about our tools, but also creates synergy by providing a forum for people who may be working on the same problems to meet and begin sharing knowledge.
