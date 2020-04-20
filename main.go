@@ -3,7 +3,6 @@ package main
 import (
 	"bytes"
 	"encoding/json"
-	"encoding/xml"
 	"flag"
 	"fmt"
 	"io"
@@ -15,16 +14,8 @@ import (
 	"strings"
 )
 
-type Blog struct {
-	Articles []Article `xml:"channel>item"`
-}
-
 type Article struct {
-	Title        string `xml:"title"`
-	Slug         string `xml:"-"`
-	FeatureImage string `xml:"featureImage"`
-	Excerpt      string `xml:"excerpt"`
-	Content      string `xml:"content"`
+	Title, Slug, FeatureImage, Excerpt, Content string
 }
 
 func slugOf(title string) string {
@@ -56,33 +47,6 @@ func main() {
 	flag.StringVar(&token, "token", "", "auth token")
 	flag.Parse()
 	log.SetFlags(0)
-
-	var blogg Blog
-	f, err := os.Open("gnucoop_blog.xml")
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer f.Close()
-	dec := xml.NewDecoder(f)
-	err = dec.Decode(&blogg)
-	if err != nil {
-		log.Fatal(err)
-	}
-	log.Println(blogg.Articles[0])
-	for i := range blog {
-		article := &blog[i]
-		article.FeatureImage = findFeatureImage(&blogg, article.Title)
-	}
-	dumpBlog()
-}
-
-func findFeatureImage(b *Blog, title string) string {
-	for _, article := range b.Articles {
-		if article.Title == title {
-			return article.FeatureImage
-		}
-	}
-	return ""
 }
 
 func downloadImages() {
@@ -148,19 +112,6 @@ func dumpBlog() {
 		f.WriteString("\t},\n")
 	}
 	f.WriteString("}\n")
-}
-
-func readBlogJson() {
-	f, err := os.Open("gnucoop_blog.json")
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer f.Close()
-	dec := json.NewDecoder(f)
-	err = dec.Decode(&blog)
-	if err != nil {
-		log.Fatal(err)
-	}
 }
 
 func postArticle(article *Article) {
