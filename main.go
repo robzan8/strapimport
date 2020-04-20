@@ -48,21 +48,28 @@ func main() {
 	flag.Parse()
 	log.SetFlags(0)
 
-	imgSrcExp, err := regexp.Compile(`!\[\]\(([^\)]+)\)`)
-	if err != nil {
-		log.Fatal(err)
-	}
 	for i := range blog {
-		article := &blog[i]
-		if article.FeatureImage != "" {
+		src := blog[i].FeatureImage
+		if src == "" {
 			continue
 		}
-		matches := imgSrcExp.FindAllStringSubmatch(article.Content, -1)
-		if len(matches) > 0 {
-			article.FeatureImage = matches[0][1]
+		resp, err := http.Get(src)
+		if err != nil {
+			log.Println(err)
+			continue
 		}
+		defer resp.Body.Close()
+		name := imageName(src)
+		f, err := os.Create("feature_images/" + name)
+		if err != nil {
+			log.Fatal(err)
+		}
+		_, err = io.Copy(f, resp.Body)
+		if err != nil {
+			log.Fatal(err)
+		}
+		log.Printf("Downloaded: %s\n", name)
 	}
-	dumpBlog()
 }
 
 func downloadImages() {
