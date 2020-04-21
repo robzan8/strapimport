@@ -3,7 +3,6 @@ package main
 import (
 	"bytes"
 	"encoding/json"
-	"encoding/xml"
 	"flag"
 	"fmt"
 	"io"
@@ -58,23 +57,9 @@ func main() {
 	flag.Parse()
 	log.SetFlags(0)
 
-	var blogg Blog
-	f, err := os.Open("gnucoop_blog.xml")
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer f.Close()
-	dec := xml.NewDecoder(f)
-	err = dec.Decode(&blogg)
-	if err != nil {
-		log.Fatal(err)
-	}
-	log.Println(blogg.Articles[0])
 	for i := range blog {
-		article := &blog[i]
-		article.PublishDate = findPublishDate(&blogg, article.Title)
+		postArticle(&blog[i])
 	}
-	dumpBlog()
 }
 
 func findPublishDate(b *Blog, title string) string {
