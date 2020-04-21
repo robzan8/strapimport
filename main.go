@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"encoding/xml"
 	"flag"
 	"fmt"
 	"io"
@@ -14,8 +15,17 @@ import (
 	"strings"
 )
 
+type Blog struct {
+	Articles []Article `xml:"channel>item"`
+}
+
 type Article struct {
-	Title, Slug, FeatureImage, Excerpt, Content string
+	Title        string `xml:"title"`
+	Slug         string `xml:"-"`
+	PublishDate  string `xml:"post_date"`
+	FeatureImage string `xml:"featureImage"`
+	Excerpt      string `xml:"excerpt"`
+	Content      string `xml:"content"`
 }
 
 func slugOf(title string) string {
@@ -48,28 +58,32 @@ func main() {
 	flag.Parse()
 	log.SetFlags(0)
 
-	for i := range blog {
-		src := blog[i].FeatureImage
-		if src == "" {
-			continue
-		}
-		resp, err := http.Get(src)
-		if err != nil {
-			log.Println(err)
-			continue
-		}
-		defer resp.Body.Close()
-		name := imageName(src)
-		f, err := os.Create("feature_images/" + name)
-		if err != nil {
-			log.Fatal(err)
-		}
-		_, err = io.Copy(f, resp.Body)
-		if err != nil {
-			log.Fatal(err)
-		}
-		log.Printf("Downloaded: %s\n", name)
+	var blogg Blog
+	f, err := os.Open("gnucoop_blog.xml")
+	if err != nil {
+		log.Fatal(err)
 	}
+	defer f.Close()
+	dec := xml.NewDecoder(f)
+	err = dec.Decode(&blogg)
+	if err != nil {
+		log.Fatal(err)
+	}
+	log.Println(blogg.Articles[0])
+	for i := range blog {
+		article := &blog[i]
+		article.PublishDate = findPublishDate(&blogg, article.Title)
+	}
+	dumpBlog()
+}
+
+func findPublishDate(b *Blog, title string) string {
+	for _, article := range b.Articles {
+		if article.Title == title {
+			return article.PublishDate[0:10]
+		}
+	}
+	return ""
 }
 
 func downloadImages() {
@@ -127,6 +141,7 @@ func dumpBlog() {
 		f.WriteString("\t{\n")
 		fmt.Fprintf(f, "\t\tTitle:        %q,\n", article.Title)
 		fmt.Fprintf(f, "\t\tSlug:         %q,\n", article.Slug)
+		fmt.Fprintf(f, "\t\tPublishDate:  %q,\n", article.PublishDate)
 		fmt.Fprintf(f, "\t\tFeatureImage: %q,\n", article.FeatureImage)
 		fmt.Fprintf(f, "\t\tExcerpt:      %q,\n", article.Excerpt)
 		f.WriteString("\t\tContent: `")
