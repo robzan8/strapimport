@@ -5,7 +5,7 @@ var blog = []Article{
 		Title:        "In Uganda ci sono più cellulari che lampadine.",
 		Slug:         "in-uganda-ci-sono-pi-cellulari-che-lampadine",
 		PublishDate:  "2014-10-21",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `Il 30 ottobre ONG 2.0 e CISV presentano il nuovo sito di ONG 2.0 in un evento in streaming con interventi dal Senegal, dal Burkina Faso, dalla Colombia e dall’Italia.
 
@@ -15,7 +15,7 @@ La cooperazione è cambiata. [#aggiornalavaligia](https://twitter.com/hashtag/ag
 		Title:        "More than 70% of Teachers Increase Confidence in Delivering Interesting Lessons through ICT",
 		Slug:         "more-than-70-of-teachers-increase-confidence-in-delivering-interesting-lessons-through-ict",
 		PublishDate:  "2014-10-22",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `Introducing ICT in schools can help reduce the time needed for the most tedious tasks, diminish the isolation factor in remote rural schools and enhance professional development opportunities.
 
@@ -27,7 +27,7 @@ See more at:
 		Title:        "Gnucoop and mhealth - Malawi",
 		Slug:         "gnucoop-and-mhealth-malawi",
 		PublishDate:  "2016-07-11",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `In rural areas, access to fast and accurate medical information can be an issue. This is particularly important in time of emergencies, such as during disease outbreaks or natural disasters, when timely information can save lives.
 
@@ -130,7 +130,7 @@ During the three days, after a plenary session, Gnuoop took part to different wo
 		Title:        "30 anni di convenzione sui diritti dell’infanzia - anche la tecnologia può aiutare",
 		Slug:         "30-anni-di-convenzione-sui-diritti-dellinfanzia-anche-la-tecnologia-pu-aiutare",
 		PublishDate:  "2019-11-21",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `Anche a Gnucoop festeggiamo l’anniversario della convenzione sui diritti dell’infanzia, raccontando la nostra piccola esperienza in ambito educativo. Nell’ultimo anno abbiamo avuto il piacere di collaborare con [CIAI (Centro Italiano Aiuti all’Infanzia)](http://www.ciai.it/) su due importanti progetti finalizzati a sostenere l’inserimento scolastico di bambini particolarmente vulnerabili in Africa, in particolare in Burkina Faso e in Etiopia. 
 
@@ -150,7 +150,7 @@ Un'app per le scuole del Burkina Faso e una piattaforma per il recupero delle ra
 		Title:        "When Innovation Leads to a Low-Tech Solution",
 		Slug:         "when-innovation-leads-to-a-lowtech-solution",
 		PublishDate:  "2014-10-22",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `Now is a very exciting time for technology and global health delivery.
 
@@ -174,7 +174,7 @@ See more at:
 		Title:        "Mobile Health Technology: Key Practices for DRR Implementers #ict4d",
 		Slug:         "mobile-health-technology-key-practices-for-drr-implementers-ict4d",
 		PublishDate:  "2014-10-28",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `The Mobile Health Technology: Key Practices for DRR Implementers resource toolkit presented here provides support to DRR practitioners in the development and management of mobile-health projects in the context of DRR. Particularly, the tool is based on the lesson-learnt from COOPI’s five years of experience in the use of mobile technology applied to the health sector in rural context in the southern Africa region with the support of Gnucoop.
 
@@ -196,7 +196,7 @@ See more at:
 		Title:        "Ebola Fighters Enlist Texts in Bid to Curb Outbreak",
 		Slug:         "ebola-fighters-enlist-texts-in-bid-to-curb-outbreak",
 		PublishDate:  "2014-10-24",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `Aid workers in Liberia tried out a new tool this week to contain the world’s worst Ebola outbreak: the text message. #ict4d
 
@@ -230,7 +230,7 @@ See more at:
 		Title:        "#Humanitarianism in the Age of Cyber-warfare",
 		Slug:         "humanitarianism-in-the-age-of-cyberwarfare",
 		PublishDate:  "2014-10-28",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `New information and communication technologies in humanitarian response create opportunities for improved humanitarian response as well as risks to the privacy and security of affected communities
 
@@ -240,7 +240,7 @@ See more at:
 		Title:        "Telecentre Women program wins GEM-Tech Award for bridging #ICT #gender gap",
 		Slug:         "telecentre-women-program-wins-gemtech-award-for-bridging-ict-gender-gap",
 		PublishDate:  "2014-10-29",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `Jointly organized by UN Women and the International Telecommunication Union (ITU), the GEM-Tech Awards recognize the outstanding achievements of organizations and individuals in the area of gender equality and mainstreaming through.
 
@@ -266,7 +266,7 @@ Read the complete report [http://bit.ly/1wcjgeu](http://bit.ly/1wcjgeu)`,
 		Title:        "A 3W web platform in the South Eastern Africa Region #ict4d",
 		Slug:         "a-3w-web-platform-in-the-south-eastern-africa-region-ict4d",
 		PublishDate:  "2014-10-29",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `A 3W web platform in the South Eastern Africa Region
 
@@ -328,7 +328,7 @@ Typical production-related uses of ICTs touch 5% of people but make a 95% differ
 		Title:        "Can mobile phones help to improve #foodsecurity?#ict4d",
 		Slug:         "can-mobile-phones-help-to-improve-foodsecurityict4d",
 		PublishDate:  "2014-11-04",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `ICT can bring about improvements in almost all areas, including health, education, financial services, and agriculture and food security.
 
@@ -358,7 +358,7 @@ Electricity supply in Kenya is unreliable and regular electricity is mostly avai
 		Title:        "WB Recognises IICD’s Partner for Innovation in #Health Care for the Poor",
 		Slug:         "wb-recognises-iicds-partner-for-innovation-in-health-care-for-the-poor",
 		PublishDate:  "2014-11-05",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `The project train and work with Community Health Workers (CHWs) to promote preventable health measures and provide timely, proactive healthcare to poor populations in Mali.
 
@@ -370,7 +370,7 @@ The MAMMA app allows CHWs to quickly collect, register and instantaneously trans
 		Title:        "Initiative Mainstreams Climate Change Issues and #ICT Solutions in Ethiopia",
 		Slug:         "initiative-mainstreams-climate-change-issues-and-ict-solutions-in-ethiopia",
 		PublishDate:  "2014-11-06",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `CSI realises the urgency of mainstreaming climate smart information in Ethiopia to cultivate resilience to climatic shocks and to strengthen and diversify livelihoods.
 
@@ -422,7 +422,7 @@ To quote the World Bank: "Mobile applications not only empower individual users,
 		Title:        "#ICT vital to achieving U.N. #sustainability goal: ITU official",
 		Slug:         "ict-vital-to-achieving-un-sustainability-goal-itu-official",
 		PublishDate:  "2014-11-10",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `The ICT sectors can act as a "trigger for increasing productivity and competitiveness among small-and-medium enterprises," and also "increase literacy and engagement of people living in poverty," which will help accomplish the SDG's primary objective of ending "poverty in all its forms everywhere."
 
@@ -432,7 +432,7 @@ To quote the World Bank: "Mobile applications not only empower individual users,
 		Title:        "UNHCR App for Syrian Refugees",
 		Slug:         "unhcr-app-for-syrian-refugees",
 		PublishDate:  "2014-11-12",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `PeaceGeeks - in partnership with Affinity Bridge and GNU Co-op - has developed an app to support the 620,000+ Syrian refugees living in Jordan so they can get better access to information on critical services provided by over 60 humanitarian organizations who collectively have locations (both fixed and mobile) in over 420 areas across Jordan.
 
@@ -444,11 +444,9 @@ To quote the World Bank: "Mobile applications not only empower individual users,
 		Title:        "SANTE & REDUCTION DES RISQUES DE CATASTROPHES",
 		Slug:         "sante-reduction-des-risques-de-catastrophes",
 		PublishDate:  "2014-11-12",
-		FeatureImage: "http://i4.rgstatic.net/publication/265412242_SANTE__REDUCTION_DES_RISQUES_DE_CATASTROPHES-RAPPORT_DE_CAPITALISATION_Programme_de_Mdecins_du_Monde__Madagascar_2008-2013/links/540ddba00cf2df04e756a85e/preview.png",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `This report capitalizes on a DIPECHO programme led by Médecins du Monde in Madagascar between 2008 and 2013. Based on conceptual litterature and examples from the field, it explores links between DRR and health for a humanitarian actor.
-
-![](http://i4.rgstatic.net/publication/265412242_SANTE__REDUCTION_DES_RISQUES_DE_CATASTROPHES-RAPPORT_DE_CAPITALISATION_Programme_de_Mdecins_du_Monde__Madagascar_2008-2013/links/540ddba00cf2df04e756a85e/preview.png)
 
 [http://bit.ly/1ulM7fF](http://bit.ly/1ulM7fF) and more [http://bit.ly/1EAsvYp](http://bit.ly/1EAsvYp)`,
 	},
@@ -492,7 +490,7 @@ To quote the World Bank: "Mobile applications not only empower individual users,
 		Title:        "ITU, UN Women celebrate power of #ICT to transform women’s lives",
 		Slug:         "itu-un-women-celebrate-power-of-ict-to-transform-womens-lives",
 		PublishDate:  "2014-11-18",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `The GEM-TECH Awards recognize the outstanding achievements of organizations and individuals in the area of women’s empowerment, through ICT
 
@@ -516,7 +514,7 @@ This new open platform tool could allow malaria control programs to map the loca
 		Title:        "#ICT to aid DRC indigenous people @Biztechafrica",
 		Slug:         "ict-to-aid-drc-indigenous-people-biztechafrica",
 		PublishDate:  "2014-11-19",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `The Moabi Project is a powerful online tool for tracking information spatially and a collaborative mapping system that builds a community of users to share, edit, and discuss issues affecting the environment.
 
@@ -526,7 +524,7 @@ This new open platform tool could allow malaria control programs to map the loca
 		Title:        "Going Digital: 5 lessons for charities developing technology–based innovations",
 		Slug:         "going-digital-5-lessons-for-charities-developing-technologybased-innovations",
 		PublishDate:  "2014-11-20",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `Key Findings
 
@@ -542,7 +540,7 @@ To help overcome these issues, we need to share more examples of best-practice a
 		Title:        "Organizational Guide to #ICT4D",
 		Slug:         "organizational-guide-to-ict4d",
 		PublishDate:  "2014-11-21",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `This guide gives practical guidance to building organizational capacity in ICT4D. Drawing from the experience of the international development community, this guide connects established principles with processes for implementing new technology.
 
@@ -556,7 +554,7 @@ To help overcome these issues, we need to share more examples of best-practice a
 		Title:        "Is There a Role for Mobiles to Support Sustainable Agriculture in Africa?",
 		Slug:         "is-there-a-role-for-mobiles-to-support-sustainable-agriculture-in-africa",
 		PublishDate:  "2014-11-25",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `The rapid growth in mobile phone penetration in developing countries offers a significant opportunity to support a transformation in agricultural development and food systems, but without a co-operative and focused effort across different stakeholder groups - local practitioners, private sector partners, donors, expert institutions, and national governments - the potential for mobiles to empower sustainable agricultural development is unlikely to be maximized.
 
@@ -566,7 +564,7 @@ To help overcome these issues, we need to share more examples of best-practice a
 		Title:        "AID WORKER DESCRIBES LIFE OFF THE MAP",
 		Slug:         "aid-worker-describes-life-off-the-map",
 		PublishDate:  "2014-11-28",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `The Missing Maps project is urging volunteers to go online and help map some of the world’s most vulnerable countries. This work will make sure communities are better placed to withstand and recover from disaster.
 
@@ -576,7 +574,7 @@ To help overcome these issues, we need to share more examples of best-practice a
 		Title:        "GIS support for the MSF Ebola response in Guinea in 2014",
 		Slug:         "gis-support-for-the-msf-ebola-response-in-guinea-in-2014",
 		PublishDate:  "2014-11-28",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `This case study aims to elaborate whether the GIS officer’s mission
 to Guinea has succeeded in supporting the emergency response and
@@ -705,7 +703,7 @@ For more tips on mhealth projects, read the toolkit:
 		Title:        "Humanitarianism in the network age",
 		Slug:         "humanitarianism-in-the-network-age",
 		PublishDate:  "2015-01-15",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `To move into the network age, humanitarians will have to embrace constant adaptation.
 Much of this adaptation will occur outside traditional humanitarian assistance forums.
@@ -717,7 +715,7 @@ The document is well summarized by Patrick Meier [on this blog post](http://bit.
 		Title:        "#Crowdfunding for cooperation projects?",
 		Slug:         "crowdfunding-for-cooperation-projects",
 		PublishDate:  "2015-01-17",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `In 2014, Gnucoop developed the Produzioni dal basso (PDB) web application ([www.produzionidalbasso.com](http://www.produzionidalbasso.com)), a crowdfunding platform, that allows registered users to propose and fundraise money for their projects. The system is very user-friendly. Anyone can propose a project or decide to support it through different funding methodologies.
 
@@ -755,7 +753,7 @@ Have a browse through the website and ENJOY IT! [http://discover.trik.cc/](http:
 		Title:        "The \"Smartification\" of Humanitarian Response",
 		Slug:         "the-smartification-of-humanitarian-response",
 		PublishDate:  "2015-04-13",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `There is still a need to make humanitarian data easier to find and to make it useful for analysis purposes. How can a decision-maker quickly track the trend of a crisis in a certain area? How can she compare the incidence between two regions? Information that resides in reports and documents is not always standardized, comparable, or reliable. Enter the need for smartification of humanitarian information management.
 The ubiquity of technology in general and phones in particular creates a fantastic opportunity for improvements in data collection.
@@ -771,7 +769,7 @@ It is, after all, not about having and storing information but about using it to
 		Title:        "Digital in Development Programmes",
 		Slug:         "digital-in-development-programmes",
 		PublishDate:  "2015-04-23",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `Digital technologies can add value to our development interventions to help us reach greater numbers of poor and marginalised people more quickly and cost-effectively.
 The rapid expansion of mobile phones and internet access in poor countries offers unique opportunities to stimulate growth, enhance peoples’ experience of services and as citizens, involve them in our work, cut fraud, help them hold governments and other institutions to account and support them better in humanitarian emergencies.
@@ -795,7 +793,7 @@ Emerging technologies – smartcards, biometrics, 3D printing, Google glass, wea
 		Title:        "Connected Agriculture",
 		Slug:         "connected-agriculture",
 		PublishDate:  "2015-05-29",
-		FeatureImage: "",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2018/05/ong20-turin-may18-1.jpg",
 		Excerpt:      "",
 		Content: `India is one of the world’s largest food producers with more than 200 million people currently estimated to work in agriculture, around 100 million of them farmers and the remainder working as agricultural labourers. In India, around 62% of farmers own less than one hectare of land, significantly increasing their exposure to the effects of crop failure, pests, disease and volatile market pricing.
 
