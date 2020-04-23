@@ -8,6 +8,7 @@ import (
 	"io"
 	"io/ioutil"
 	"log"
+	"mime/multipart"
 	"net/http"
 	"os"
 	"regexp"
@@ -50,15 +51,24 @@ var (
 	client http.Client
 )
 
-const postUrl = "https://webdata.gnucoop.io/articles"
+const baseUrl = "https://webdata.gnucoop.io"
 
 func main() {
 	flag.StringVar(&token, "token", "", "auth token")
 	flag.Parse()
 	log.SetFlags(0)
 
-	for i := range blog {
-		postArticle(&blog[i])
+	dir, err := os.Open("feature_images")
+	if err != nil {
+		log.Fatal(err)
+	}
+	files, err := dir.Readdir(-1)
+	dir.Close()
+	if err != nil {
+		log.Fatal(err)
+	}
+	for _, f := range files {
+		postFeatureImage(f.Name())
 	}
 }
 
@@ -143,7 +153,7 @@ func postArticle(article *Article) {
 		log.Fatal(err)
 	}
 
-	req, err := http.NewRequest("POST", postUrl, bytes.NewReader(body))
+	req, err := http.NewRequest("POST", baseUrl+"/articles", bytes.NewReader(body))
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -166,6 +176,44 @@ func postArticle(article *Article) {
 	}
 }
 
-func postImages() {
+func postFeatureImage(fileName string) {
+	img, err := os.Open("feature_images/" + fileName)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer img.Close()
 
+	var buf bytes.Buffer
+	multiw := multipart.NewWriter(&buf)
+	filew, err := multiw.CreateFormFile("files", fileName)
+	if err != nil {
+		log.Fatal(err)
+	}
+	io.Copy(filew, img)
+	err = multiw.Close()
+	if err != nil {
+		log.Fatal(err)
+	}
+	req, err := http.NewRequest("POST", baseUrl+"/upload", &buf)
+	if err != nil {
+		log.Fatal(err)
+	}
+	req.Header.Add("Content-Type", multiw.FormDataContentType())
+	if token != "" {
+		req.Header.Add("Authorization", "Token "+token)
+	}
+
+	resp, err := client.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer resp.Body.Close()
+	body, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		log.Fatal(err)
+	}
+	if resp.StatusCode != http.StatusOK && resp.StatusCode != http.StatusCreated {
+		log.Fatalf("Image %s: unexpected %d response:\n%s", fileName, resp.StatusCode, body)
+	}
+	log.Printf("%s\n", body)
 }
