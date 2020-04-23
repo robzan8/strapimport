@@ -1717,7 +1717,7 @@ Find out more on [ODK website](http://www.odk.missions-acf.org/rca/)
 		Title:        "Twine platform is growing: from HIS (Health Information System) to Livelihood & Energy sector",
 		Slug:         "twine-platform-is-growing-from-his-health-information-system-to-livelihood-energy-sector",
 		PublishDate:  "2017-08-03",
-		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2017/08/Im-1.png",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2017/08/Im-1.jpg",
 		Excerpt:      "",
 		Content: `According to UNHCR* “*After fleeing war or persecution, the opportunity to work and earn a living is one of the most effective ways people can rebuild their lives in dignity and peace*”.
 *[UNHCR](http://www.unhcr.org/) helps the displaced to achieve self-reliance by building their skills and knowledge, as well as providing access to the resources, training, assets, inputs, services and markets they need.
@@ -1795,7 +1795,7 @@ Since its foundation Gnucoop has always believed that no real innovation comes w
 		Title:        "ICT4Ag: The Experience Of Gnucoop",
 		Slug:         "ict4ag-the-experience-of-gnucoop",
 		PublishDate:  "2017-09-08",
-		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2017/09/glossary_magri.png",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2017/09/glossary_magri.jpg",
 		Excerpt:      "",
 		Content: `Intoduction on ICT4Ag
 ![](https://www.gnucoop.com/wp-content/uploads/2017/09/food-market-1024x680.jpg)
@@ -1829,7 +1829,7 @@ Gnucoop can also been carry out field missions to test the application, and moni
 		Title:        "Chatbot: another ICT tool for development?",
 		Slug:         "chatbot-another-ict-tool-for-development",
 		PublishDate:  "2017-10-12",
-		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2017/10/glossary_chatbot1.png",
+		FeatureImage: "https://www.gnucoop.com/wp-content/uploads/2017/10/glossary_chatbot1.jpg",
 		Excerpt:      "",
 		Content: `A chatbot (also known as a talkbot, chatterbot, Bot, IM bot, interactive agent, or Artificial Conversational Entity) is a computer program which conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test. Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. Some chatterbots use sophisticated natural language processing systems, but many simpler systems scan for keywords within the input, then pull a reply with the most matching keywords, or the most similar wording pattern, from a database.
 
