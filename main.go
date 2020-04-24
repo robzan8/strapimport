@@ -16,9 +16,9 @@ import (
 )
 
 type Article struct {
-	Title, Slug, PublishDate string
-	FeatureImage             string
-	Excerpt, Content         string
+	Title, Slug, PublishDate, Excerpt, Content string
+
+	FeatureImage FeatureImage
 }
 
 type FeatureImage struct {
@@ -37,7 +37,7 @@ type FeatureImage struct {
 }
 
 func slugOf(title string) string {
-	punct, err := regexp.Compile("[^a-zA-Z0-9 ]+")
+	punct, err := regexp.Compile(`[^a-zA-Z0-9 ]+`)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -66,22 +66,11 @@ func main() {
 	flag.Parse()
 	log.SetFlags(0)
 
-	dir, err := os.Open("feature_images")
-	if err != nil {
-		log.Fatal(err)
-	}
-	files, err := dir.Readdir(-1)
-	dir.Close()
-	if err != nil {
-		log.Fatal(err)
-	}
-	for _, f := range files {
-		postFeatureImage(f.Name())
-	}
+	dumpBlog()
 }
 
 func downloadImages() {
-	imgSrcExp, err := regexp.Compile(`<img [^>]*src="([^"]+)"`)
+	imgSrcExp, err := regexp.Compile(`!\[\]\(([^\)]+)\)`)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -136,7 +125,7 @@ func dumpBlog() {
 		fmt.Fprintf(f, "\t\tTitle:        %q,\n", article.Title)
 		fmt.Fprintf(f, "\t\tSlug:         %q,\n", article.Slug)
 		fmt.Fprintf(f, "\t\tPublishDate:  %q,\n", article.PublishDate)
-		fmt.Fprintf(f, "\t\tFeatureImage: %q,\n", article.FeatureImage)
+		fmt.Fprintf(f, "\t\tFeatureImage: FeatureImage{Name: %q},\n", article.FeatureImage.Name)
 		fmt.Fprintf(f, "\t\tExcerpt:      %q,\n", article.Excerpt)
 		f.WriteString("\t\tContent: `")
 		f.WriteString(article.Content)
