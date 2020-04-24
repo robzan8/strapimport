@@ -66,7 +66,10 @@ func main() {
 	flag.Parse()
 	log.SetFlags(0)
 
-	dumpBlog()
+	readFeatureImages()
+	for i := range blog {
+		postArticle(&blog[i])
+	}
 }
 
 func downloadImages() {
@@ -133,6 +136,32 @@ func dumpBlog() {
 		f.WriteString("\t},\n")
 	}
 	f.WriteString("}\n")
+}
+
+func readFeatureImages() {
+	f, err := os.Open("feature_images.json")
+	if err != nil {
+		log.Fatal(err)
+	}
+	dec := json.NewDecoder(f)
+	var images []FeatureImage
+	err = dec.Decode(&images)
+	if err != nil {
+		log.Fatal(err)
+	}
+	for i := range blog {
+		article := &blog[i]
+		article.FeatureImage = findFeatureImage(images, article.FeatureImage.Name)
+	}
+}
+
+func findFeatureImage(images []FeatureImage, name string) FeatureImage {
+	for _, img := range images {
+		if img.Name == name {
+			return img
+		}
+	}
+	panic(name + " not found")
 }
 
 func postArticle(article *Article) {

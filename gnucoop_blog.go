@@ -162,7 +162,7 @@ See more at:
 		Title:        "Made in Africa - a true story about digital innovation",
 		Slug:         "made-in-africa-a-true-story-about-digital-innovation",
 		PublishDate:  "2014-10-23",
-		FeatureImage: FeatureImage{Name: "20140801075636-1450304_536649559757269_1500006690_n.jpg?1406904996"},
+		FeatureImage: FeatureImage{Name: "20140801075636-1450304_536649559757269_1500006690_n.jpg"},
 		Excerpt:      "",
 		Content: `A digital revolution offering broad participation and a multitude of new opportunities.
 
@@ -302,7 +302,7 @@ To view our data management project, click here: [https://www.gnucoop.com/gic-p
 		Title:        "How The Tech Sector Can Help Stop Ebola #ict4d",
 		Slug:         "how-the-tech-sector-can-help-stop-ebola-ict4d",
 		PublishDate:  "2014-10-30",
-		FeatureImage: FeatureImage{Name: "screen-shot-2014-10-29-at-9-58-23-am.png?w=738"},
+		FeatureImage: FeatureImage{Name: "screen-shot-2014-10-29-at-9-58-23-am.png"},
 		Excerpt:      "",
 		Content: `In our highly interconnected world, stopping Ebola is on everyone’s mind. The tech community has a significant role to play in the response because it offers solutions that can scale at the same rate as Ebola’s exponential growth.
 
@@ -314,7 +314,7 @@ To view our data management project, click here: [https://www.gnucoop.com/gic-p
 		Title:        "#ICT4D’s 95:5 Rule",
 		Slug:         "ict4ds-955-rule",
 		PublishDate:  "2014-10-31",
-		FeatureImage: FeatureImage{Name: "95-5-graphic.jpg?w=595&amp;h=394"},
+		FeatureImage: FeatureImage{Name: "95-5-graphic.jpg"},
 		Excerpt:      "",
 		Content: `Typical consumption-related uses of ICTs touch 95% of people but make only a 5% difference to their livelihoods.  This covers “intensive” application of ICTs: their use to intensify an existing livelihood.
 
@@ -466,7 +466,7 @@ To quote the World Bank: "Mobile applications not only empower individual users,
 		Title:        "A #WASH Project Cleans Up Nairobi's Slum",
 		Slug:         "a-wash-project-cleans-up-nairobis-slum",
 		PublishDate:  "2014-11-14",
-		FeatureImage: FeatureImage{Name: "1114sowetowater04.jpg?itok=rN9IkDoH"},
+		FeatureImage: FeatureImage{Name: "1114sowetowater04.jpg"},
 		Excerpt:      "",
 		Content: `Waterborne diseases (like cholera, diarrhea, hepatitis A and typhoid) are rampant in the poor neighborhoods of Nairobi (and in similar locations around the world), particularly among young children: The [World Health Organization says](http://whqlibdoc.who.int/publications/2008/9789241596435_eng.pdf) 3.4 million people die every year from water-related disease, making it the leading cause of disease-related death in the world.
 
@@ -620,7 +620,7 @@ More informations here [http://sirv.tabarre.ht/static/reports/VOLUME_5_SIRV-TAB_
 		Title:        "HARNESSING THE DATAREVOLUTION: THREE GOALS TO BETTER IMPROVE DEVELOPMENT OUTCOMES",
 		Slug:         "harnessing-the-datarevolution-three-goals-to-better-improve-development-outcomes",
 		PublishDate:  "2014-12-02",
-		FeatureImage: FeatureImage{Name: "9524319701_677d076040_z.jpg?itok=RFm1UzFv"},
+		FeatureImage: FeatureImage{Name: "9524319701_677d076040_z.jpg"},
 		Excerpt:      "",
 		Content: `First, data at the project- and activity- level must be publicly accessible in a format that people can understand, use and compare.
 
