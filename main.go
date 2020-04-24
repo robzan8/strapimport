@@ -15,17 +15,25 @@ import (
 	"strings"
 )
 
-type Blog struct {
-	Articles []Article `xml:"channel>item"`
+type Article struct {
+	Title, Slug, PublishDate string
+	FeatureImage             string
+	Excerpt, Content         string
 }
 
-type Article struct {
-	Title        string `xml:"title"`
-	Slug         string `xml:"-"`
-	PublishDate  string `xml:"post_date"`
-	FeatureImage string `xml:"featureImage"`
-	Excerpt      string `xml:"excerpt"`
-	Content      string `xml:"content"`
+type FeatureImage struct {
+	Id               int       `json:"id"`
+	Name             string    `json:"name"`
+	Hash             string    `json:"hash"`
+	Sha256           string    `json:"sha256"`
+	Ext              string    `json:"ext"`
+	Mime             string    `json:"mime"`
+	Size             float64   `json:"size"`
+	Url              string    `json:"url"`
+	Provider         string    `json:"provider"`
+	ProviderMetadata *struct{} `json:"provider_metadata"` // always nil
+	CreatedAt        string    `json:"created_at"`
+	UpdatedAt        string    `json:"updated_at"`
 }
 
 func slugOf(title string) string {
@@ -70,15 +78,6 @@ func main() {
 	for _, f := range files {
 		postFeatureImage(f.Name())
 	}
-}
-
-func findPublishDate(b *Blog, title string) string {
-	for _, article := range b.Articles {
-		if article.Title == title {
-			return article.PublishDate[0:10]
-		}
-	}
-	return ""
 }
 
 func downloadImages() {
