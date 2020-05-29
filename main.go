@@ -15,14 +15,20 @@ import (
 	"strings"
 )
 
+type ArticleTags struct {
+	Title string
+	Tags  []string
+}
+
 type Article struct {
 	Title, Slug, PublishDate, Excerpt, Content string
 
 	FeatureImage FeatureImage
-	Tags         []string
+	Tags         []Tag `json:"tags"`
 }
 
 type Tag struct {
+	Id  int    `json:"id"`
 	Tag string `json:"tag"`
 }
 
@@ -71,25 +77,36 @@ func main() {
 	flag.Parse()
 	log.SetFlags(0)
 
-	f, err := os.Open("blog_with_tags.json")
+	f, err := os.Open("articles_tags.json")
 	if err != nil {
 		log.Fatal(err)
 	}
 	dec := json.NewDecoder(f)
-	var articles []Article
-	err = dec.Decode(&articles)
+	var articlesTags []ArticleTags
+	err = dec.Decode(&articlesTags)
 	if err != nil {
 		log.Fatal(err)
 	}
-	tags := make(map[string]bool)
-	for _, article := range articles {
-		for _, tag := range article.Tags {
-			tags[tag] = true
+
+	readFeatureImages()
+
+	for i := range blog {
+		article := &blog[i]
+		tags := findTags(articlesTags, article.Title)
+		for _, t := range tags {
+			article.Tags = append(article.Tags, Tag{Tag: t, Id: tagId[t]})
+		}
+		postArticle(article)
+	}
+}
+
+func findTags(articleTags []ArticleTags, title string) []string {
+	for _, at := range articleTags {
+		if at.Title == title {
+			return at.Tags
 		}
 	}
-	for tag := range tags {
-		postTag(Tag{tag})
-	}
+	panic(title + " not found")
 }
 
 func postTag(tag Tag) {
@@ -283,4 +300,39 @@ func postFeatureImage(fileName string) {
 		log.Fatalf("Image %s: unexpected %d response:\n%s", fileName, resp.StatusCode, body)
 	}
 	log.Printf("%s\n", body)
+}
+
+var tagId = map[string]int{
+	"gnucoop":                   2,
+	"hospitality":               3,
+	"job":                       4,
+	"odi2019":                   5,
+	"refugees":                  6,
+	"tfsummit18":                7,
+	"southsudan":                8,
+	"ict4ag":                    9,
+	"family":                    10,
+	"glossary":                  11,
+	"formazionesviluppo":        12,
+	"livelihood":                13,
+	"unhcr":                     14,
+	"ict4d-2":                   15,
+	"cashvoucher":               16,
+	"ict4refugees":              17,
+	"ict4democracy":             18,
+	"ict4edu":                   19,
+	"services-for-ngos":         20,
+	"mhealth":                   21,
+	"blockchain":                22,
+	"training":                  23,
+	"toc":                       24,
+	"energy":                    25,
+	"ai":                        26,
+	"maps":                      27,
+	"geong2018":                 28,
+	"education":                 29,
+	"nerdglossary":              30,
+	"dataanalysis":              31,
+	"services-for-refugeesngos": 32,
+	"datacollection":            33,
 }
