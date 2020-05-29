@@ -19,6 +19,11 @@ type Article struct {
 	Title, Slug, PublishDate, Excerpt, Content string
 
 	FeatureImage FeatureImage
+	Tags         []string
+}
+
+type Tag struct {
+	Tag string `json:"tag"`
 }
 
 type FeatureImage struct {
@@ -66,10 +71,55 @@ func main() {
 	flag.Parse()
 	log.SetFlags(0)
 
-	readFeatureImages()
-	for i := range blog {
-		postArticle(&blog[i])
+	f, err := os.Open("blog_with_tags.json")
+	if err != nil {
+		log.Fatal(err)
 	}
+	dec := json.NewDecoder(f)
+	var articles []Article
+	err = dec.Decode(&articles)
+	if err != nil {
+		log.Fatal(err)
+	}
+	tags := make(map[string]bool)
+	for _, article := range articles {
+		for _, tag := range article.Tags {
+			tags[tag] = true
+		}
+	}
+	for tag := range tags {
+		postTag(Tag{tag})
+	}
+}
+
+func postTag(tag Tag) {
+	body, err := json.Marshal(tag)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	req, err := http.NewRequest("POST", baseUrl+"/tags", bytes.NewReader(body))
+	if err != nil {
+		log.Fatal(err)
+	}
+	req.Header.Add("Content-Type", "application/json")
+	if token != "" {
+		req.Header.Add("Authorization", "Token "+token)
+	}
+
+	resp, err := client.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer resp.Body.Close()
+	body, err = ioutil.ReadAll(resp.Body)
+	if err != nil {
+		log.Fatal(err)
+	}
+	if resp.StatusCode != http.StatusOK && resp.StatusCode != http.StatusCreated {
+		log.Fatalf("Unexpected response with code %d:\n%s", resp.StatusCode, body)
+	}
+	log.Printf("%s\n", body)
 }
 
 func downloadImages() {
